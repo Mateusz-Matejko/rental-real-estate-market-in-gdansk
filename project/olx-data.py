@@ -20,7 +20,7 @@ time.sleep(2)
 
 def main():
     early_steps()
-    middle_steps()
+    get_listing_links()
     finish()
 
 
@@ -69,48 +69,76 @@ def early_steps():
     time.sleep(1)
 
 
-listings = []
-
-
-def middle_steps():
+def get_listing_links():
+    # waiting for site to load up
     time.sleep(3)
+
+    # !! __NEXT PAGE__ !!
+    # classify the html position for next page button
+    next_page = driver.find_element(By.CLASS_NAME, "pagination-list")\
+        .find_element(By.CSS_SELECTOR, 'a[data-cy="pagination-forward"]')
+    # print(next_page.get_attribute("href"))
+    # input()
+    current_site_opperation()
+
+
+def current_site_opperation():
+    # make sure site is loaded
+    time.sleep(3)
+    # classify the link part of offers
     offers = driver.find_elements(By.CLASS_NAME, "css-19ucd76")
+    # create list of links
+    links_from_current_site = []
     time.sleep(3)
     for offer in offers:
         try:
-            offer.click()
+            link = offer.find_element(By.TAG_NAME, "a").get_attribute("href")
+            links_from_current_site.append(link)
         except:
-            try:
-                next_page = driver.find_element(By.CLASS_NAME, "css-pyu9k9")
-                next_page.click()
-                middle_steps()
-            except:
-                separator("Can't click that shit")
-        listing = {}
-        #click on certain offer
+            pass
+    for link in links_from_current_site:
+        # open new window
         time.sleep(3)
-        price = driver.find_element(By.CLASS_NAME, "css-dcwlyx")
-        listing["Price"] = price.text
-        date_n_tile = driver.find_elements(By.CLASS_NAME, "css-sg1fy9")
-        date = date_n_tile[0]
-        listing["Date"] = date.text.lstrip("Dodane ")
-        title = date_n_tile[1]
-        listing["Title"] = title.text
-        listing["link"] = driver.current_url
-        # description = driver.find_element(By.CLASS_NAME, "css-g5mtbi-Text")
-        # listing["Opis"] = description.text
-        options = driver.find_elements(By.CLASS_NAME, "css-ox1ptj")
-        for option in options:
-            try:
-                k, v = option.text.split(":")
-                listing[k] = v
-            except:
-                listing[option.text] = "Tak"
-        listings.append(listing)
-        time.sleep(5)
-        driver.back()
-        separator("done correctly")
-        time.sleep(5)
+        driver.switch_to.new_window()
+        print("window opeend")
+        time.sleep(3)
+        driver.get(link)
+        time.sleep(3)
+        get_data_of_listing()
+        # wait for site to close
+        print("waiting")
+        time.sleep(3)
+        time.sleep(3)
+
+listings = []
+
+
+def get_data_of_listing():
+    listing = {}
+    #click on certain offer
+    time.sleep(3)
+    price = driver.find_element(By.CLASS_NAME, "css-dcwlyx")
+    listing["Price"] = price.text
+    date_n_tile = driver.find_elements(By.CLASS_NAME, "css-sg1fy9")
+    date = date_n_tile[0]
+    listing["Date"] = date.text.lstrip("Dodane ")
+    title = date_n_tile[1]
+    listing["Title"] = title.text
+    listing["link"] = driver.current_url
+    # description = driver.find_element(By.CLASS_NAME, "css-g5mtbi-Text")
+    # listing["Opis"] = description.text
+    options = driver.find_elements(By.CLASS_NAME, "css-ox1ptj")
+    for option in options:
+        try:
+            k, v = option.text.split(":")
+            listing[k] = v
+        except:
+            listing[option.text] = "Tak"
+    listings.append(listing)
+    time.sleep(5)
+    driver.back()
+    separator("done correctly")
+    time.sleep(5)
 
 
 def finish():
