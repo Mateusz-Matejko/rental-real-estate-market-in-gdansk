@@ -20,13 +20,14 @@ time.sleep(2)
 
 def main():
     early_steps()
-    get_listing_links()
+    links = current_site_operation()
+    # iteration_and_window_handle(links)
     finish()
 
 
-def separator(teks):
+def separator(text):
     print(20 * "-")
-    print(teks)
+    print(text)
     print(20 * "-")
 
 
@@ -41,14 +42,15 @@ def early_steps():
     search = driver.find_element(By.NAME, "q")
     search.send_keys("Mieszkania na wynajem")
     time.sleep(1)
+
     # Chose category
     search_by_category = driver.find_element(By.CLASS_NAME, "c000")
     search_by_category.click()
     time.sleep(1)
 
     # Chose closer category
-    rent_category = driver.find_element(By.CLASS_NAME, "css-pyvavn")
-    rent_category.click()
+    renting_category = driver.find_element(By.CLASS_NAME, "css-pyvavn")
+    renting_category.click()
     time.sleep(2)
 
     # Chose city
@@ -69,7 +71,7 @@ def early_steps():
     time.sleep(1)
 
 
-def get_listing_links():
+def current_site_operation():
     # waiting for site to load up
     time.sleep(3)
 
@@ -79,10 +81,6 @@ def get_listing_links():
         .find_element(By.CSS_SELECTOR, 'a[data-cy="pagination-forward"]')
     # print(next_page.get_attribute("href"))
     # input()
-    current_site_opperation()
-
-
-def current_site_opperation():
     # make sure site is loaded
     time.sleep(3)
     # classify the link part of offers
@@ -96,25 +94,55 @@ def current_site_opperation():
             links_from_current_site.append(link)
         except:
             pass
+        # WARRING !!
+    # !!_TESTING_ _ONLY_!! # not to wait so long t
+    link = links_from_current_site[0]
+    time.sleep(2)
+    current_window = driver.current_window_handle
+    driver.switch_to.new_window()
+    time.sleep(2)
+    driver.get(link)
+    time.sleep(2)
+    get_data_of_listing()
+    # wait for site to close
+    time.sleep(2)
+    driver.close()
+    time.sleep(2)
+    driver.switch_to.window(current_window)
+    time.sleep(2)
+    while True:
+        try:
+            next_page.click()
+            time.sleep(3)
+            current_site_operation()
+        except:
+            break
+    return links_from_current_site
+
+
+def iteration_and_window_handle(links_from_current_site):
     for link in links_from_current_site:
         # open new window
-        time.sleep(3)
+        time.sleep(2)
+        current_window = driver.current_window_handle
         driver.switch_to.new_window()
-        print("window opeend")
-        time.sleep(3)
+        time.sleep(2)
         driver.get(link)
-        time.sleep(3)
+        time.sleep(2)
         get_data_of_listing()
         # wait for site to close
-        print("waiting")
-        time.sleep(3)
-        time.sleep(3)
+        time.sleep(2)
+        driver.close()
+        time.sleep(2)
+        driver.switch_to.window(current_window)
+        time.sleep(2)
 
 listings = []
 
 
 def get_data_of_listing():
     listing = {}
+    separator("New tab with listing opened!")
     #click on certain offer
     time.sleep(3)
     price = driver.find_element(By.CLASS_NAME, "css-dcwlyx")
@@ -135,10 +163,9 @@ def get_data_of_listing():
         except:
             listing[option.text] = "Tak"
     listings.append(listing)
-    time.sleep(5)
-    driver.back()
-    separator("done correctly")
-    time.sleep(5)
+    time.sleep(2)
+    separator("data collected correctly")
+    time.sleep(2)
 
 
 def finish():
