@@ -20,8 +20,8 @@ time.sleep(2)
 
 def main():
     early_steps()
-    links = current_site_operation()
-    # iteration_and_window_handle(links)
+    current_site_operation()
+    save_collected_data()
     finish()
 
 
@@ -74,12 +74,11 @@ def early_steps():
 def current_site_operation():
     # waiting for site to load up
     time.sleep(3)
-
     # !! __NEXT PAGE__ !!
     # classify the html position for next page button
     next_page = driver.find_element(By.CLASS_NAME, "pagination-list")\
         .find_element(By.CSS_SELECTOR, 'a[data-cy="pagination-forward"]')
-    # print(next_page.get_attribute("href"))
+    print(next_page.get_attribute("href"))
     # input()
     # make sure site is loaded
     time.sleep(3)
@@ -94,30 +93,15 @@ def current_site_operation():
             links_from_current_site.append(link)
         except:
             pass
-        # WARRING !!
-    # !!_TESTING_ _ONLY_!! # not to wait so long t
-    link = links_from_current_site[0]
-    time.sleep(2)
-    current_window = driver.current_window_handle
-    driver.switch_to.new_window()
-    time.sleep(2)
-    driver.get(link)
-    time.sleep(2)
-    get_data_of_listing()
-    # wait for site to close
-    time.sleep(2)
-    driver.close()
-    time.sleep(2)
-    driver.switch_to.window(current_window)
-    time.sleep(2)
+    iteration_and_window_handle(links_from_current_site)
     while True:
         try:
             next_page.click()
             time.sleep(3)
             current_site_operation()
         except:
-            break
-    return links_from_current_site
+            save_collected_data()
+            finish()
 
 
 def iteration_and_window_handle(links_from_current_site):
@@ -137,19 +121,30 @@ def iteration_and_window_handle(links_from_current_site):
         driver.switch_to.window(current_window)
         time.sleep(2)
 
+
 listings = []
 
 
 def get_data_of_listing():
-    listing = {}
-    separator("New tab with listing opened!")
     #click on certain offer
     time.sleep(3)
+    try:
+        get_from_olx()
+    except:
+        pass
+
+
+def get_from_otodom():
+    ...
+
+
+def get_from_olx():
+    listing = {}
     price = driver.find_element(By.CLASS_NAME, "css-dcwlyx")
     listing["Price"] = price.text
     date_n_tile = driver.find_elements(By.CLASS_NAME, "css-sg1fy9")
     date = date_n_tile[0]
-    listing["Date"] = date.text.lstrip("Dodane ")
+    listing["Date"] = date.text.lstrip("Dodane")
     title = date_n_tile[1]
     listing["Title"] = title.text
     listing["link"] = driver.current_url
@@ -165,7 +160,13 @@ def get_data_of_listing():
     listings.append(listing)
     time.sleep(2)
     separator("data collected correctly")
+    pprint.pprint(listing)
     time.sleep(2)
+
+
+def save_collected_data():
+    with open("result.json", "a" ) as json_file:
+        json.dump(listings, json_file)
 
 
 def finish():
