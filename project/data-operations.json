@@ -1,5 +1,3 @@
-# The original data from this file is in result-backup.json
-# The data was collected via olx.pl on the September 4th between 0.30 am 6.30 am
 [
   {
     "Price": "120 z\u0142\n do negocjacji",
@@ -9,10 +7,10 @@
     "Prywatne": "Tak",
     "Poziom": " Parter",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 32 m\u00b2",
-    "Liczba pokoi": " Kawalerka",
-    "Czynsz (dodatkowo)": " 1 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 32,
+    "Liczba pokoi": "Kawalerka",
+    "Czynsz (dodatkowo)": 1,
     "Number": 1
   },
   {
@@ -23,10 +21,10 @@
     "Firmowe": "Tak",
     "Poziom": " 8",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 46 m\u00b2",
-    "Liczba pokoi": " 3 pokoje",
-    "Czynsz (dodatkowo)": " 570 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 46,
+    "Liczba pokoi": "3 pokoje",
+    "Czynsz (dodatkowo)": 570,
     "Number": 2
   },
   {
@@ -37,10 +35,10 @@
     "Prywatne": "Tak",
     "Poziom": " 3",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 20 m\u00b2",
-    "Liczba pokoi": " Kawalerka",
-    "Czynsz (dodatkowo)": " 300 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 20,
+    "Liczba pokoi": "Kawalerka",
+    "Czynsz (dodatkowo)": 300,
     "Number": 3
   },
   {
@@ -51,10 +49,10 @@
     "Prywatne": "Tak",
     "Poziom": " Parter",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Kamienica",
-    "Powierzchnia": " 38 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 260 z\u0142",
+    "Rodzaj zabudowy": "Kamienica",
+    "Powierzchnia": 38,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 260,
     "Number": 4
   },
   {
@@ -65,10 +63,10 @@
     "Prywatne": "Tak",
     "Poziom": " 3",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 41 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 450 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 41,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 450,
     "Number": 5
   },
   {
@@ -79,10 +77,10 @@
     "Prywatne": "Tak",
     "Poziom": " 4",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 35 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 424 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 35,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 424,
     "Number": 6
   },
   {
@@ -93,10 +91,10 @@
     "Firmowe": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 15 m\u00b2",
-    "Liczba pokoi": " Kawalerka",
-    "Czynsz (dodatkowo)": " 450 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 15,
+    "Liczba pokoi": "Kawalerka",
+    "Czynsz (dodatkowo)": 450,
     "Number": 7
   },
   {
@@ -107,10 +105,10 @@
     "Prywatne": "Tak",
     "Poziom": " 3",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 24 m\u00b2",
-    "Liczba pokoi": " Kawalerka",
-    "Czynsz (dodatkowo)": " 350 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 24,
+    "Liczba pokoi": "Kawalerka",
+    "Czynsz (dodatkowo)": 350,
     "Number": 8
   },
   {
@@ -121,10 +119,10 @@
     "Firmowe": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Apartamentowiec",
-    "Powierzchnia": " 24 m\u00b2",
-    "Liczba pokoi": " Kawalerka",
-    "Czynsz (dodatkowo)": " 1 z\u0142",
+    "Rodzaj zabudowy": "Apartamentowiec",
+    "Powierzchnia": 24,
+    "Liczba pokoi": "Kawalerka",
+    "Czynsz (dodatkowo)": 1,
     "Number": 9
   },
   {
@@ -135,10 +133,10 @@
     "Prywatne": "Tak",
     "Poziom": " 2",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 41 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 320 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 41,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 320,
     "Number": 10
   },
   {
@@ -149,10 +147,10 @@
     "Prywatne": "Tak",
     "Poziom": " Parter",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 33 m\u00b2",
-    "Liczba pokoi": " Kawalerka",
-    "Czynsz (dodatkowo)": " 380 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 33,
+    "Liczba pokoi": "Kawalerka",
+    "Czynsz (dodatkowo)": 380,
     "Number": 11
   },
   {
@@ -163,10 +161,10 @@
     "Prywatne": "Tak",
     "Poziom": " 6",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 37 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 480 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 37,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 480,
     "Number": 12
   },
   {
@@ -177,10 +175,10 @@
     "Prywatne": "Tak",
     "Poziom": " 2",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 36 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 300 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 36,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 300,
     "Number": 13
   },
   {
@@ -191,10 +189,10 @@
     "Prywatne": "Tak",
     "Poziom": " 2",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 42 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 600 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 42,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 600,
     "Number": 14
   },
   {
@@ -205,10 +203,10 @@
     "Prywatne": "Tak",
     "Poziom": " 3",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 40 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 2 500 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 40,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 2500,
     "Number": 15
   },
   {
@@ -219,10 +217,10 @@
     "Prywatne": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Apartamentowiec",
-    "Powierzchnia": " 30 m\u00b2",
-    "Liczba pokoi": " Kawalerka",
-    "Czynsz (dodatkowo)": " 400 z\u0142",
+    "Rodzaj zabudowy": "Apartamentowiec",
+    "Powierzchnia": 30,
+    "Liczba pokoi": "Kawalerka",
+    "Czynsz (dodatkowo)": 400,
     "Number": 16
   },
   {
@@ -233,10 +231,10 @@
     "Firmowe": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Kamienica",
-    "Powierzchnia": " 10 m\u00b2",
-    "Liczba pokoi": " Kawalerka",
-    "Czynsz (dodatkowo)": " 500 z\u0142",
+    "Rodzaj zabudowy": "Kamienica",
+    "Powierzchnia": 10,
+    "Liczba pokoi": "Kawalerka",
+    "Czynsz (dodatkowo)": 500,
     "Number": 17
   },
   {
@@ -247,10 +245,10 @@
     "Prywatne": "Tak",
     "Poziom": " 3",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 40 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 520 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 40,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 520,
     "Number": 18
   },
   {
@@ -261,10 +259,10 @@
     "Firmowe": "Tak",
     "Poziom": " 4",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 40 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 400 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 40,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 400,
     "Number": 19
   },
   {
@@ -275,10 +273,10 @@
     "Firmowe": "Tak",
     "Poziom": " 4",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 47 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 550 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 47,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 550,
     "Number": 20
   },
   {
@@ -289,10 +287,10 @@
     "Prywatne": "Tak",
     "Poziom": " 4",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 35 m\u00b2",
-    "Liczba pokoi": " Kawalerka",
-    "Czynsz (dodatkowo)": " 450 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 35,
+    "Liczba pokoi": "Kawalerka",
+    "Czynsz (dodatkowo)": 450,
     "Number": 21
   },
   {
@@ -303,10 +301,10 @@
     "Prywatne": "Tak",
     "Poziom": " 9",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 42 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 200 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 42,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 200,
     "Number": 22
   },
   {
@@ -317,10 +315,10 @@
     "Prywatne": "Tak",
     "Poziom": " Parter",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 45 m\u00b2",
-    "Liczba pokoi": " 3 pokoje",
-    "Czynsz (dodatkowo)": " 620 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 45,
+    "Liczba pokoi": "3 pokoje",
+    "Czynsz (dodatkowo)": 620,
     "Number": 23
   },
   {
@@ -331,10 +329,10 @@
     "Prywatne": "Tak",
     "Poziom": " 2",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 43 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 400 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 43,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 400,
     "Number": 24
   },
   {
@@ -345,10 +343,10 @@
     "Firmowe": "Tak",
     "Poziom": " 4",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 20 m\u00b2",
-    "Liczba pokoi": " Kawalerka",
-    "Czynsz (dodatkowo)": " 500 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 20,
+    "Liczba pokoi": "Kawalerka",
+    "Czynsz (dodatkowo)": 500,
     "Number": 25
   },
   {
@@ -359,10 +357,10 @@
     "Prywatne": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Kamienica",
-    "Powierzchnia": " 65 m\u00b2",
-    "Liczba pokoi": " 3 pokoje",
-    "Czynsz (dodatkowo)": " 380 z\u0142",
+    "Rodzaj zabudowy": "Kamienica",
+    "Powierzchnia": 65,
+    "Liczba pokoi": "3 pokoje",
+    "Czynsz (dodatkowo)": 380,
     "Number": 26
   },
   {
@@ -373,10 +371,10 @@
     "Prywatne": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Apartamentowiec",
-    "Powierzchnia": " 53,35 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 670 z\u0142",
+    "Rodzaj zabudowy": "Apartamentowiec",
+    "Powierzchnia": 53.35,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 670,
     "Number": 27
   },
   {
@@ -387,10 +385,10 @@
     "Prywatne": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 65 m\u00b2",
-    "Liczba pokoi": " 3 pokoje",
-    "Czynsz (dodatkowo)": " 450 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 65,
+    "Liczba pokoi": "3 pokoje",
+    "Czynsz (dodatkowo)": 450,
     "Number": 28
   },
   {
@@ -401,10 +399,10 @@
     "Prywatne": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 48 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 1 200 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 48,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 1200,
     "Number": 29
   },
   {
@@ -415,10 +413,10 @@
     "Prywatne": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 43 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 350 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 43,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 350,
     "Number": 30
   },
   {
@@ -429,10 +427,10 @@
     "Prywatne": "Tak",
     "Poziom": " 3",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 65 m\u00b2",
-    "Liczba pokoi": " 3 pokoje",
-    "Czynsz (dodatkowo)": " 600 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 65,
+    "Liczba pokoi": "3 pokoje",
+    "Czynsz (dodatkowo)": 600,
     "Number": 31
   },
   {
@@ -443,10 +441,10 @@
     "Prywatne": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Kamienica",
-    "Powierzchnia": " 25 m\u00b2",
-    "Liczba pokoi": " Kawalerka",
-    "Czynsz (dodatkowo)": " 250 z\u0142",
+    "Rodzaj zabudowy": "Kamienica",
+    "Powierzchnia": 25,
+    "Liczba pokoi": "Kawalerka",
+    "Czynsz (dodatkowo)": 250,
     "Number": 32
   },
   {
@@ -456,10 +454,10 @@
     "link": "https://www.olx.pl/d/oferta/kawalerka-19m2-gdansk-przymorze-ul-obroncow-wybrzeza-3-CID3-IDQFOd0.html",
     "Prywatne": "Tak",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Apartamentowiec",
-    "Powierzchnia": " 20 m\u00b2",
-    "Liczba pokoi": " Kawalerka",
-    "Czynsz (dodatkowo)": " 400 z\u0142",
+    "Rodzaj zabudowy": "Apartamentowiec",
+    "Powierzchnia": 20,
+    "Liczba pokoi": "Kawalerka",
+    "Czynsz (dodatkowo)": 400,
     "Number": 33
   },
   {
@@ -470,10 +468,10 @@
     "Prywatne": "Tak",
     "Poziom": " 2",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Apartamentowiec",
-    "Powierzchnia": " 53 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 500 z\u0142",
+    "Rodzaj zabudowy": "Apartamentowiec",
+    "Powierzchnia": 53,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 500,
     "Number": 34
   },
   {
@@ -484,10 +482,10 @@
     "Prywatne": "Tak",
     "Poziom": " 9",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 41 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 410 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 41,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 410,
     "Number": 35
   },
   {
@@ -498,10 +496,10 @@
     "Firmowe": "Tak",
     "Poziom": " 2",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 40 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 500 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 40,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 500,
     "Number": 36
   },
   {
@@ -512,10 +510,10 @@
     "Prywatne": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 28 m\u00b2",
-    "Liczba pokoi": " Kawalerka",
-    "Czynsz (dodatkowo)": " 350 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 28,
+    "Liczba pokoi": "Kawalerka",
+    "Czynsz (dodatkowo)": 350,
     "Number": 37
   },
   {
@@ -526,10 +524,10 @@
     "Prywatne": "Tak",
     "Poziom": " 4",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 41 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 350 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 41,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 350,
     "Number": 38
   },
   {
@@ -540,10 +538,10 @@
     "Firmowe": "Tak",
     "Poziom": " 2",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 48 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 750 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 48,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 750,
     "Number": 39
   },
   {
@@ -554,10 +552,10 @@
     "Firmowe": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Apartamentowiec",
-    "Powierzchnia": " 38 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 1 330 z\u0142",
+    "Rodzaj zabudowy": "Apartamentowiec",
+    "Powierzchnia": 38,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 1330,
     "Number": 40
   },
   {
@@ -568,10 +566,10 @@
     "Prywatne": "Tak",
     "Poziom": " 8",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 60 m\u00b2",
-    "Liczba pokoi": " 3 pokoje",
-    "Czynsz (dodatkowo)": " 600 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 60,
+    "Liczba pokoi": "3 pokoje",
+    "Czynsz (dodatkowo)": 600,
     "Number": 41
   },
   {
@@ -582,10 +580,10 @@
     "Prywatne": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 32 m\u00b2",
-    "Liczba pokoi": " Kawalerka",
-    "Czynsz (dodatkowo)": " 350 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 32,
+    "Liczba pokoi": "Kawalerka",
+    "Czynsz (dodatkowo)": 350,
     "Number": 42
   },
   {
@@ -596,10 +594,10 @@
     "Prywatne": "Tak",
     "Poziom": " Parter",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 42,50 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 460 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 42.5,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 460,
     "Number": 43
   },
   {
@@ -610,10 +608,10 @@
     "Prywatne": "Tak",
     "Poziom": " 2",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 44 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 550 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 44,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 550,
     "Number": 44
   },
   {
@@ -624,10 +622,10 @@
     "Prywatne": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Kamienica",
-    "Powierzchnia": " 18 m\u00b2",
-    "Liczba pokoi": " Kawalerka",
-    "Czynsz (dodatkowo)": " 450 z\u0142",
+    "Rodzaj zabudowy": "Kamienica",
+    "Powierzchnia": 18,
+    "Liczba pokoi": "Kawalerka",
+    "Czynsz (dodatkowo)": 450,
     "Number": 45
   },
   {
@@ -638,10 +636,10 @@
     "Prywatne": "Tak",
     "Poziom": " 8",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 45 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 500 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 45,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 500,
     "Number": 46
   },
   {
@@ -652,10 +650,10 @@
     "Firmowe": "Tak",
     "Poziom": " 2",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Kamienica",
-    "Powierzchnia": " 49 m\u00b2",
-    "Liczba pokoi": " 3 pokoje",
-    "Czynsz (dodatkowo)": " 700 z\u0142",
+    "Rodzaj zabudowy": "Kamienica",
+    "Powierzchnia": 49,
+    "Liczba pokoi": "3 pokoje",
+    "Czynsz (dodatkowo)": 700,
     "Number": 47
   },
   {
@@ -666,10 +664,10 @@
     "Prywatne": "Tak",
     "Poziom": " 5",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 35 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 500 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 35,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 500,
     "Number": 48
   },
   {
@@ -680,10 +678,10 @@
     "Prywatne": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Dom wolnostoj\u0105cy",
-    "Powierzchnia": " 50 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 1 z\u0142",
+    "Rodzaj zabudowy": "Dom wolnostoj\u0105cy",
+    "Powierzchnia": 50,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 1,
     "Number": 49
   },
   {
@@ -694,10 +692,10 @@
     "Prywatne": "Tak",
     "Poziom": " 2",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 56 m\u00b2",
-    "Liczba pokoi": " 3 pokoje",
-    "Czynsz (dodatkowo)": " 500 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 56,
+    "Liczba pokoi": "3 pokoje",
+    "Czynsz (dodatkowo)": 500,
     "Number": 50
   },
   {
@@ -708,10 +706,10 @@
     "Prywatne": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Kamienica",
-    "Powierzchnia": " 56,70 m\u00b2",
-    "Liczba pokoi": " 3 pokoje",
-    "Czynsz (dodatkowo)": " 400 z\u0142",
+    "Rodzaj zabudowy": "Kamienica",
+    "Powierzchnia": 56.7,
+    "Liczba pokoi": "3 pokoje",
+    "Czynsz (dodatkowo)": 400,
     "Number": 51
   },
   {
@@ -722,10 +720,10 @@
     "Prywatne": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 37 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 475 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 37,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 475,
     "Number": 52
   },
   {
@@ -736,10 +734,10 @@
     "Firmowe": "Tak",
     "Poziom": " 4",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 20 m\u00b2",
-    "Liczba pokoi": " Kawalerka",
-    "Czynsz (dodatkowo)": " 500 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 20,
+    "Liczba pokoi": "Kawalerka",
+    "Czynsz (dodatkowo)": 500,
     "Number": 53
   },
   {
@@ -750,10 +748,10 @@
     "Firmowe": "Tak",
     "Poziom": " Parter",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Kamienica",
-    "Powierzchnia": " 57 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 490 z\u0142",
+    "Rodzaj zabudowy": "Kamienica",
+    "Powierzchnia": 57,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 490,
     "Number": 54
   },
   {
@@ -764,10 +762,10 @@
     "Prywatne": "Tak",
     "Poziom": " 8",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 41 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 400 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 41,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 400,
     "Number": 55
   },
   {
@@ -778,10 +776,10 @@
     "Prywatne": "Tak",
     "Poziom": " 3",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 46 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 400 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 46,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 400,
     "Number": 56
   },
   {
@@ -792,10 +790,10 @@
     "Prywatne": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 37 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 400 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 37,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 400,
     "Number": 57
   },
   {
@@ -806,10 +804,10 @@
     "Prywatne": "Tak",
     "Poziom": " Parter",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Dom wolnostoj\u0105cy",
-    "Powierzchnia": " 28 m\u00b2",
-    "Liczba pokoi": " Kawalerka",
-    "Czynsz (dodatkowo)": " 600 z\u0142",
+    "Rodzaj zabudowy": "Dom wolnostoj\u0105cy",
+    "Powierzchnia": 28,
+    "Liczba pokoi": "Kawalerka",
+    "Czynsz (dodatkowo)": 600,
     "Number": 58
   },
   {
@@ -819,10 +817,10 @@
     "link": "https://www.olx.pl/d/oferta/wynajmem-kawalerke-sopot-CID3-IDQJdrA.html",
     "Prywatne": "Tak",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 25 m\u00b2",
-    "Liczba pokoi": " Kawalerka",
-    "Czynsz (dodatkowo)": " 400 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 25,
+    "Liczba pokoi": "Kawalerka",
+    "Czynsz (dodatkowo)": 400,
     "Number": 59
   },
   {
@@ -833,10 +831,10 @@
     "Prywatne": "Tak",
     "Poziom": " 6",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Apartamentowiec",
-    "Powierzchnia": " 40 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 480 z\u0142",
+    "Rodzaj zabudowy": "Apartamentowiec",
+    "Powierzchnia": 40,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 480,
     "Number": 60
   },
   {
@@ -847,10 +845,10 @@
     "Prywatne": "Tak",
     "Poziom": " 2",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 55 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 900 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 55,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 900,
     "Number": 61
   },
   {
@@ -861,10 +859,10 @@
     "Prywatne": "Tak",
     "Poziom": " 9",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 40 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 300 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 40,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 300,
     "Number": 62
   },
   {
@@ -875,10 +873,10 @@
     "Prywatne": "Tak",
     "Poziom": " 2",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 31 m\u00b2",
-    "Liczba pokoi": " Kawalerka",
-    "Czynsz (dodatkowo)": " 450 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 31,
+    "Liczba pokoi": "Kawalerka",
+    "Czynsz (dodatkowo)": 450,
     "Number": 63
   },
   {
@@ -889,10 +887,10 @@
     "Prywatne": "Tak",
     "Poziom": " 4",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Apartamentowiec",
-    "Powierzchnia": " 50 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 488 z\u0142",
+    "Rodzaj zabudowy": "Apartamentowiec",
+    "Powierzchnia": 50,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 488,
     "Number": 64
   },
   {
@@ -903,10 +901,10 @@
     "Prywatne": "Tak",
     "Poziom": " 2",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 45,74 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 400 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 45.74,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 400,
     "Number": 65
   },
   {
@@ -917,10 +915,10 @@
     "Prywatne": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Apartamentowiec",
-    "Powierzchnia": " 50 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 700 z\u0142",
+    "Rodzaj zabudowy": "Apartamentowiec",
+    "Powierzchnia": 50,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 700,
     "Number": 66
   },
   {
@@ -931,10 +929,10 @@
     "Prywatne": "Tak",
     "Poziom": " 7",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Apartamentowiec",
-    "Powierzchnia": " 56,50 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 450 z\u0142",
+    "Rodzaj zabudowy": "Apartamentowiec",
+    "Powierzchnia": 56.5,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 450,
     "Number": 67
   },
   {
@@ -945,10 +943,10 @@
     "Prywatne": "Tak",
     "Poziom": " 2",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Apartamentowiec",
-    "Powierzchnia": " 79 m\u00b2",
-    "Liczba pokoi": " 3 pokoje",
-    "Czynsz (dodatkowo)": " 1 000 z\u0142",
+    "Rodzaj zabudowy": "Apartamentowiec",
+    "Powierzchnia": 79,
+    "Liczba pokoi": "3 pokoje",
+    "Czynsz (dodatkowo)": 1000,
     "Number": 68
   },
   {
@@ -959,10 +957,10 @@
     "Prywatne": "Tak",
     "Poziom": " 2",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Kamienica",
-    "Powierzchnia": " 43 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 620 z\u0142",
+    "Rodzaj zabudowy": "Kamienica",
+    "Powierzchnia": 43,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 620,
     "Number": 69
   },
   {
@@ -973,10 +971,10 @@
     "Prywatne": "Tak",
     "Poziom": " 7",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Apartamentowiec",
-    "Powierzchnia": " 38 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 470 z\u0142",
+    "Rodzaj zabudowy": "Apartamentowiec",
+    "Powierzchnia": 38,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 470,
     "Number": 70
   },
   {
@@ -987,10 +985,10 @@
     "Prywatne": "Tak",
     "Poziom": " 6",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 22 m\u00b2",
-    "Liczba pokoi": " Kawalerka",
-    "Czynsz (dodatkowo)": " 300 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 22,
+    "Liczba pokoi": "Kawalerka",
+    "Czynsz (dodatkowo)": 300,
     "Number": 71
   },
   {
@@ -1001,10 +999,10 @@
     "Prywatne": "Tak",
     "Poziom": " 4",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 28 m\u00b2",
-    "Liczba pokoi": " Kawalerka",
-    "Czynsz (dodatkowo)": " 400 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 28,
+    "Liczba pokoi": "Kawalerka",
+    "Czynsz (dodatkowo)": 400,
     "Number": 72
   },
   {
@@ -1015,10 +1013,10 @@
     "Firmowe": "Tak",
     "Poziom": " 4",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Apartamentowiec",
-    "Powierzchnia": " 37 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 440 z\u0142",
+    "Rodzaj zabudowy": "Apartamentowiec",
+    "Powierzchnia": 37,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 440,
     "Number": 73
   },
   {
@@ -1029,10 +1027,10 @@
     "Prywatne": "Tak",
     "Poziom": " 4",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 49 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 500 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 49,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 500,
     "Number": 74
   },
   {
@@ -1043,10 +1041,10 @@
     "Prywatne": "Tak",
     "Poziom": " 2",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 40 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 450 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 40,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 450,
     "Number": 75
   },
   {
@@ -1057,10 +1055,10 @@
     "Prywatne": "Tak",
     "Poziom": " Parter",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Apartamentowiec",
-    "Powierzchnia": " 37 m\u00b2",
-    "Liczba pokoi": " Kawalerka",
-    "Czynsz (dodatkowo)": " 350 z\u0142",
+    "Rodzaj zabudowy": "Apartamentowiec",
+    "Powierzchnia": 37,
+    "Liczba pokoi": "Kawalerka",
+    "Czynsz (dodatkowo)": 350,
     "Number": 76
   },
   {
@@ -1071,10 +1069,10 @@
     "Prywatne": "Tak",
     "Poziom": " 6",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 53 m\u00b2",
-    "Liczba pokoi": " 3 pokoje",
-    "Czynsz (dodatkowo)": " 580 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 53,
+    "Liczba pokoi": "3 pokoje",
+    "Czynsz (dodatkowo)": 580,
     "Number": 77
   },
   {
@@ -1085,10 +1083,10 @@
     "Prywatne": "Tak",
     "Poziom": " Parter",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 30 m\u00b2",
-    "Liczba pokoi": " Kawalerka",
-    "Czynsz (dodatkowo)": " 500 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 30,
+    "Liczba pokoi": "Kawalerka",
+    "Czynsz (dodatkowo)": 500,
     "Number": 78
   },
   {
@@ -1099,10 +1097,10 @@
     "Firmowe": "Tak",
     "Poziom": " 2",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 32 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 1 000 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 32,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 1000,
     "Number": 79
   },
   {
@@ -1113,10 +1111,10 @@
     "Prywatne": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 49 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 500 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 49,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 500,
     "Number": 80
   },
   {
@@ -1127,10 +1125,10 @@
     "Prywatne": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Kamienica",
-    "Powierzchnia": " 60 m\u00b2",
-    "Liczba pokoi": " 3 pokoje",
-    "Czynsz (dodatkowo)": " 3 200 z\u0142",
+    "Rodzaj zabudowy": "Kamienica",
+    "Powierzchnia": 60,
+    "Liczba pokoi": "3 pokoje",
+    "Czynsz (dodatkowo)": 3200,
     "Number": 81
   },
   {
@@ -1141,10 +1139,10 @@
     "Prywatne": "Tak",
     "Poziom": " Parter",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 27 m\u00b2",
-    "Liczba pokoi": " Kawalerka",
-    "Czynsz (dodatkowo)": " 400 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 27,
+    "Liczba pokoi": "Kawalerka",
+    "Czynsz (dodatkowo)": 400,
     "Number": 82
   },
   {
@@ -1155,10 +1153,10 @@
     "Prywatne": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 55 m\u00b2",
-    "Liczba pokoi": " 3 pokoje",
-    "Czynsz (dodatkowo)": " 510 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 55,
+    "Liczba pokoi": "3 pokoje",
+    "Czynsz (dodatkowo)": 510,
     "Number": 83
   },
   {
@@ -1169,10 +1167,10 @@
     "Firmowe": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Kamienica",
-    "Powierzchnia": " 49 m\u00b2",
-    "Liczba pokoi": " 3 pokoje",
-    "Czynsz (dodatkowo)": " 700 z\u0142",
+    "Rodzaj zabudowy": "Kamienica",
+    "Powierzchnia": 49,
+    "Liczba pokoi": "3 pokoje",
+    "Czynsz (dodatkowo)": 700,
     "Number": 84
   },
   {
@@ -1183,10 +1181,10 @@
     "Prywatne": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Kamienica",
-    "Powierzchnia": " 39 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 750 z\u0142",
+    "Rodzaj zabudowy": "Kamienica",
+    "Powierzchnia": 39,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 750,
     "Number": 85
   },
   {
@@ -1197,10 +1195,10 @@
     "Prywatne": "Tak",
     "Poziom": " 2",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 43,60 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 400 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 43.6,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 400,
     "Number": 86
   },
   {
@@ -1211,10 +1209,10 @@
     "Prywatne": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Apartamentowiec",
-    "Powierzchnia": " 64 m\u00b2",
-    "Liczba pokoi": " 3 pokoje",
-    "Czynsz (dodatkowo)": " 700 z\u0142",
+    "Rodzaj zabudowy": "Apartamentowiec",
+    "Powierzchnia": 64,
+    "Liczba pokoi": "3 pokoje",
+    "Czynsz (dodatkowo)": 700,
     "Number": 87
   },
   {
@@ -1225,10 +1223,10 @@
     "Prywatne": "Tak",
     "Poziom": " 4",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 38 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 300 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 38,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 300,
     "Number": 88
   },
   {
@@ -1239,10 +1237,10 @@
     "Prywatne": "Tak",
     "Poziom": " 4",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 48,20 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 550 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 48.2,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 550,
     "Number": 89
   },
   {
@@ -1253,10 +1251,10 @@
     "Prywatne": "Tak",
     "Poziom": " 2",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Szeregowiec",
-    "Powierzchnia": " 50 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 1 z\u0142",
+    "Rodzaj zabudowy": "Szeregowiec",
+    "Powierzchnia": 50,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 1,
     "Number": 90
   },
   {
@@ -1267,10 +1265,10 @@
     "Prywatne": "Tak",
     "Poziom": " Parter",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 33 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 450 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 33,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 450,
     "Number": 91
   },
   {
@@ -1281,10 +1279,10 @@
     "Prywatne": "Tak",
     "Poziom": " 5",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 38,51 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 400 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 38.51,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 400,
     "Number": 92
   },
   {
@@ -1295,10 +1293,10 @@
     "Prywatne": "Tak",
     "Poziom": " 4",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 37 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 400 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 37,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 400,
     "Number": 93
   },
   {
@@ -1309,10 +1307,10 @@
     "Prywatne": "Tak",
     "Poziom": " 4",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 43 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 550 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 43,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 550,
     "Number": 94
   },
   {
@@ -1323,10 +1321,10 @@
     "Firmowe": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Kamienica",
-    "Powierzchnia": " 10 m\u00b2",
-    "Liczba pokoi": " Kawalerka",
-    "Czynsz (dodatkowo)": " 500 z\u0142",
+    "Rodzaj zabudowy": "Kamienica",
+    "Powierzchnia": 10,
+    "Liczba pokoi": "Kawalerka",
+    "Czynsz (dodatkowo)": 500,
     "Number": 95
   },
   {
@@ -1337,10 +1335,10 @@
     "Prywatne": "Tak",
     "Poziom": " 4",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 35 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 400 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 35,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 400,
     "Number": 96
   },
   {
@@ -1351,10 +1349,10 @@
     "Firmowe": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 60 m\u00b2",
-    "Liczba pokoi": " 3 pokoje",
-    "Czynsz (dodatkowo)": " 1 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 60,
+    "Liczba pokoi": "3 pokoje",
+    "Czynsz (dodatkowo)": 1,
     "Number": 97
   },
   {
@@ -1365,10 +1363,10 @@
     "Prywatne": "Tak",
     "Poziom": " 4",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 38 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 532 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 38,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 532,
     "Number": 98
   },
   {
@@ -1379,10 +1377,10 @@
     "Prywatne": "Tak",
     "Poziom": " 2",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Kamienica",
-    "Powierzchnia": " 43 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 600 z\u0142",
+    "Rodzaj zabudowy": "Kamienica",
+    "Powierzchnia": 43,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 600,
     "Number": 99
   },
   {
@@ -1393,10 +1391,10 @@
     "Prywatne": "Tak",
     "Poziom": " Parter",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Apartamentowiec",
-    "Powierzchnia": " 45 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 1 z\u0142",
+    "Rodzaj zabudowy": "Apartamentowiec",
+    "Powierzchnia": 45,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 1,
     "Number": 100
   },
   {
@@ -1407,10 +1405,10 @@
     "Firmowe": "Tak",
     "Poziom": " 4",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 20 m\u00b2",
-    "Liczba pokoi": " Kawalerka",
-    "Czynsz (dodatkowo)": " 500 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 20,
+    "Liczba pokoi": "Kawalerka",
+    "Czynsz (dodatkowo)": 500,
     "Number": 101
   },
   {
@@ -1421,10 +1419,10 @@
     "Prywatne": "Tak",
     "Poziom": " 3",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 35 m\u00b2",
-    "Liczba pokoi": " Kawalerka",
-    "Czynsz (dodatkowo)": " 2 500 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 35,
+    "Liczba pokoi": "Kawalerka",
+    "Czynsz (dodatkowo)": 2500,
     "Number": 102
   },
   {
@@ -1435,10 +1433,10 @@
     "Prywatne": "Tak",
     "Poziom": " 2",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Kamienica",
-    "Powierzchnia": " 90 m\u00b2",
-    "Liczba pokoi": " 4 i wi\u0119cej",
-    "Czynsz (dodatkowo)": " 500 z\u0142",
+    "Rodzaj zabudowy": "Kamienica",
+    "Powierzchnia": 90,
+    "Liczba pokoi": "4 i wi\u0119cej",
+    "Czynsz (dodatkowo)": 500,
     "Number": 103
   },
   {
@@ -1449,10 +1447,10 @@
     "Firmowe": "Tak",
     "Poziom": " 2",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Apartamentowiec",
-    "Powierzchnia": " 44 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 600 z\u0142",
+    "Rodzaj zabudowy": "Apartamentowiec",
+    "Powierzchnia": 44,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 600,
     "Number": 104
   },
   {
@@ -1463,10 +1461,10 @@
     "Prywatne": "Tak",
     "Poziom": " 3",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Apartamentowiec",
-    "Powierzchnia": " 51 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 500 z\u0142",
+    "Rodzaj zabudowy": "Apartamentowiec",
+    "Powierzchnia": 51,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 500,
     "Number": 105
   },
   {
@@ -1477,10 +1475,10 @@
     "Prywatne": "Tak",
     "Poziom": " 3",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 50 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 450 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 50,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 450,
     "Number": 106
   },
   {
@@ -1491,10 +1489,10 @@
     "Prywatne": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 43 m\u00b2",
-    "Liczba pokoi": " 3 pokoje",
-    "Czynsz (dodatkowo)": " 700 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 43,
+    "Liczba pokoi": "3 pokoje",
+    "Czynsz (dodatkowo)": 700,
     "Number": 107
   },
   {
@@ -1505,10 +1503,10 @@
     "Prywatne": "Tak",
     "Poziom": " Parter",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 41 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 350 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 41,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 350,
     "Number": 108
   },
   {
@@ -1519,10 +1517,10 @@
     "Prywatne": "Tak",
     "Poziom": " Parter",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Apartamentowiec",
-    "Powierzchnia": " 65 m\u00b2",
-    "Liczba pokoi": " 3 pokoje",
-    "Czynsz (dodatkowo)": " 925 z\u0142",
+    "Rodzaj zabudowy": "Apartamentowiec",
+    "Powierzchnia": 65,
+    "Liczba pokoi": "3 pokoje",
+    "Czynsz (dodatkowo)": 925,
     "Number": 109
   },
   {
@@ -1533,10 +1531,10 @@
     "Firmowe": "Tak",
     "Poziom": " 6",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Apartamentowiec",
-    "Powierzchnia": " 37 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 300 z\u0142",
+    "Rodzaj zabudowy": "Apartamentowiec",
+    "Powierzchnia": 37,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 300,
     "Number": 110
   },
   {
@@ -1547,10 +1545,10 @@
     "Prywatne": "Tak",
     "Poziom": " 4",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 23 m\u00b2",
-    "Liczba pokoi": " Kawalerka",
-    "Czynsz (dodatkowo)": " 258 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 23,
+    "Liczba pokoi": "Kawalerka",
+    "Czynsz (dodatkowo)": 258,
     "Number": 111
   },
   {
@@ -1561,10 +1559,10 @@
     "Prywatne": "Tak",
     "Poziom": " Powy\u017cej 10",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 50 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 1 300 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 50,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 1300,
     "Number": 112
   },
   {
@@ -1574,10 +1572,10 @@
     "link": "https://www.olx.pl/d/oferta/apartament-3-pok-zaspa-mlyniec-53m-ogrodek-miej-w-hali-garazowej-CID3-IDQHxMM.html",
     "Prywatne": "Tak",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 53 m\u00b2",
-    "Liczba pokoi": " 3 pokoje",
-    "Czynsz (dodatkowo)": " 850 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 53,
+    "Liczba pokoi": "3 pokoje",
+    "Czynsz (dodatkowo)": 850,
     "Number": 113
   },
   {
@@ -1588,10 +1586,10 @@
     "Firmowe": "Tak",
     "Poziom": " 6",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Apartamentowiec",
-    "Powierzchnia": " 45 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 600 z\u0142",
+    "Rodzaj zabudowy": "Apartamentowiec",
+    "Powierzchnia": 45,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 600,
     "Number": 114
   },
   {
@@ -1602,10 +1600,10 @@
     "Prywatne": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 50 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 650 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 50,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 650,
     "Number": 115
   },
   {
@@ -1616,10 +1614,10 @@
     "Prywatne": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Kamienica",
-    "Powierzchnia": " 50 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 470 z\u0142",
+    "Rodzaj zabudowy": "Kamienica",
+    "Powierzchnia": 50,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 470,
     "Number": 116
   },
   {
@@ -1630,10 +1628,10 @@
     "Prywatne": "Tak",
     "Poziom": " 3",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 57 m\u00b2",
-    "Liczba pokoi": " 3 pokoje",
-    "Czynsz (dodatkowo)": " 900 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 57,
+    "Liczba pokoi": "3 pokoje",
+    "Czynsz (dodatkowo)": 900,
     "Number": 117
   },
   {
@@ -1643,10 +1641,10 @@
     "link": "https://www.olx.pl/d/oferta/kawalerka-gdansk-przymorze-obok-decathlon-od-1-10-CID3-IDQFQ2c.html",
     "Prywatne": "Tak",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Apartamentowiec",
-    "Powierzchnia": " 20 m\u00b2",
-    "Liczba pokoi": " Kawalerka",
-    "Czynsz (dodatkowo)": " 400 z\u0142",
+    "Rodzaj zabudowy": "Apartamentowiec",
+    "Powierzchnia": 20,
+    "Liczba pokoi": "Kawalerka",
+    "Czynsz (dodatkowo)": 400,
     "Number": 118
   },
   {
@@ -1657,10 +1655,10 @@
     "Prywatne": "Tak",
     "Poziom": " 3",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 34 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 400 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 34,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 400,
     "Number": 119
   },
   {
@@ -1671,10 +1669,10 @@
     "Prywatne": "Tak",
     "Poziom": " 2",
     "Umeblowane": " Nie",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 35,50 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 500 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 35.5,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 500,
     "Number": 120
   },
   {
@@ -1685,10 +1683,10 @@
     "Prywatne": "Tak",
     "Poziom": " Parter",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Dom wolnostoj\u0105cy",
-    "Powierzchnia": " 80 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 1 z\u0142",
+    "Rodzaj zabudowy": "Dom wolnostoj\u0105cy",
+    "Powierzchnia": 80,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 1,
     "Number": 121
   },
   {
@@ -1699,10 +1697,10 @@
     "Firmowe": "Tak",
     "Poziom": " 7",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 31 m\u00b2",
-    "Liczba pokoi": " Kawalerka",
-    "Czynsz (dodatkowo)": " 350 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 31,
+    "Liczba pokoi": "Kawalerka",
+    "Czynsz (dodatkowo)": 350,
     "Number": 122
   },
   {
@@ -1713,10 +1711,10 @@
     "Prywatne": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 44 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 400 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 44,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 400,
     "Number": 123
   },
   {
@@ -1727,10 +1725,10 @@
     "Prywatne": "Tak",
     "Poziom": " Parter",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Kamienica",
-    "Powierzchnia": " 50 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 1 z\u0142",
+    "Rodzaj zabudowy": "Kamienica",
+    "Powierzchnia": 50,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 1,
     "Number": 124
   },
   {
@@ -1741,10 +1739,10 @@
     "Prywatne": "Tak",
     "Poziom": " 3",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Apartamentowiec",
-    "Powierzchnia": " 60 m\u00b2",
-    "Liczba pokoi": " 3 pokoje",
-    "Czynsz (dodatkowo)": " 600 z\u0142",
+    "Rodzaj zabudowy": "Apartamentowiec",
+    "Powierzchnia": 60,
+    "Liczba pokoi": "3 pokoje",
+    "Czynsz (dodatkowo)": 600,
     "Number": 125
   },
   {
@@ -1755,10 +1753,10 @@
     "Prywatne": "Tak",
     "Poziom": " 4",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 35 m\u00b2",
-    "Liczba pokoi": " Kawalerka",
-    "Czynsz (dodatkowo)": " 320 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 35,
+    "Liczba pokoi": "Kawalerka",
+    "Czynsz (dodatkowo)": 320,
     "Number": 126
   },
   {
@@ -1769,10 +1767,10 @@
     "Prywatne": "Tak",
     "Poziom": " 2",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 76 m\u00b2",
-    "Liczba pokoi": " 4 i wi\u0119cej",
-    "Czynsz (dodatkowo)": " 1 000 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 76,
+    "Liczba pokoi": "4 i wi\u0119cej",
+    "Czynsz (dodatkowo)": 1000,
     "Number": 127
   },
   {
@@ -1783,10 +1781,10 @@
     "Prywatne": "Tak",
     "Poziom": " 3",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Kamienica",
-    "Powierzchnia": " 55 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 300 z\u0142",
+    "Rodzaj zabudowy": "Kamienica",
+    "Powierzchnia": 55,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 300,
     "Number": 128
   },
   {
@@ -1797,10 +1795,10 @@
     "Prywatne": "Tak",
     "Poziom": " 3",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Apartamentowiec",
-    "Powierzchnia": " 42 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 570 z\u0142",
+    "Rodzaj zabudowy": "Apartamentowiec",
+    "Powierzchnia": 42,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 570,
     "Number": 129
   },
   {
@@ -1811,10 +1809,10 @@
     "Prywatne": "Tak",
     "Poziom": " 5",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Apartamentowiec",
-    "Powierzchnia": " 33 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 500 z\u0142",
+    "Rodzaj zabudowy": "Apartamentowiec",
+    "Powierzchnia": 33,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 500,
     "Number": 130
   },
   {
@@ -1825,10 +1823,10 @@
     "Prywatne": "Tak",
     "Poziom": " Parter",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 37,50 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 330 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 37.5,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 330,
     "Number": 131
   },
   {
@@ -1839,10 +1837,10 @@
     "Firmowe": "Tak",
     "Poziom": " 2",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Kamienica",
-    "Powierzchnia": " 80 m\u00b2",
-    "Liczba pokoi": " 4 i wi\u0119cej",
-    "Czynsz (dodatkowo)": " 900 z\u0142",
+    "Rodzaj zabudowy": "Kamienica",
+    "Powierzchnia": 80,
+    "Liczba pokoi": "4 i wi\u0119cej",
+    "Czynsz (dodatkowo)": 900,
     "Number": 132
   },
   {
@@ -1853,10 +1851,10 @@
     "Prywatne": "Tak",
     "Poziom": " Powy\u017cej 10",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Apartamentowiec",
-    "Powierzchnia": " 48 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 750 z\u0142",
+    "Rodzaj zabudowy": "Apartamentowiec",
+    "Powierzchnia": 48,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 750,
     "Number": 133
   },
   {
@@ -1867,10 +1865,10 @@
     "Prywatne": "Tak",
     "Poziom": " 4",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 43,50 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 400 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 43.5,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 400,
     "Number": 134
   },
   {
@@ -1881,10 +1879,10 @@
     "Prywatne": "Tak",
     "Poziom": " 3",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Pozosta\u0142e",
-    "Powierzchnia": " 44 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 500 z\u0142",
+    "Rodzaj zabudowy": "Pozosta\u0142e",
+    "Powierzchnia": 44,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 500,
     "Number": 135
   },
   {
@@ -1895,10 +1893,10 @@
     "Prywatne": "Tak",
     "Poziom": " 3",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 41 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 300 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 41,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 300,
     "Number": 136
   },
   {
@@ -1909,10 +1907,10 @@
     "Prywatne": "Tak",
     "Poziom": " 6",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 48 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 600 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 48,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 600,
     "Number": 137
   },
   {
@@ -1923,10 +1921,10 @@
     "Prywatne": "Tak",
     "Poziom": " 4",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 56 m\u00b2",
-    "Liczba pokoi": " 3 pokoje",
-    "Czynsz (dodatkowo)": " 600 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 56,
+    "Liczba pokoi": "3 pokoje",
+    "Czynsz (dodatkowo)": 600,
     "Number": 138
   },
   {
@@ -1937,10 +1935,10 @@
     "Prywatne": "Tak",
     "Poziom": " 5",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Apartamentowiec",
-    "Powierzchnia": " 50 m\u00b2",
-    "Liczba pokoi": " 3 pokoje",
-    "Czynsz (dodatkowo)": " 550 z\u0142",
+    "Rodzaj zabudowy": "Apartamentowiec",
+    "Powierzchnia": 50,
+    "Liczba pokoi": "3 pokoje",
+    "Czynsz (dodatkowo)": 550,
     "Number": 139
   },
   {
@@ -1951,10 +1949,10 @@
     "Prywatne": "Tak",
     "Poziom": " 4",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Apartamentowiec",
-    "Powierzchnia": " 33 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 500 z\u0142",
+    "Rodzaj zabudowy": "Apartamentowiec",
+    "Powierzchnia": 33,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 500,
     "Number": 140
   },
   {
@@ -1965,10 +1963,10 @@
     "Prywatne": "Tak",
     "Poziom": " 10",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 55 m\u00b2",
-    "Liczba pokoi": " 3 pokoje",
-    "Czynsz (dodatkowo)": " 600 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 55,
+    "Liczba pokoi": "3 pokoje",
+    "Czynsz (dodatkowo)": 600,
     "Number": 141
   },
   {
@@ -1979,10 +1977,10 @@
     "Prywatne": "Tak",
     "Poziom": " 4",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 47 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 600 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 47,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 600,
     "Number": 142
   },
   {
@@ -1993,10 +1991,10 @@
     "Prywatne": "Tak",
     "Poziom": " 2",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 55 m\u00b2",
-    "Liczba pokoi": " 3 pokoje",
-    "Czynsz (dodatkowo)": " 685 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 55,
+    "Liczba pokoi": "3 pokoje",
+    "Czynsz (dodatkowo)": 685,
     "Number": 143
   },
   {
@@ -2007,10 +2005,10 @@
     "Prywatne": "Tak",
     "Poziom": " 2",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 41 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 500 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 41,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 500,
     "Number": 144
   },
   {
@@ -2021,10 +2019,10 @@
     "Prywatne": "Tak",
     "Poziom": " 4",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 45 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 500 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 45,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 500,
     "Number": 145
   },
   {
@@ -2035,10 +2033,10 @@
     "Prywatne": "Tak",
     "Poziom": " 2",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 70 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 1 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 70,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 1,
     "Number": 146
   },
   {
@@ -2049,10 +2047,10 @@
     "Prywatne": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Kamienica",
-    "Powierzchnia": " 50 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 350 z\u0142",
+    "Rodzaj zabudowy": "Kamienica",
+    "Powierzchnia": 50,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 350,
     "Number": 147
   },
   {
@@ -2063,10 +2061,10 @@
     "Prywatne": "Tak",
     "Poziom": " Parter",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Apartamentowiec",
-    "Powierzchnia": " 62 m\u00b2",
-    "Liczba pokoi": " 3 pokoje",
-    "Czynsz (dodatkowo)": " 500 z\u0142",
+    "Rodzaj zabudowy": "Apartamentowiec",
+    "Powierzchnia": 62,
+    "Liczba pokoi": "3 pokoje",
+    "Czynsz (dodatkowo)": 500,
     "Number": 148
   },
   {
@@ -2077,10 +2075,10 @@
     "Firmowe": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Kamienica",
-    "Powierzchnia": " 46 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 300 z\u0142",
+    "Rodzaj zabudowy": "Kamienica",
+    "Powierzchnia": 46,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 300,
     "Number": 149
   },
   {
@@ -2091,10 +2089,10 @@
     "Prywatne": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Apartamentowiec",
-    "Powierzchnia": " 50 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 520 z\u0142",
+    "Rodzaj zabudowy": "Apartamentowiec",
+    "Powierzchnia": 50,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 520,
     "Number": 150
   },
   {
@@ -2105,10 +2103,10 @@
     "Prywatne": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Apartamentowiec",
-    "Powierzchnia": " 48 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 500 z\u0142",
+    "Rodzaj zabudowy": "Apartamentowiec",
+    "Powierzchnia": 48,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 500,
     "Number": 151
   },
   {
@@ -2119,10 +2117,10 @@
     "Prywatne": "Tak",
     "Poziom": " 8",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 41 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 400 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 41,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 400,
     "Number": 152
   },
   {
@@ -2133,10 +2131,10 @@
     "Prywatne": "Tak",
     "Poziom": " Parter",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Szeregowiec",
-    "Powierzchnia": " 35 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 330 z\u0142",
+    "Rodzaj zabudowy": "Szeregowiec",
+    "Powierzchnia": 35,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 330,
     "Number": 153
   },
   {
@@ -2147,10 +2145,10 @@
     "Prywatne": "Tak",
     "Poziom": " Powy\u017cej 10",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Apartamentowiec",
-    "Powierzchnia": " 58,12 m\u00b2",
-    "Liczba pokoi": " 3 pokoje",
-    "Czynsz (dodatkowo)": " 640 z\u0142",
+    "Rodzaj zabudowy": "Apartamentowiec",
+    "Powierzchnia": 58.12,
+    "Liczba pokoi": "3 pokoje",
+    "Czynsz (dodatkowo)": 640,
     "Number": 154
   },
   {
@@ -2161,10 +2159,10 @@
     "Prywatne": "Tak",
     "Poziom": " 2",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Kamienica",
-    "Powierzchnia": " 41 m\u00b2",
-    "Liczba pokoi": " 3 pokoje",
-    "Czynsz (dodatkowo)": " 550 z\u0142",
+    "Rodzaj zabudowy": "Kamienica",
+    "Powierzchnia": 41,
+    "Liczba pokoi": "3 pokoje",
+    "Czynsz (dodatkowo)": 550,
     "Number": 155
   },
   {
@@ -2175,10 +2173,10 @@
     "Prywatne": "Tak",
     "Poziom": " 4",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 78 m\u00b2",
-    "Liczba pokoi": " 4 i wi\u0119cej",
-    "Czynsz (dodatkowo)": " 800 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 78,
+    "Liczba pokoi": "4 i wi\u0119cej",
+    "Czynsz (dodatkowo)": 800,
     "Number": 156
   },
   {
@@ -2189,10 +2187,10 @@
     "Firmowe": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Kamienica",
-    "Powierzchnia": " 19 m\u00b2",
-    "Liczba pokoi": " Kawalerka",
-    "Czynsz (dodatkowo)": " 1 z\u0142",
+    "Rodzaj zabudowy": "Kamienica",
+    "Powierzchnia": 19,
+    "Liczba pokoi": "Kawalerka",
+    "Czynsz (dodatkowo)": 1,
     "Number": 157
   },
   {
@@ -2203,10 +2201,10 @@
     "Prywatne": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 66,50 m\u00b2",
-    "Liczba pokoi": " 3 pokoje",
-    "Czynsz (dodatkowo)": " 590 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 66.5,
+    "Liczba pokoi": "3 pokoje",
+    "Czynsz (dodatkowo)": 590,
     "Number": 158
   },
   {
@@ -2217,10 +2215,10 @@
     "Firmowe": "Tak",
     "Poziom": " Parter",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Kamienica",
-    "Powierzchnia": " 40 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 720 z\u0142",
+    "Rodzaj zabudowy": "Kamienica",
+    "Powierzchnia": 40,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 720,
     "Number": 159
   },
   {
@@ -2231,10 +2229,10 @@
     "Prywatne": "Tak",
     "Poziom": " 3",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 25 m\u00b2",
-    "Liczba pokoi": " Kawalerka",
-    "Czynsz (dodatkowo)": " 500 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 25,
+    "Liczba pokoi": "Kawalerka",
+    "Czynsz (dodatkowo)": 500,
     "Number": 160
   },
   {
@@ -2245,10 +2243,10 @@
     "Prywatne": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 33 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 450 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 33,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 450,
     "Number": 161
   },
   {
@@ -2258,10 +2256,10 @@
     "link": "https://www.olx.pl/d/oferta/3-osobne-pokoje-dobra-lokalizacja-CID3-IDQyqSn.html",
     "Prywatne": "Tak",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 64 m\u00b2",
-    "Liczba pokoi": " 3 pokoje",
-    "Czynsz (dodatkowo)": " 750 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 64,
+    "Liczba pokoi": "3 pokoje",
+    "Czynsz (dodatkowo)": 750,
     "Number": 162
   },
   {
@@ -2272,10 +2270,10 @@
     "Prywatne": "Tak",
     "Poziom": " 2",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 49 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 550 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 49,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 550,
     "Number": 163
   },
   {
@@ -2286,10 +2284,10 @@
     "Prywatne": "Tak",
     "Poziom": " 6",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 31 m\u00b2",
-    "Liczba pokoi": " Kawalerka",
-    "Czynsz (dodatkowo)": " 390 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 31,
+    "Liczba pokoi": "Kawalerka",
+    "Czynsz (dodatkowo)": 390,
     "Number": 164
   },
   {
@@ -2300,10 +2298,10 @@
     "Prywatne": "Tak",
     "Poziom": " 2",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 46,86 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 480 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 46.86,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 480,
     "Number": 165
   },
   {
@@ -2314,10 +2312,10 @@
     "Firmowe": "Tak",
     "Poziom": " 2",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Kamienica",
-    "Powierzchnia": " 32 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 600 z\u0142",
+    "Rodzaj zabudowy": "Kamienica",
+    "Powierzchnia": 32,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 600,
     "Number": 166
   },
   {
@@ -2328,10 +2326,10 @@
     "Prywatne": "Tak",
     "Poziom": " 10",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Apartamentowiec",
-    "Powierzchnia": " 38 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 450 z\u0142",
+    "Rodzaj zabudowy": "Apartamentowiec",
+    "Powierzchnia": 38,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 450,
     "Number": 167
   },
   {
@@ -2342,10 +2340,10 @@
     "Firmowe": "Tak",
     "Poziom": " Powy\u017cej 10",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Apartamentowiec",
-    "Powierzchnia": " 53 m\u00b2",
-    "Liczba pokoi": " 3 pokoje",
-    "Czynsz (dodatkowo)": " 550 z\u0142",
+    "Rodzaj zabudowy": "Apartamentowiec",
+    "Powierzchnia": 53,
+    "Liczba pokoi": "3 pokoje",
+    "Czynsz (dodatkowo)": 550,
     "Number": 168
   },
   {
@@ -2356,10 +2354,10 @@
     "Prywatne": "Tak",
     "Poziom": " 2",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 40 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 460 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 40,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 460,
     "Number": 169
   },
   {
@@ -2370,10 +2368,10 @@
     "Prywatne": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Apartamentowiec",
-    "Powierzchnia": " 63,40 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 700 z\u0142",
+    "Rodzaj zabudowy": "Apartamentowiec",
+    "Powierzchnia": 63.4,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 700,
     "Number": 170
   },
   {
@@ -2384,10 +2382,10 @@
     "Prywatne": "Tak",
     "Poziom": " Parter",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Apartamentowiec",
-    "Powierzchnia": " 32 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 400 z\u0142",
+    "Rodzaj zabudowy": "Apartamentowiec",
+    "Powierzchnia": 32,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 400,
     "Number": 171
   },
   {
@@ -2398,10 +2396,10 @@
     "Prywatne": "Tak",
     "Poziom": " 3",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Kamienica",
-    "Powierzchnia": " 40 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 460 z\u0142",
+    "Rodzaj zabudowy": "Kamienica",
+    "Powierzchnia": 40,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 460,
     "Number": 172
   },
   {
@@ -2412,10 +2410,10 @@
     "Firmowe": "Tak",
     "Poziom": " 4",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Apartamentowiec",
-    "Powierzchnia": " 34 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 600 z\u0142",
+    "Rodzaj zabudowy": "Apartamentowiec",
+    "Powierzchnia": 34,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 600,
     "Number": 173
   },
   {
@@ -2426,10 +2424,10 @@
     "Prywatne": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 49 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 400 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 49,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 400,
     "Number": 174
   },
   {
@@ -2440,10 +2438,10 @@
     "Prywatne": "Tak",
     "Poziom": " 6",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 46 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 1 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 46,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 1,
     "Number": 175
   },
   {
@@ -2454,10 +2452,10 @@
     "Firmowe": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Kamienica",
-    "Powierzchnia": " 12 m\u00b2",
-    "Liczba pokoi": " Kawalerka",
-    "Czynsz (dodatkowo)": " 700 z\u0142",
+    "Rodzaj zabudowy": "Kamienica",
+    "Powierzchnia": 12,
+    "Liczba pokoi": "Kawalerka",
+    "Czynsz (dodatkowo)": 700,
     "Number": 176
   },
   {
@@ -2468,10 +2466,10 @@
     "Prywatne": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 40,95 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 500 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 40.95,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 500,
     "Number": 177
   },
   {
@@ -2482,10 +2480,10 @@
     "Prywatne": "Tak",
     "Poziom": " 3",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 25 m\u00b2",
-    "Liczba pokoi": " Kawalerka",
-    "Czynsz (dodatkowo)": " 400 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 25,
+    "Liczba pokoi": "Kawalerka",
+    "Czynsz (dodatkowo)": 400,
     "Number": 178
   },
   {
@@ -2496,10 +2494,10 @@
     "Prywatne": "Tak",
     "Poziom": " 3",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 39 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 1 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 39,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 1,
     "Number": 179
   },
   {
@@ -2510,10 +2508,10 @@
     "Prywatne": "Tak",
     "Poziom": " 4",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 47 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 370 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 47,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 370,
     "Number": 180
   },
   {
@@ -2524,10 +2522,10 @@
     "Firmowe": "Tak",
     "Poziom": " Parter",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Kamienica",
-    "Powierzchnia": " 24 m\u00b2",
-    "Liczba pokoi": " Kawalerka",
-    "Czynsz (dodatkowo)": " 500 z\u0142",
+    "Rodzaj zabudowy": "Kamienica",
+    "Powierzchnia": 24,
+    "Liczba pokoi": "Kawalerka",
+    "Czynsz (dodatkowo)": 500,
     "Number": 181
   },
   {
@@ -2538,10 +2536,10 @@
     "Prywatne": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 36 m\u00b2",
-    "Liczba pokoi": " Kawalerka",
-    "Czynsz (dodatkowo)": " 350 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 36,
+    "Liczba pokoi": "Kawalerka",
+    "Czynsz (dodatkowo)": 350,
     "Number": 182
   },
   {
@@ -2552,10 +2550,10 @@
     "Prywatne": "Tak",
     "Poziom": " 3",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 38 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 350 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 38,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 350,
     "Number": 183
   },
   {
@@ -2566,10 +2564,10 @@
     "Firmowe": "Tak",
     "Poziom": " Parter",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Apartamentowiec",
-    "Powierzchnia": " 31 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 700 z\u0142",
+    "Rodzaj zabudowy": "Apartamentowiec",
+    "Powierzchnia": 31,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 700,
     "Number": 184
   },
   {
@@ -2579,10 +2577,10 @@
     "link": "https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-w-centrum-maiasta-starowka-parking-CID3-IDQk67n.html",
     "Prywatne": "Tak",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Apartamentowiec",
-    "Powierzchnia": " 51 m\u00b2",
-    "Liczba pokoi": " 3 pokoje",
-    "Czynsz (dodatkowo)": " 800 z\u0142",
+    "Rodzaj zabudowy": "Apartamentowiec",
+    "Powierzchnia": 51,
+    "Liczba pokoi": "3 pokoje",
+    "Czynsz (dodatkowo)": 800,
     "Number": 185
   },
   {
@@ -2593,10 +2591,10 @@
     "Firmowe": "Tak",
     "Poziom": " 7",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Apartamentowiec",
-    "Powierzchnia": " 47 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 500 z\u0142",
+    "Rodzaj zabudowy": "Apartamentowiec",
+    "Powierzchnia": 47,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 500,
     "Number": 186
   },
   {
@@ -2607,10 +2605,10 @@
     "Prywatne": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Kamienica",
-    "Powierzchnia": " 48 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 392 z\u0142",
+    "Rodzaj zabudowy": "Kamienica",
+    "Powierzchnia": 48,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 392,
     "Number": 187
   },
   {
@@ -2621,10 +2619,10 @@
     "Prywatne": "Tak",
     "Poziom": " 3",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 42,43 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 260 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 42.43,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 260,
     "Number": 188
   },
   {
@@ -2635,10 +2633,10 @@
     "Prywatne": "Tak",
     "Poziom": " 2",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 32 m\u00b2",
-    "Liczba pokoi": " Kawalerka",
-    "Czynsz (dodatkowo)": " 2 500 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 32,
+    "Liczba pokoi": "Kawalerka",
+    "Czynsz (dodatkowo)": 2500,
     "Number": 189
   },
   {
@@ -2649,10 +2647,10 @@
     "Firmowe": "Tak",
     "Poziom": " 2",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Apartamentowiec",
-    "Powierzchnia": " 55 m\u00b2",
-    "Liczba pokoi": " 3 pokoje",
-    "Czynsz (dodatkowo)": " 800 z\u0142",
+    "Rodzaj zabudowy": "Apartamentowiec",
+    "Powierzchnia": 55,
+    "Liczba pokoi": "3 pokoje",
+    "Czynsz (dodatkowo)": 800,
     "Number": 190
   },
   {
@@ -2663,10 +2661,10 @@
     "Firmowe": "Tak",
     "Poziom": " 2",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Kamienica",
-    "Powierzchnia": " 100 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 600 z\u0142",
+    "Rodzaj zabudowy": "Kamienica",
+    "Powierzchnia": 100,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 600,
     "Number": 191
   },
   {
@@ -2677,10 +2675,10 @@
     "Prywatne": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 43 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 350 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 43,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 350,
     "Number": 192
   },
   {
@@ -2691,10 +2689,10 @@
     "Prywatne": "Tak",
     "Poziom": " 2",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Dom wolnostoj\u0105cy",
-    "Powierzchnia": " 60 m\u00b2",
-    "Liczba pokoi": " 3 pokoje",
-    "Czynsz (dodatkowo)": " 500 z\u0142",
+    "Rodzaj zabudowy": "Dom wolnostoj\u0105cy",
+    "Powierzchnia": 60,
+    "Liczba pokoi": "3 pokoje",
+    "Czynsz (dodatkowo)": 500,
     "Number": 193
   },
   {
@@ -2704,10 +2702,10 @@
     "link": "https://www.olx.pl/d/oferta/3-pokojowe-mieszkanie-na-ul-sw-barbary-gdansk-starowka-CID3-IDQnowK.html",
     "Prywatne": "Tak",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 60 m\u00b2",
-    "Liczba pokoi": " 3 pokoje",
-    "Czynsz (dodatkowo)": " 500 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 60,
+    "Liczba pokoi": "3 pokoje",
+    "Czynsz (dodatkowo)": 500,
     "Number": 194
   },
   {
@@ -2718,10 +2716,10 @@
     "Prywatne": "Tak",
     "Poziom": " 4",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 45 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 600 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 45,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 600,
     "Number": 195
   },
   {
@@ -2732,10 +2730,10 @@
     "Prywatne": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Kamienica",
-    "Powierzchnia": " 53 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 800 z\u0142",
+    "Rodzaj zabudowy": "Kamienica",
+    "Powierzchnia": 53,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 800,
     "Number": 196
   },
   {
@@ -2746,10 +2744,10 @@
     "Prywatne": "Tak",
     "Poziom": " 3",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 43 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 600 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 43,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 600,
     "Number": 197
   },
   {
@@ -2760,10 +2758,10 @@
     "Firmowe": "Tak",
     "Poziom": " 8",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Apartamentowiec",
-    "Powierzchnia": " 39 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 400 z\u0142",
+    "Rodzaj zabudowy": "Apartamentowiec",
+    "Powierzchnia": 39,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 400,
     "Number": 198
   },
   {
@@ -2774,10 +2772,10 @@
     "Prywatne": "Tak",
     "Poziom": " Parter",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 25 m\u00b2",
-    "Liczba pokoi": " Kawalerka",
-    "Czynsz (dodatkowo)": " 400 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 25,
+    "Liczba pokoi": "Kawalerka",
+    "Czynsz (dodatkowo)": 400,
     "Number": 199
   },
   {
@@ -2788,10 +2786,10 @@
     "Firmowe": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Apartamentowiec",
-    "Powierzchnia": " 47 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 550 z\u0142",
+    "Rodzaj zabudowy": "Apartamentowiec",
+    "Powierzchnia": 47,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 550,
     "Number": 200
   },
   {
@@ -2802,10 +2800,10 @@
     "Prywatne": "Tak",
     "Poziom": " Parter",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Kamienica",
-    "Powierzchnia": " 18 m\u00b2",
-    "Liczba pokoi": " Kawalerka",
-    "Czynsz (dodatkowo)": " 400 z\u0142",
+    "Rodzaj zabudowy": "Kamienica",
+    "Powierzchnia": 18,
+    "Liczba pokoi": "Kawalerka",
+    "Czynsz (dodatkowo)": 400,
     "Number": 201
   },
   {
@@ -2816,10 +2814,10 @@
     "Firmowe": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Apartamentowiec",
-    "Powierzchnia": " 34 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 250 z\u0142",
+    "Rodzaj zabudowy": "Apartamentowiec",
+    "Powierzchnia": 34,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 250,
     "Number": 202
   },
   {
@@ -2830,10 +2828,10 @@
     "Firmowe": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Kamienica",
-    "Powierzchnia": " 32 m\u00b2",
-    "Liczba pokoi": " Kawalerka",
-    "Czynsz (dodatkowo)": " 330 z\u0142",
+    "Rodzaj zabudowy": "Kamienica",
+    "Powierzchnia": 32,
+    "Liczba pokoi": "Kawalerka",
+    "Czynsz (dodatkowo)": 330,
     "Number": 203
   },
   {
@@ -2844,10 +2842,10 @@
     "Prywatne": "Tak",
     "Poziom": " Parter",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 50 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 490 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 50,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 490,
     "Number": 204
   },
   {
@@ -2858,10 +2856,10 @@
     "Prywatne": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 36 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 360 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 36,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 360,
     "Number": 205
   },
   {
@@ -2872,10 +2870,10 @@
     "Firmowe": "Tak",
     "Poziom": " Parter",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Apartamentowiec",
-    "Powierzchnia": " 25 m\u00b2",
-    "Liczba pokoi": " Kawalerka",
-    "Czynsz (dodatkowo)": " 700 z\u0142",
+    "Rodzaj zabudowy": "Apartamentowiec",
+    "Powierzchnia": 25,
+    "Liczba pokoi": "Kawalerka",
+    "Czynsz (dodatkowo)": 700,
     "Number": 206
   },
   {
@@ -2886,10 +2884,10 @@
     "Firmowe": "Tak",
     "Poziom": " Parter",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Apartamentowiec",
-    "Powierzchnia": " 30 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 700 z\u0142",
+    "Rodzaj zabudowy": "Apartamentowiec",
+    "Powierzchnia": 30,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 700,
     "Number": 207
   },
   {
@@ -2900,10 +2898,10 @@
     "Prywatne": "Tak",
     "Poziom": " 4",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Apartamentowiec",
-    "Powierzchnia": " 36 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 450 z\u0142",
+    "Rodzaj zabudowy": "Apartamentowiec",
+    "Powierzchnia": 36,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 450,
     "Number": 208
   },
   {
@@ -2914,10 +2912,10 @@
     "Firmowe": "Tak",
     "Poziom": " Parter",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 36 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 520 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 36,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 520,
     "Number": 209
   },
   {
@@ -2928,10 +2926,10 @@
     "Prywatne": "Tak",
     "Poziom": " 4",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Kamienica",
-    "Powierzchnia": " 20 m\u00b2",
-    "Liczba pokoi": " Kawalerka",
-    "Czynsz (dodatkowo)": " 600 z\u0142",
+    "Rodzaj zabudowy": "Kamienica",
+    "Powierzchnia": 20,
+    "Liczba pokoi": "Kawalerka",
+    "Czynsz (dodatkowo)": 600,
     "Number": 210
   },
   {
@@ -2942,10 +2940,10 @@
     "Firmowe": "Tak",
     "Poziom": " Powy\u017cej 10",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Apartamentowiec",
-    "Powierzchnia": " 61 m\u00b2",
-    "Liczba pokoi": " 3 pokoje",
-    "Czynsz (dodatkowo)": " 400 z\u0142",
+    "Rodzaj zabudowy": "Apartamentowiec",
+    "Powierzchnia": 61,
+    "Liczba pokoi": "3 pokoje",
+    "Czynsz (dodatkowo)": 400,
     "Number": 211
   },
   {
@@ -2956,10 +2954,10 @@
     "Prywatne": "Tak",
     "Poziom": " 9",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 28 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 599,65 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 28,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 599.65,
     "Number": 212
   },
   {
@@ -2970,10 +2968,10 @@
     "Prywatne": "Tak",
     "Poziom": " 9",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Apartamentowiec",
-    "Powierzchnia": " 37,50 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 1 z\u0142",
+    "Rodzaj zabudowy": "Apartamentowiec",
+    "Powierzchnia": 37.5,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 1,
     "Number": 213
   },
   {
@@ -2984,10 +2982,10 @@
     "Firmowe": "Tak",
     "Poziom": " Parter",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Kamienica",
-    "Powierzchnia": " 17 m\u00b2",
-    "Liczba pokoi": " Kawalerka",
-    "Czynsz (dodatkowo)": " 500 z\u0142",
+    "Rodzaj zabudowy": "Kamienica",
+    "Powierzchnia": 17,
+    "Liczba pokoi": "Kawalerka",
+    "Czynsz (dodatkowo)": 500,
     "Number": 214
   },
   {
@@ -2998,10 +2996,10 @@
     "Prywatne": "Tak",
     "Poziom": " 4",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 20 m\u00b2",
-    "Liczba pokoi": " 3 pokoje",
-    "Czynsz (dodatkowo)": " 25 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 20,
+    "Liczba pokoi": "3 pokoje",
+    "Czynsz (dodatkowo)": 25,
     "Number": 215
   },
   {
@@ -3012,10 +3010,10 @@
     "Prywatne": "Tak",
     "Poziom": " 6",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 42 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 750 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 42,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 750,
     "Number": 216
   },
   {
@@ -3026,10 +3024,10 @@
     "Prywatne": "Tak",
     "Poziom": " 4",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 65 m\u00b2",
-    "Liczba pokoi": " 3 pokoje",
-    "Czynsz (dodatkowo)": " 600 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 65,
+    "Liczba pokoi": "3 pokoje",
+    "Czynsz (dodatkowo)": 600,
     "Number": 217
   },
   {
@@ -3040,10 +3038,10 @@
     "Firmowe": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Apartamentowiec",
-    "Powierzchnia": " 49 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 400 z\u0142",
+    "Rodzaj zabudowy": "Apartamentowiec",
+    "Powierzchnia": 49,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 400,
     "Number": 218
   },
   {
@@ -3054,10 +3052,10 @@
     "Prywatne": "Tak",
     "Poziom": " 1",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 44 m\u00b2",
-    "Liczba pokoi": " 2 pokoje",
-    "Czynsz (dodatkowo)": " 320 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 44,
+    "Liczba pokoi": "2 pokoje",
+    "Czynsz (dodatkowo)": 320,
     "Number": 219
   },
   {
@@ -3068,10 +3066,10 @@
     "Prywatne": "Tak",
     "Poziom": " 2",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Apartamentowiec",
-    "Powierzchnia": " 60 m\u00b2",
-    "Liczba pokoi": " 3 pokoje",
-    "Czynsz (dodatkowo)": " 800 z\u0142",
+    "Rodzaj zabudowy": "Apartamentowiec",
+    "Powierzchnia": 60,
+    "Liczba pokoi": "3 pokoje",
+    "Czynsz (dodatkowo)": 800,
     "Number": 220
   },
   {
@@ -3082,10 +3080,10 @@
     "Firmowe": "Tak",
     "Poziom": " 2",
     "Umeblowane": " Tak",
-    "Rodzaj zabudowy": " Blok",
-    "Powierzchnia": " 32 m\u00b2",
-    "Liczba pokoi": " Kawalerka",
-    "Czynsz (dodatkowo)": " 500 z\u0142",
+    "Rodzaj zabudowy": "Blok",
+    "Powierzchnia": 32,
+    "Liczba pokoi": "Kawalerka",
+    "Czynsz (dodatkowo)": 500,
     "Number": 221
   }
 ]
