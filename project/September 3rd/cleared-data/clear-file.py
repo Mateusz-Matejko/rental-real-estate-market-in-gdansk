@@ -1,7 +1,7 @@
 import json
 
 
-with open("data-operations.json", "r") as json_file:
+with open("cleared-data.json", "r") as json_file:
     data = json.load(json_file)
 
 # for listing in data:
@@ -12,5 +12,5 @@ with open("data-operations.json", "r") as json_file:
 #         listing["Liczba pokoi"] = int(listing["Liczba pokoi"])
 #     print(listing["Liczba pokoi"])
 
-with open("data-operations.json", "w") as json_file:
+with open("cleared-data.json", "w") as json_file:
     json.dump(data, json_file, indent=2, sort_keys=True)
