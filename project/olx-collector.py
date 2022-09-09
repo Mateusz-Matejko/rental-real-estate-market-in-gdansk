@@ -165,7 +165,11 @@ def get_from_olx():
 
 
 def save_collected_data():
+<<<<<<< HEAD:project/olx-collector.py
     with open("collected september 3rd/original-data.json", "a") as json_file:
+=======
+    with open("3rd September collected/original-data/result.json", "a") as json_file:
+>>>>>>> work_branch:project/olx-data-collector.py
         json.dump(listings, json_file)
 
 
