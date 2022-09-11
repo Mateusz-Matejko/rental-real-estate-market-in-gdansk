@@ -4,9 +4,7 @@ import pprint
 from selenium import webdriver
 import time
 from selenium.webdriver.common.by import By
-from selenium.webdriver.common.keys import Keys
 from datetime import datetime
-from selenium.webdriver.common.action_chains import ActionChains
 
 data_start = datetime.now()
 # Step 0 - define path and driver
@@ -165,12 +163,8 @@ def get_from_olx():
 
 
 def save_collected_data():
-<<<<<<< HEAD:project/olx-collector.py
-    with open("collected september 3rd/original-data.json", "a") as json_file:
-=======
-    with open("3rd September collected/original-data/result.json", "a") as json_file:
->>>>>>> work_branch:project/olx-data-collector.py
-        json.dump(listings, json_file)
+    with open("data10.json", "a") as json_file:
+        json.dump(listings, json_file, indent=2)
 
 
 def finish():
