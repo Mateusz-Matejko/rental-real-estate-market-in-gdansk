@@ -1,25 +1,34 @@
-import json
-import pprint
+"""
+Creation of data:
 
-# how to change key
-# dictionary[new_key] = dictionary.pop(old_key)
+"building-type": ["Blok", "Kamienica", "Dom wolnostojący", "Apartamentowiec"]
+"furnished": true, false
+"level": 0-10, if 11 level is higher than 10, None if no info.
+"link": listing link,
+"listing_no": number of listing,
+"negotiable": true, false
+"private": true, false
+"publish-date": "YYYY-MM-DD",
+"rent": standard price,
+"rent-extra": shared rent,
+"rent-full": full-rent,
+"rooms": 1-3, 4 if is 4 or more.
+"surface": square meters
+"title": "Title of listing"
+"""
 
+"""
+Procedure of cleaning: All in
+1. STRIP IT
+1. "rent", "negotiable"
+2. Listing clear/ keys / negotiable/ private
+3. level, rent-full, private, rent-extra
+4. furnished, surface, rooms
+5. counter, repetition
+6. Publish date
+"""
 
-with open("cleared-data-11sep.json", "r") as json_file:
-    result = json.load(json_file)
-
-
-
-
-print("Success")
-
-try:
-    with open("cleared-data-11sep.json", "w") as json_file:
-        json.dump(result, json_file, indent=2, sort_keys=True)
-        print("Successfully saved")
-except:
-    print("Failed to save")
-
+#DETAILED
 
 # # 1. STRIP IT
 # for listing in result:
