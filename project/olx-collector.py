@@ -1,6 +1,5 @@
 import json
 import pprint
-
 from selenium import webdriver
 import time
 from selenium.webdriver.common.by import By
@@ -139,12 +138,12 @@ def get_from_otodom():
 def get_from_olx():
     listing = {}
     price = driver.find_element(By.CLASS_NAME, "css-dcwlyx")
-    listing["Price"] = price.text
+    listing["rent"] = price.text
     date_n_tile = driver.find_elements(By.CLASS_NAME, "css-sg1fy9")
     date = date_n_tile[0]
-    listing["Date"] = date.text.lstrip("Dodane")
+    listing["publish-date"] = date.text.lstrip("Dodane")
     title = date_n_tile[1]
-    listing["Title"] = title.text
+    listing["title"] = title.text
     listing["link"] = driver.current_url
     # description = driver.find_element(By.CLASS_NAME, "css-g5mtbi-Text")
     # listing["Opis"] = description.text
@@ -163,7 +162,7 @@ def get_from_olx():
 
 
 def save_collected_data():
-    with open("data10.json", "a") as json_file:
+    with open("collected september 11th/original-data/original-data-10.json", "a") as json_file:
         json.dump(listings, json_file, indent=2)
 
 
