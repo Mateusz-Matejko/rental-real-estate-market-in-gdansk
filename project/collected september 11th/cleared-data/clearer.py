@@ -8,8 +8,22 @@ import pprint
 with open("cleared-data-11sep.json", "r") as json_file:
     result = json.load(json_file)
 
-
-
+for listing in result:
+    x = listing["building-type"]
+    if x == "Blok":
+        listing["building-type"] = 4
+    elif x == "Apartamentowiec":
+        listing["building-type"] = 5
+    elif x == "Kamienica":
+        listing["building-type"] = 2
+    elif x == "Dom wolnostojący":
+        listing["building-type"] = 1
+    elif x == "Szeregowiec":
+        listing["building-type"] = 3
+    elif x == "Pozostałe":
+        listing["building-type"] = 0
+    elif x not in [0, 1, 2, 3, 4, 5]:
+        print(listing["building-type"])
 
 print("Success")
 
@@ -115,3 +129,23 @@ except:
 #         month = 9
 #         year = 2022
 #     listing["publish-date"] = f"{year:02}-{month:02}-{day:02}"
+#
+# # Bulding Type
+# with open("cleared-data-11sep.json", "r") as json_file:
+#     for listing in json_file:
+#         x = listing["building-type"]
+#         if x == "Blok":
+#             listing["building-type"] = 4
+#         elif x == "Apartamentowiec":
+#             listing["building-type"] = 5
+#         elif x == "Kamienica":
+#             listing["building-type"] = 2
+#         elif x == "Dom wolnostojący":
+#             listing["building-type"] = 1
+#         elif x == "Szeregowiec":
+#             listing["building-type"] = 3
+#         elif x == "Pozostałe":
+#             listing["building-type"] = 0
+#         elif x not in [0, 1, 2, 3, 4, 5]:
+#             print(listing["building-type"])
+#             input()

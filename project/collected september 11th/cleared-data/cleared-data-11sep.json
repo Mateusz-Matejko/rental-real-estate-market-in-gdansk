@@ -1,6 +1,6 @@
 [
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/wynajme-przestronne-mieszkanie-CID3-IDQM97v.html",
@@ -16,7 +16,7 @@
     "title": "Wynajm\u0119 przestronne mieszkanie"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 3,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-gdansk-przymorze-CID3-IDQQOOA.html",
@@ -32,7 +32,7 @@
     "title": "Mieszkanie 2 pokojowe Gda\u0144sk Przymorze"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 4,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-4-pokoje-na-oruni-gornej-CID3-IDQll8w.html",
@@ -48,7 +48,7 @@
     "title": "Mieszkanie, 4 pokoje na Oruni G\u00f3rnej"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-dwupokojowe-wynajem-CID3-IDQPBLf.html",
@@ -64,7 +64,7 @@
     "title": "Mieszkanie dwupokojowe wynajem"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 4,
     "link": "https://www.olx.pl/d/oferta/wynajem-mieszkania-CID3-IDQPmzW.html",
@@ -80,7 +80,7 @@
     "title": "Wynajem mieszkania"
   },
   {
-    "building-type": "Kamienica",
+    "building-type": 2,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/apartament-gdansk-pokoje-wynajem-mieszkania-CID3-IDMNo4L.html",
@@ -96,7 +96,7 @@
     "title": "Apartament Gda\u0144sk, pokoje, wynajem mieszkania"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 0,
     "link": "https://www.olx.pl/d/oferta/wynajme-mieszkanie-gdansk-przymorze-CID3-IDQOsP5.html",
@@ -112,7 +112,7 @@
     "title": "Wynajm\u0119 mieszkanie Gda\u0144sk Przymorze"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 3,
     "link": "https://www.olx.pl/d/oferta/gdansk-kawalerka-30-43-m2-na-wynajem-od-10-wrzesnia-2022-roku-CID3-IDQMUFC.html",
@@ -128,7 +128,7 @@
     "title": "Gda\u0144sk kawalerka 30,43 m2 na wynajem od 10 wrze\u015bnia 2022 roku"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-jasien-CID3-IDQNFpe.html",
@@ -144,7 +144,7 @@
     "title": "Mieszkanie 2 pokojowe Jasie\u0144"
   },
   {
-    "building-type": "Dom wolnostoj\u0105cy",
+    "building-type": 1,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/rezerwacja-do-17-09-wynajme-apartament-43-m-gdansk-suchanino-CID3-IDI6b1y.html",
@@ -160,7 +160,7 @@
     "title": "Rezerwacja do 17.09. Wynajm\u0119 apartament 43 m Gda\u0144sk- Suchanino"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/kawalerka-30m2-2150zl-super-lokalizacja-przymorze-CID3-IDMDsJC.html",
@@ -176,7 +176,7 @@
     "title": "Kawalerka 30m2 2150z\u0142 Super Lokalizacja Przymorze"
   },
   {
-    "building-type": "Dom wolnostoj\u0105cy",
+    "building-type": 1,
     "furnished": true,
     "level": 0,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-do-wynajecia-CID3-IDNlP8i.html",
@@ -192,7 +192,7 @@
     "title": "Mieszkanie 2 pokojowe do Wynaj\u0119cia !"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 6,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-apartament-2-pokojowe-z-miejscem-parkingowym-w-brzeznie-CID3-IDQP6ZA.html",
@@ -208,7 +208,7 @@
     "title": "Mieszkanie (apartament) 2-pokojowe z miejscem parkingowym w Brze\u017anie"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/sloneczna-kawalerka-z-podziemnym-miejscem-parkingowym-CID3-IDJ218C.html",
@@ -224,7 +224,7 @@
     "title": "S\u0142oneczna kawalerka z podziemnym miejscem parkingowym"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 3,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-gdansk-przymorze-prywatnie-CID3-IDQMXaf.html",
@@ -240,7 +240,7 @@
     "title": "Mieszkanie na Wynajem Gda\u0144sk Przymorze Prywatnie"
   },
   {
-    "building-type": "Kamienica",
+    "building-type": 2,
     "furnished": true,
     "level": 0,
     "link": "https://www.olx.pl/d/oferta/dwa-pokoje-dla-dwoch-studentek-w-duzym-mieszkaniu-z-ogrodem-w-oliwie-CID3-IDQNGSw.html",
@@ -256,7 +256,7 @@
     "title": "Dwa pokoje dla dw\u00f3ch studentek w du\u017cym mieszkaniu z ogrodem w Oliwie"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 4,
     "link": "https://www.olx.pl/d/oferta/cudowne-mieszkanie-na-wynajem-przymorze-CID3-IDQDn7z.html",
@@ -272,7 +272,7 @@
     "title": "Cudowne mieszkanie na wynajem - Przymorze"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 0,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-gdansk-zabianka-wynajem-od-pazdziernika-CID3-IDQP8BT.html",
@@ -288,7 +288,7 @@
     "title": "Mieszkanie 2 pokojowe Gda\u0144sk, \u017babianka. wynajem od pa\u017adziernika"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 5,
     "link": "https://www.olx.pl/d/oferta/bardzo-ladna-kawalerka-gdansk-brzezno-przy-plazy-blisko-tramwaj-CID3-IDQGmvM.html",
@@ -304,7 +304,7 @@
     "title": "Bardzo \u0142adna kawalerka -> Gda\u0144sk Brze\u017ano przy pla\u017cy, blisko tramwaj"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 0,
     "link": "https://www.olx.pl/d/oferta/wynajem-pokoju-po-remoncie-rezerwacja-CID3-IDQNweo.html",
@@ -320,7 +320,7 @@
     "title": "Wynajem pokoju po remoncie Rezerwacja"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 3,
     "link": "https://www.olx.pl/d/oferta/komfortowy-apartament-z-balkonem-gdansk-srodmiescie-ul-walowa-CID3-IDQQbWr.html",
@@ -336,7 +336,7 @@
     "title": "Komfortowy apartament z balkonem, Gda\u0144sk \u015ar\u00f3dmie\u015bcie, ul. Wa\u0142owa"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 0,
     "link": "https://www.olx.pl/d/oferta/3-pokoje-gdansk-brzezno-wynajem-CID3-IDQHjAY.html",
@@ -352,7 +352,7 @@
     "title": "3 pokoje Gda\u0144sk Brze\u017ano wynajem"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 8,
     "link": "https://www.olx.pl/d/oferta/wynajem-mieszkania-gdansk-morena-CID3-IDQsVJz.html",
@@ -368,7 +368,7 @@
     "title": "Wynajem mieszkania, Gda\u0144sk Morena."
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 11,
     "link": "https://www.olx.pl/d/oferta/atrakcyjny-apartament-blisko-morza-CID3-IDHkUky.html",
@@ -384,7 +384,7 @@
     "title": "Atrakcyjny apartament blisko morza"
   },
   {
-    "building-type": "Kamienica",
+    "building-type": 2,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-46m2-gdansk-chelm-wolne-od-pazdziernika-CID3-IDQctin.html",
@@ -400,7 +400,7 @@
     "title": "Mieszkanie 46m2 Gda\u0144sk Che\u0142m, wolne od pazdziernika"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-gdansk-przymorze-wynajem-kawalerka-niski-blok-1-pietro-27m-CID3-IDMhWMj.html",
@@ -416,7 +416,7 @@
     "title": "Mieszkanie Gda\u0144sk Przymorze wynajem, kawalerka niski blok 1 pi\u0119tro 27m"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 4,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-gdansk-srodmiescie-CID3-IDQNitU.html",
@@ -432,7 +432,7 @@
     "title": "Mieszkanie do wynaj\u0119cia, Gda\u0144sk \u015ar\u00f3dmie\u015bcie"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 5,
     "link": "https://www.olx.pl/d/oferta/piekna-kawalerka-przy-plazy-2-min-tramwaj-CID3-IDQBNC1.html",
@@ -448,7 +448,7 @@
     "title": "Pi\u0119kna kawalerka przy pla\u017cy, 2 min tramwaj"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 0,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-we-wrzeszczu-z-garazem-CID3-IDE7hYE.html",
@@ -464,7 +464,7 @@
     "title": "Mieszkanie we Wrzeszczu z gara\u017cem"
   },
   {
-    "building-type": "Dom wolnostoj\u0105cy",
+    "building-type": 1,
     "furnished": true,
     "level": 0,
     "link": "https://www.olx.pl/d/oferta/wynajme-mieszkanie-CID3-IDQOXXV.html",
@@ -480,7 +480,7 @@
     "title": "Wynajm\u0119 mieszkanie"
   },
   {
-    "building-type": "Kamienica",
+    "building-type": 2,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-garbary-starowka-CID3-IDQDCS3.html",
@@ -496,7 +496,7 @@
     "title": "Mieszkanie Garbary Star\u00f3wka"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 3,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-gdansk-srodmiescie-CID3-IDOnF6d.html",
@@ -512,7 +512,7 @@
     "title": "Mieszkanie na wynajem Gda\u0144sk \u015ar\u00f3dmie\u015bcie"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/kawalerka-na-wynajem-CID3-IDLIAza.html",
@@ -528,7 +528,7 @@
     "title": "Kawalerka na wynajem"
   },
   {
-    "building-type": "Kamienica",
+    "building-type": 2,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/seredynskiego-studio-centrum-gdanska-3-min-tramwaj-park-sklepy-CID3-IDQJYh8.html",
@@ -544,7 +544,7 @@
     "title": "Seredy\u0144skiego Studio - centrum Gda\u0144ska, 3 min tramwaj, park, sklepy"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 3,
     "link": "https://www.olx.pl/d/oferta/kawalerka-gdansk-siedlce-srodmiescie-22m-nowa-CID3-IDKU8tm.html",
@@ -560,7 +560,7 @@
     "title": "Kawalerka Gda\u0144sk Siedlce/\u015ar\u00f3dmie\u015bcie-22m*-NOWA !"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/gdansk-zabianka-kawalerka-800m-od-morza-CID3-IDKIDtY.html",
@@ -576,7 +576,7 @@
     "title": "Gda\u0144sk \u017babianka - Kawalerka 800m od morza!"
   },
   {
-    "building-type": "Kamienica",
+    "building-type": 2,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-garbary-starowka-CID3-IDQDCS3.html",
@@ -592,7 +592,7 @@
     "title": "Mieszkanie Garbary Star\u00f3wka"
   },
   {
-    "building-type": "Szeregowiec",
+    "building-type": 3,
     "furnished": true,
     "level": 0,
     "link": "https://www.olx.pl/d/oferta/b-ladne-wyposazone-niskie-oplaty-CID3-IDQGuUV.html",
@@ -608,7 +608,7 @@
     "title": "B. \u0142adne, wyposa\u017cone, niskie op\u0142aty"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 3,
     "link": "https://www.olx.pl/d/oferta/wynajme-mieszkanie-2-pokojowe-gdansk-przymorze-wolne-od-1-10-2022-CID3-IDJsjyi.html",
@@ -624,7 +624,7 @@
     "title": "Wynajm\u0119 mieszkanie 2-pokojowe- Gda\u0144sk Przymorze! Wolne od 1.10.2022."
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/3-pokojowe-mieszkanie-po-remoncie-bezposrednio-nowy-port-letnica-CID3-IDQLfNL.html",
@@ -640,7 +640,7 @@
     "title": "3 pokojowe mieszkanie po remoncie, bezpo\u015brednio, Nowy Port Letnica"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-dwupokojowe-na-wynajem-CID3-IDQKhG0.html",
@@ -656,7 +656,7 @@
     "title": "Mieszkanie dwupokojowe na wynajem"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 3,
     "link": "https://www.olx.pl/d/oferta/wynajme-mieszkanie-2-pokojowe-gdansk-przymorze-wolne-od-1-10-2022-CID3-IDQL4jW.html",
@@ -672,7 +672,7 @@
     "title": "Wynajm\u0119 mieszkanie 2-pokojowe- Gda\u0144sk Przymorze! Wolne od 1.10.2022."
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/sloneczne-2-pokojowe-mieszkanie-CID3-IDItWCX.html",
@@ -688,7 +688,7 @@
     "title": "S\u0142oneczne 2-pokojowe mieszkanie"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/wynajme-mieszkanie-2-pokoje-z-ogrodkiem-CID3-IDDrhVi.html",
@@ -704,7 +704,7 @@
     "title": "Wynajm\u0119 mieszkanie 2 pokoje z ogr\u00f3dkiem"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 3,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-2-pokoje-do-wynajecia-CID3-IDQNOrm.html",
@@ -720,7 +720,7 @@
     "title": "Mieszkanie 2 pokoje do wynaj\u0119cia"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 3,
     "link": "https://www.olx.pl/d/oferta/gdansk-mieszkanie-kawalerka-gdansk-blisko-starwka-stare-miasto-CID3-IDQJB8B.html",
@@ -736,7 +736,7 @@
     "title": "Gda\u0144sk mieszkanie kawalerka Gda\u0144sk blisko Star\u00f2wka,Stare miasto."
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/wynajem-apartamentu-gdansk-poludnie-CID3-IDQu9Xy.html",
@@ -752,7 +752,7 @@
     "title": "Wynajem apartamentu Gda\u0144sk-Po\u0142udnie"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/kawalerka-obok-c-h-matarnia-CID3-IDQFdHz.html",
@@ -768,7 +768,7 @@
     "title": "Kawalerka Obok C.H. Matarnia"
   },
   {
-    "building-type": "Kamienica",
+    "building-type": 2,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/przestronne-4-pok-mieszkanie-w-centrum-wrzeszcza-CID3-IDLqvDo.html",
@@ -784,7 +784,7 @@
     "title": "Przestronne 4-pok. mieszkanie w centrum Wrzeszcza"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 6,
     "link": "https://www.olx.pl/d/oferta/2-pokoje-wolne-od-zaraz-gdansk-przymorze-ul-obroncow-wybrzeza-CID3-IDQN6uM.html",
@@ -800,7 +800,7 @@
     "title": "2 pokoje wolne od zaraz Gda\u0144sk Przymorze ul. Obro\u0144c\u00f3w Wybrze\u017ca"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-2-pokoje-gdansk-morelowa-2600-wolne-od-1-10-2022-CID3-IDK5lch.html",
@@ -816,7 +816,7 @@
     "title": "Mieszkanie 2 pokoje - Gdansk Morelowa 2600 - wolne od 1.10.2022"
   },
   {
-    "building-type": "Kamienica",
+    "building-type": 2,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-5-pokoi-wrzeszcz-CID3-IDQNrls.html",
@@ -832,7 +832,7 @@
     "title": "Mieszkanie na wynajem, 5 pokoi, Wrzeszcz"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 3,
     "link": "https://www.olx.pl/d/oferta/wynajem-mieszkania-gdansk-10-minut-od-morza-CID3-IDQKlFy.html",
@@ -848,7 +848,7 @@
     "title": "Wynajem mieszkania Gda\u0144sk 10 minut od morza"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-z-wydzielonym-miejscem-do-pracy-CID3-IDQxujB.html",
@@ -864,7 +864,7 @@
     "title": "Mieszkanie 2 pokojowe z wydzielonym miejscem do pracy."
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 0,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-gdansk-zabianka-wynajem-od-pazdziernika-CID3-IDQP8BT.html",
@@ -880,7 +880,7 @@
     "title": "Mieszkanie 2 pokojowe Gda\u0144sk, \u017babianka. wynajem od pa\u017adziernika"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/wynajme-przestronne-mieszkanie-CID3-IDQM97v.html",
@@ -896,7 +896,7 @@
     "title": "Wynajm\u0119 przestronne mieszkanie"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 0,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-45-5m2-w-gdansku-dzielnica-ujescisko-CID3-IDMNiGm.html",
@@ -912,7 +912,7 @@
     "title": "Mieszkanie 2-pokojowe, 45,5m2 w Gda\u0144sku, dzielnica Uje\u015bcisko"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": "Nie",
     "level": 6,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-44m-przymorze-CID3-IDQMFhd.html",
@@ -928,7 +928,7 @@
     "title": "Mieszkanie 44m Przymorze"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/nowe-2-pokojowe-mieszkanie-z-duzym-balkonem-CID3-IDQL2d8.html",
@@ -944,7 +944,7 @@
     "title": "Nowe 2 pokojowe mieszkanie z du\u017cym balkonem"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 0,
     "link": "https://www.olx.pl/d/oferta/wynajme-studentom-atrakcyjne-2-pok-kuchnia-gdansk-przymorze-CID3-IDQOHYj.html",
@@ -960,7 +960,7 @@
     "title": "Wynajm\u0119 studentom atrakcyjne 2 pok.+kuchnia, Gda\u0144sk-Przymorze"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 8,
     "link": "https://www.olx.pl/d/oferta/dwupokojowe-mieszkanie-na-przymorzu-blisko-plazy-oraz-ug-CID3-IDQEmDS.html",
@@ -976,7 +976,7 @@
     "title": "Dwupokojowe mieszkanie na Przymorzu. Blisko pla\u017cy oraz UG"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 4,
     "link": "https://www.olx.pl/d/oferta/nowy-komfortowy-apartament-w-gdansku-letnicy-2-pokoje-51-m-kw-CID3-IDQwvCj.html",
@@ -992,7 +992,7 @@
     "title": "Nowy komfortowy apartament w Gda\u0144sku Letnicy 2 pokoje, 51 m.kw."
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/2-pokoje-hala-garazowa-w-bastion-walowa-wynajem-dlugoterminowy-CID3-IDLxd80.html",
@@ -1008,7 +1008,7 @@
     "title": "2 pokoje+ hala gara\u017cowa w Bastion Wa\u0142owa. Wynajem d\u0142ugoterminowy"
   },
   {
-    "building-type": "Kamienica",
+    "building-type": 2,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-wynajme-2-pokoje-srodmiescie-starowka-CID3-IDQJmp9.html",
@@ -1024,7 +1024,7 @@
     "title": "Mieszkanie na wynajem ,wynajm\u0119 2 pokoje \u015ar\u00f3dmie\u015bcie Star\u00f3wka"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": "Nie",
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/wynajme-2-pokojowe-mieszkanie-ok-50-m2-gdansk-CID3-IDQKjrV.html",
@@ -1040,7 +1040,7 @@
     "title": "Wynajm\u0119 2-pokojowe mieszkanie ok.50 m2 Gda\u0144sk"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-dla-9-osob-CID3-IDQMOtv.html",
@@ -1056,7 +1056,7 @@
     "title": "Mieszkanie na wynajem dla 9 os\u00f3b"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 4,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-dwupokojowe-gdansk-jasien-os-gardenia-CID3-IDQHABm.html",
@@ -1072,7 +1072,7 @@
     "title": "Mieszkanie dwupokojowe Gda\u0144sk Jasie\u0144, os. Gardenia"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 9,
     "link": "https://www.olx.pl/d/oferta/2-pokojowe-49m-z-ladnym-widokiem-i-ekstra-lokalizacja-zaspa-CID3-IDQMW8B.html",
@@ -1088,7 +1088,7 @@
     "title": "2 pokojowe 49m z \u0142adnym widokiem i ekstra lokalizacj\u0105 -Zaspa"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": null,
     "link": "https://www.olx.pl/d/oferta/kawalerka-gdansk-przymorze-obok-decathlon-od-1-10-CID3-IDQFQ2c.html",
@@ -1104,7 +1104,7 @@
     "title": "Kawalerka Gda\u0144sk Przymorze obok Decathlon od 1.10"
   },
   {
-    "building-type": "Kamienica",
+    "building-type": 2,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/pokoj-z-aneksem-kuchennym-i-lazienka-z-prysznicem-w-centrum-CID3-IDQBLlI.html",
@@ -1120,7 +1120,7 @@
     "title": "Pok\u00f3j z aneksem kuchennym i \u0142azienk\u0105 z prysznicem w centrum"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 10,
     "link": "https://www.olx.pl/d/oferta/kawalerka-wynajem-na-rok-akademicki-gdansk-przymorze-CID3-IDQKM51.html",
@@ -1136,7 +1136,7 @@
     "title": "Kawalerka, wynajem na rok akademicki, Gda\u0144sk Przymorze"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 0,
     "link": "https://www.olx.pl/d/oferta/apartament-wynajem-dlugoterminowy-z-ogrodkiem-i-garazem-podziemnym-CID3-IDPoaOZ.html",
@@ -1152,7 +1152,7 @@
     "title": "Apartament - wynajem d\u0142ugoterminowy, z ogr\u00f3dkiem i gara\u017cem podziemnym"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-49m2-na-osiedlu-monitorowanym-z-miejscem-postojowym-powrot-CID3-IDJ12Mz.html",
@@ -1168,7 +1168,7 @@
     "title": "Mieszkanie 49m2 na osiedlu monitorowanym z miejscem postojowym powr\u00f3t"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 4,
     "link": "https://www.olx.pl/d/oferta/klimatyczne-2-pokojowe-mieszkanko-dla-singla-lub-pary-blisko-obc-CID3-IDQFtNH.html",
@@ -1184,7 +1184,7 @@
     "title": "Klimatyczne 2 pokojowe mieszkanko dla singla lub pary, blisko OBC"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-CID3-IDQhE5U.html",
@@ -1200,7 +1200,7 @@
     "title": "Mieszkanie na wynajem"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 6,
     "link": "https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-z-widokiem-na-morze-gdansk-przymorze-CID3-IDQP8OA.html",
@@ -1216,7 +1216,7 @@
     "title": "2-pokojowe mieszkanie z widokiem na morze Gda\u0144sk Przymorze"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/kawalerka-do-wynajecia-gdansk-chelm-CID3-IDNvRZq.html",
@@ -1232,7 +1232,7 @@
     "title": "Kawalerka do wynaj\u0119cia, Gda\u0144sk Che\u0142m"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 4,
     "link": "https://www.olx.pl/d/oferta/2-pokoje-gdansk-niedzwiednik-ul-goralska-CID3-IDQwaUm.html",
@@ -1248,7 +1248,7 @@
     "title": "2 pokoje Gda\u0144sk Nied\u017awiednik ul. G\u00f3ralska"
   },
   {
-    "building-type": "Kamienica",
+    "building-type": 2,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-46m2-gdansk-chelm-wolne-od-pazdziernika-CID3-IDQctin.html",
@@ -1264,7 +1264,7 @@
     "title": "Mieszkanie 46m2 Gda\u0144sk Che\u0142m, wolne od pazdziernika"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 0,
     "link": "https://www.olx.pl/d/oferta/wyjatkowe-mieszkanie-do-wynajecia-ul-lastadia-CID3-IDQLH3D.html",
@@ -1280,7 +1280,7 @@
     "title": "Wyj\u0105tkowe mieszkanie do wynaj\u0119cia, ul. Lastadia"
   },
   {
-    "building-type": "Pozosta\u0142e",
+    "building-type": 0,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/sloneczne-mieszkanie-na-wynajem-gdansk-ujescisko-2-pokoje-CID3-IDQNK2N.html",
@@ -1296,7 +1296,7 @@
     "title": "S\u0142oneczne Mieszkanie na Wynajem, Gda\u0144sk -Ujescisko, 2 pokoje"
   },
   {
-    "building-type": "Kamienica",
+    "building-type": 2,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-stary-wrzeszcz-CID3-IDQri0J.html",
@@ -1312,7 +1312,7 @@
     "title": "Mieszkanie na wynajem Stary Wrzeszcz"
   },
   {
-    "building-type": "Kamienica",
+    "building-type": 2,
     "furnished": true,
     "level": 0,
     "link": "https://www.olx.pl/d/oferta/wynajme-kawalerke-blisko-morza-CID3-IDHxoc9.html",
@@ -1328,7 +1328,7 @@
     "title": "Wynajm\u0119 kawalerk\u0119 blisko morza"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 9,
     "link": "https://www.olx.pl/d/oferta/2-pokojowe-49m-z-ladnym-widokiem-i-ekstra-lokalizacja-zaspa-CID3-IDQMW8B.html",
@@ -1344,7 +1344,7 @@
     "title": "2 pokojowe 49m z \u0142adnym widokiem i ekstra lokalizacj\u0105 -Zaspa"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/kawalerka-gdansk-zabianka-wynajem-CID3-IDQNHCO.html",
@@ -1360,7 +1360,7 @@
     "title": "Kawalerka Gda\u0144sk \u017babianka-wynajem"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 4,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-gdansk-2-pokoje-wysoki-standard-CID3-IDQzVv7.html",
@@ -1376,7 +1376,7 @@
     "title": "Mieszkanie na wynajem Gda\u0144sk, 2 pokoje, wysoki standard"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-dla-studentow-2-pokoje-balkon-parking-dobra-komunikacja-CID3-IDGk9PS.html",
@@ -1392,7 +1392,7 @@
     "title": "Mieszkanie dla student\u00f3w, 2 pokoje, balkon, parking, dobra komunikacja"
   },
   {
-    "building-type": "Kamienica",
+    "building-type": 2,
     "furnished": true,
     "level": 4,
     "link": "https://www.olx.pl/d/oferta/nowe-kawalerki-typu-studio-ul-lakowa-przy-lpp-CID3-IDQyyBk.html",
@@ -1408,7 +1408,7 @@
     "title": "Nowe kawalerki typu studio, ul. \u0141\u0105kowa przy \"LPP\""
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 3,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-35-m2-stogi-CID3-IDQt4ST.html",
@@ -1424,7 +1424,7 @@
     "title": "Mieszkanie na wynajem 35 m2 Stogi"
   },
   {
-    "building-type": "Kamienica",
+    "building-type": 2,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-sopot-dolny-dwie-sypialnie-dwie-lazienki-70m2-CID3-IDGdrOZ.html",
@@ -1440,7 +1440,7 @@
     "title": "Mieszkanie na wynajem Sopot Dolny dwie sypialnie dwie \u0142azienki 70m2"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/gdansk-zabianka-kawalerka-800m-od-morza-CID3-IDKIDtY.html",
@@ -1456,7 +1456,7 @@
     "title": "Gda\u0144sk \u017babianka - Kawalerka 800m od morza!"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 9,
     "link": "https://www.olx.pl/d/oferta/2-pokojowe-49m-z-ladnym-widokiem-i-ekstra-lokalizacja-zaspa-CID3-IDQMW8B.html",
@@ -1472,7 +1472,7 @@
     "title": "2 pokojowe 49m z \u0142adnym widokiem i ekstra lokalizacj\u0105 -Zaspa"
   },
   {
-    "building-type": "Kamienica",
+    "building-type": 2,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-garbary-starowka-CID3-IDQDCS3.html",
@@ -1488,7 +1488,7 @@
     "title": "Mieszkanie Garbary Star\u00f3wka"
   },
   {
-    "building-type": "Kamienica",
+    "building-type": 2,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-sopot-dolny-dwie-sypialnie-dwie-lazienki-70m2-CID3-IDGdrOZ.html",
@@ -1504,7 +1504,7 @@
     "title": "Mieszkanie na wynajem Sopot Dolny dwie sypialnie dwie \u0142azienki 70m2"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/komfortowa-kawalerka-na-jasieniu-dostepna-od-zaraz-CID3-IDQO4fA.html",
@@ -1520,7 +1520,7 @@
     "title": "Komfortowa kawalerka na Jasieniu. Dost\u0119pna od zaraz!"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": "Nie",
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-gdansk-strzyza-vii-dwor-wrzeszcz-oliwa-35m2-CID3-IDQIS57.html",
@@ -1536,7 +1536,7 @@
     "title": "Mieszkanie na wynajem Gda\u0144sk Strzy\u017ca VII dw\u00f3r wrzeszcz oliwa 35m2"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-3-pokojowe-CID3-IDQoLqb.html",
@@ -1552,7 +1552,7 @@
     "title": "mieszkanie 3 pokojowe"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 4,
     "link": "https://www.olx.pl/d/oferta/kawalerka-przy-plazy-2-min-tramwaj-maks-2-osoby-CID3-IDQDxuZ.html",
@@ -1568,7 +1568,7 @@
     "title": "Kawalerka przy pla\u017cy, 2 min tramwaj, maks 2 osoby"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 3,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-wynajem-najem-gdansk-brzezno-CID3-IDQtcLX.html",
@@ -1584,7 +1584,7 @@
     "title": "Mieszkanie Wynajem Najem Gda\u0144sk Brze\u017ano"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 3,
     "link": "https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-z-miejscem-w-hali-garazowej-CID3-IDQHheR.html",
@@ -1600,7 +1600,7 @@
     "title": "2 pokojowe mieszkanie z miejscem w hali gara\u017cowej"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 4,
     "link": "https://www.olx.pl/d/oferta/eleganckie-mieszkanie-do-wynajmu-CID3-IDQ8IKE.html",
@@ -1616,7 +1616,7 @@
     "title": "Eleganckie mieszkanie do wynajmu"
   },
   {
-    "building-type": "Kamienica",
+    "building-type": 2,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/cool-tiny-studio-with-mezzanine-central-location-3-min-tram-stop-CID3-IDQt1Ua.html",
@@ -1632,7 +1632,7 @@
     "title": "Cool, tiny studio with mezzanine -> central location, 3 min tram stop"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-dla-studentow-2-pokoje-balkon-parking-dobra-komunikacja-CID3-IDGk9PS.html",
@@ -1648,7 +1648,7 @@
     "title": "Mieszkanie dla student\u00f3w, 2 pokoje, balkon, parking, dobra komunikacja"
   },
   {
-    "building-type": "Kamienica",
+    "building-type": 2,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-46m2-gdansk-chelm-wolne-od-pazdziernika-CID3-IDQctin.html",
@@ -1664,7 +1664,7 @@
     "title": "Mieszkanie 46m2 Gda\u0144sk Che\u0142m, wolne od pazdziernika"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 0,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-46m2-przymorze-2-niezalezne-pokoje-po-remoncie-parter-CID3-IDQNUG0.html",
@@ -1680,7 +1680,7 @@
     "title": "Mieszkanie 46m2 PRZYMORZE 2 niezalezne pokoje po remoncie PARTER"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/bez-kaucji-bez-prowizji-2-pokoje-53-mkw-CID3-IDQIRLz.html",
@@ -1696,7 +1696,7 @@
     "title": "Bez kaucji | Bez prowizji | 2 pokoje 53 mkw"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 4,
     "link": "https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-kliniczna-gdansk-wrzeszcz-pg-gumed-CID3-IDLkdLr.html",
@@ -1712,7 +1712,7 @@
     "title": "2-pokojowe mieszkanie Kliniczna Gda\u0144sk Wrzeszcz PG GUMED"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 5,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-centrum-CID3-IDJfGgr.html",
@@ -1728,7 +1728,7 @@
     "title": "Mieszkanie Centrum"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/bastion-walowa-nowoczesne-2-pokoje-gdansk-centrum-CID3-IDLgl4M.html",
@@ -1744,7 +1744,7 @@
     "title": "Bastion Wa\u0142owa nowoczesne 2 pokoje Gda\u0144sk Centrum"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 4,
     "link": "https://www.olx.pl/d/oferta/przytulne-mieszkanie-w-oliwie-CID3-IDQK7bv.html",
@@ -1760,7 +1760,7 @@
     "title": "Przytulne mieszkanie w Oliwie"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 3,
     "link": "https://www.olx.pl/d/oferta/gdansk-2-minut-od-starworki-2-pok-garderoba-i-miejsce-w-hali-garazowej-CID3-IDQC8sC.html",
@@ -1776,7 +1776,7 @@
     "title": "Gdansk 2 minut od starw\u00f3rki 2 pok.garderoba i miejsce w hali garazowej"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 6,
     "link": "https://www.olx.pl/d/oferta/znakomita-lokalizacja-pas-nadmorski-CID3-IDQxPaL.html",
@@ -1792,7 +1792,7 @@
     "title": "Znakomita lokalizacja-pas nadmorski"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 3,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-2-pokoje-do-wynajecia-CID3-IDQNOrm.html",
@@ -1808,7 +1808,7 @@
     "title": "Mieszkanie 2 pokoje do wynaj\u0119cia"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 9,
     "link": "https://www.olx.pl/d/oferta/wynajme-2-pok-mieszkanie-oliwa-zabianka-wstrzymane-CID3-IDQJaG1.html",
@@ -1824,7 +1824,7 @@
     "title": "WYNAJME 2 pok mieszkanie Oliwa/\u017babianka WSTRZYMANE"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 0,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-gdansk-zabianka-wynajem-od-pazdziernika-CID3-IDQP8BT.html",
@@ -1840,7 +1840,7 @@
     "title": "Mieszkanie 2 pokojowe Gda\u0144sk, \u017babianka. wynajem od pa\u017adziernika"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 4,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-4-pokoje-na-oruni-gornej-CID3-IDQll8w.html",
@@ -1856,7 +1856,7 @@
     "title": "Mieszkanie, 4 pokoje na Oruni G\u00f3rnej"
   },
   {
-    "building-type": "Kamienica",
+    "building-type": 2,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/3-pokoje-z-3-lazienkami-w-gdansku-CID3-IDQOSg8.html",
@@ -1872,7 +1872,7 @@
     "title": "3-pokoje z 3 \u0142azienkami w Gda\u0144sku"
   },
   {
-    "building-type": "Kamienica",
+    "building-type": 2,
     "furnished": true,
     "level": 3,
     "link": "https://www.olx.pl/d/oferta/aktualne-wynajem-mieszkania-na-ul-dlugiej-na-gdanskiej-starowce-CID3-IDQHDYo.html",
@@ -1888,7 +1888,7 @@
     "title": "| Aktualne| Wynajem mieszkania na ul. Dlugiej na Gda\u0144skiej Starowce"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-43-6m2-od-wrzesnia-2022-CID3-IDQBc5f.html",
@@ -1904,7 +1904,7 @@
     "title": "Mieszkanie 43,6m2 od wrze\u015bnia 2022"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 0,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-na-parterze-domu-CID3-IDQKUqJ.html",
@@ -1920,7 +1920,7 @@
     "title": "Mieszkanie na parterze domu"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 3,
     "link": "https://www.olx.pl/d/oferta/3-pokoje-z-osobna-kuchnia-z-miejscem-postojowym-CID3-IDQQ7Ro.html",
@@ -1936,7 +1936,7 @@
     "title": "3-pokoje z osobn\u0105 kuchni\u0105 z miejscem postojowym"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 3,
     "link": "https://www.olx.pl/d/oferta/wynajme-mieszkanie-3-pokoje-wrzeszcz-CID3-IDQBxlO.html",
@@ -1952,7 +1952,7 @@
     "title": "Wynajm\u0119 mieszkanie 3 pokoje Wrzeszcz"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 3,
     "link": "https://www.olx.pl/d/oferta/2-pok-lostowice-os-vivaldiego-34m-z-balkonem-CID3-IDQHqu1.html",
@@ -1968,7 +1968,7 @@
     "title": "2-pok, \u0141ostowice os. Vivaldiego, 34m z balkonem"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 4,
     "link": "https://www.olx.pl/d/oferta/kawalerka-gdansk-jelitkowo-wejhera-9-wynajme-CID3-IDQEYaZ.html",
@@ -1984,7 +1984,7 @@
     "title": "Kawalerka Gda\u0144sk Jelitkowo Wejhera 9 wynajm\u0119"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 11,
     "link": "https://www.olx.pl/d/oferta/gdansk-zaspa-przy-skm-nowe-mieszkanie-2-pokojowe-dla-max-4-osob-CID3-IDN9jNN.html",
@@ -2000,7 +2000,7 @@
     "title": "Gda\u0144sk Zaspa przy SKM: Nowe mieszkanie 2-pokojowe dla max. 4 os\u00f3b"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/odnowiona-kawalerka-blisko-morza-CID3-IDIPWz6.html",
@@ -2016,7 +2016,7 @@
     "title": "Odnowiona kawalerka blisko morza"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 4,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-41m2-2-pokoje-gdansk-ul-lakowa-z-garazem-CID3-IDQOUnF.html",
@@ -2032,7 +2032,7 @@
     "title": "Mieszkanie 41m2, 2 pokoje Gda\u0144sk ul. \u0141\u0105kowa z gara\u017cem"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 0,
     "link": "https://www.olx.pl/d/oferta/gdansk-nowa-letnica-mieszkanie-32m2-z-ogrodkiem-wolne-od-zaraz-CID3-IDPWUqY.html",
@@ -2048,7 +2048,7 @@
     "title": "Gda\u0144sk Nowa Letnica mieszkanie 32m2 z ogr\u00f3dkiem. Wolne od zaraz"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 3,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-2-pokoje-do-wynajecia-CID3-IDQNOrm.html",
@@ -2064,7 +2064,7 @@
     "title": "Mieszkanie 2 pokoje do wynaj\u0119cia"
   },
   {
-    "building-type": "Kamienica",
+    "building-type": 2,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/male-mieszkanie-kawalerka-maks-2-osoby-centrum-3-min-tramwaj-CID3-IDQC5bp.html",
@@ -2080,7 +2080,7 @@
     "title": "Ma\u0142e mieszkanie - kawalerka, maks. 2 osoby, centrum, 3 min tramwaj"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 3,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-gdansk-morena-CID3-IDQMH4b.html",
@@ -2096,7 +2096,7 @@
     "title": "Mieszkanie do wynaj\u0119cia - Gda\u0144sk Morena"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 3,
     "link": "https://www.olx.pl/d/oferta/zabi-kruk-studio-apartament-kawalerka-nowoczesna-wynajem-CID3-IDQFBe0.html",
@@ -2112,7 +2112,7 @@
     "title": "\u017babi Kruk Studio Apartament Kawalerka Nowoczesna Wynajem"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 0,
     "link": "https://www.olx.pl/d/oferta/30m-dla-studentow-swietne-wyposazenie-super-punkt-przymorze-CID3-IDQx5IW.html",
@@ -2128,7 +2128,7 @@
     "title": "30m dla student\u00f3w - \u015bwietne wyposa\u017cenie - super punkt Przymorze"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-na-wynajmem-gdansk-wrzeszcz-CID3-IDQQlPK.html",
@@ -2144,7 +2144,7 @@
     "title": "Mieszkanie na wynajmem Gda\u0144sk Wrzeszcz"
   },
   {
-    "building-type": "Kamienica",
+    "building-type": 2,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/wynajem-mieszkanie-gdansk-CID3-IDQJi4m.html",
@@ -2160,7 +2160,7 @@
     "title": "Wynajem Mieszkanie Gda\u0144sk"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 4,
     "link": "https://www.olx.pl/d/oferta/dwa-pokoje-wolne-od-zaraz-gdansk-ul-kolobrzeska-CID3-IDQysng.html",
@@ -2176,7 +2176,7 @@
     "title": "Dwa pokoje wolne od zaraz Gda\u0144sk ul. Ko\u0142obrzeska"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-kawalerka-gdansk-ul-wielkopolska-CID3-IDPMrBt.html",
@@ -2192,7 +2192,7 @@
     "title": "Mieszkanie kawalerka Gda\u0144sk ul. Wielkopolska"
   },
   {
-    "building-type": "Kamienica",
+    "building-type": 2,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/wyjatkowe-mieszkanie-3-pokojowe-w-centrum-gdanska-CID3-IDQFdz7.html",
@@ -2208,7 +2208,7 @@
     "title": "Wyj\u0105tkowe mieszkanie 3 pokojowe w centrum Gda\u0144ska."
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 10,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-nowa-letnica-ul-sucha-33-CID3-IDQn0CH.html",
@@ -2224,7 +2224,7 @@
     "title": "mieszkanie 2 pokojowe Nowa Letnica ul. Sucha 33"
   },
   {
-    "building-type": "Kamienica",
+    "building-type": 2,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/3-pokoje-z-3-lazienkami-w-gdansku-CID3-IDQOSg8.html",
@@ -2240,7 +2240,7 @@
     "title": "3-pokoje z 3 \u0142azienkami w Gda\u0144sku"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/sloneczna-kawalerka-z-podziemnym-miejscem-parkingowym-CID3-IDJ218C.html",
@@ -2256,7 +2256,7 @@
     "title": "S\u0142oneczna kawalerka z podziemnym miejscem parkingowym"
   },
   {
-    "building-type": "Kamienica",
+    "building-type": 2,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/kawalerka-gdansk-glowny-garncarska-wynajem-od-01-10-CID3-IDQvdto.html",
@@ -2272,7 +2272,7 @@
     "title": "Kawalerka/Gda\u0144sk G\u0142\u00f3wny/Garncarska/Wynajem od 01/10"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 4,
     "link": "https://www.olx.pl/d/oferta/wynajme-mieszkanie-gdansk-wrzeszcz-centrum-2-pokoje-kuchnia-lazienka-CID3-IDL4fMP.html",
@@ -2288,7 +2288,7 @@
     "title": "Wynajm\u0119 mieszkanie Gda\u0144sk Wrzeszcz centrum 2 pokoje kuchnia \u0142azienka"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/przestronne-mieszkanie-na-wynajem-gdansk-ujescisko-CID3-IDQDqhj.html",
@@ -2304,7 +2304,7 @@
     "title": "Przestronne mieszkanie na wynajem-Gda\u0144sk Uje\u015bcisko"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-2-pok-gdansk-centrum-ul-dlugie-ogrody-11-CID3-IDQQitX.html",
@@ -2320,7 +2320,7 @@
     "title": "Mieszkanie 2 pok. Gda\u0144sk centrum ul. D\u0142ugie Ogrody 11"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/wynajem-mieszkanie-3-min-do-skm-gdansk-srodmiescie-rzeznicka-CID3-IDGwIjc.html",
@@ -2336,7 +2336,7 @@
     "title": "Wynajem mieszkanie, 3 min do SKM, Gda\u0144sk \u015ar\u00f3dmie\u015bcie Rze\u017anicka"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 4,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-dwupokojowe-gdansk-jasien-os-gardenia-CID3-IDQHABm.html",
@@ -2352,7 +2352,7 @@
     "title": "Mieszkanie dwupokojowe Gda\u0144sk Jasie\u0144, os. Gardenia"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": null,
     "link": "https://www.olx.pl/d/oferta/wynajme-mieszkanie-gdansk-letnica-CID3-IDQEWQS.html",
@@ -2368,7 +2368,7 @@
     "title": "Wynajm\u0119 Mieszkanie Gda\u0144sk Letnica"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-z-wydzielonym-miejscem-do-pracy-CID3-IDQxujB.html",
@@ -2384,7 +2384,7 @@
     "title": "Mieszkanie 2 pokojowe z wydzielonym miejscem do pracy."
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 3,
     "link": "https://www.olx.pl/d/oferta/apartament-60m2-3-pokoje-zaspa-CID3-IDQJnDy.html",
@@ -2400,7 +2400,7 @@
     "title": "Apartament 60m2 3 pokoje Zaspa!"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-dla-studentow-pary-2-pokoje-brzezno-ix-x-2022-vi-2023-CID3-IDQonLE.html",
@@ -2416,7 +2416,7 @@
     "title": "mieszkanie dla student\u00f3w/pary- 2 pokoje Brze\u017ano (IX/X.2022-VI.2023)"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 4,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-wynajem-instytucjonalny-studenci-CID3-IDQG6C0.html",
@@ -2432,7 +2432,7 @@
     "title": "Mieszkanie wynajem instytucjonalny studenci"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 4,
     "link": "https://www.olx.pl/d/oferta/eleganckie-czyste-miszkanie-do-wynajecia-CID3-IDQJY9Q.html",
@@ -2448,7 +2448,7 @@
     "title": "Eleganckie czyste miszkanie do wynajecia."
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 0,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-gdansk-niski-czynsz-CID3-IDQzu4E.html",
@@ -2464,7 +2464,7 @@
     "title": "Mieszkanie na wynajem Gda\u0144sk niski czynsz"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": null,
     "link": "https://www.olx.pl/d/oferta/3-osobne-pokoje-dobra-lokalizacja-CID3-IDQyqSn.html",
@@ -2480,7 +2480,7 @@
     "title": "3 osobne pokoje - dobra lokalizacja"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 10,
     "link": "https://www.olx.pl/d/oferta/wynajme-mieszkanie-CID3-IDQNAHT.html",
@@ -2496,7 +2496,7 @@
     "title": "Wynajm\u0119 mieszkanie"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/wynajme-mieszkanie-2-pokoje-swietna-lokalizacja-10-min-do-plazy-CID3-IDQ4prI.html",
@@ -2512,7 +2512,7 @@
     "title": "Wynajm\u0119 mieszkanie 2 pokoje, \u015awietna lokalizacja! 10 min do pla\u017cy"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 0,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-gdansk-morena-3-pokoje-CID3-IDQR3ZQ.html",
@@ -2528,7 +2528,7 @@
     "title": "Mieszkanie na wynajem Gda\u0144sk Morena, 3 pokoje"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-miejsce-w-garazu-sloneczny-balkon-przymorze-CID3-IDQouTb.html",
@@ -2544,7 +2544,7 @@
     "title": "Mieszkanie 2 pokojowe, miejsce w gara\u017cu, s\u0142oneczny balkon, Przymorze"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 5,
     "link": "https://www.olx.pl/d/oferta/2-pokoje-nowe-budownictwo-z-hala-garazowa-CID3-IDQACzw.html",
@@ -2560,7 +2560,7 @@
     "title": "2 pokoje nowe budownictwo z hal\u0105 gara\u017cow\u0105"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/wynajme-mieszkanie-2-pokoje-44-m2-wolne-od-3-10-22-CID3-IDOM7Yp.html",
@@ -2576,7 +2576,7 @@
     "title": "Wynajm\u0119 Mieszkanie, 2 Pokoje, 44 m2 Wolne od 3/10/22"
   },
   {
-    "building-type": "Dom wolnostoj\u0105cy",
+    "building-type": 1,
     "furnished": true,
     "level": 0,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-CID3-IDOnvOJ.html",
@@ -2592,7 +2592,7 @@
     "title": "Mieszkanie do wynaj\u0119cia"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/wynajem-mieszkania-CID3-IDQyxzc.html",
@@ -2608,7 +2608,7 @@
     "title": "Wynajem mieszkania"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/2-pokoje-mieszkanie-w-centrum-gdanska-wrzeszcza-dla-studenta-lub-firmy-CID3-IDQLl4Y.html",
@@ -2624,7 +2624,7 @@
     "title": "2 pokoje mieszkanie w centrum Gda\u0144ska Wrzeszcza dla studenta lub firmy"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 0,
     "link": "https://www.olx.pl/d/oferta/wynajme-mieszkanie-3-pokoje-60m2-gdansk-ul-jabloniowa-CID3-IDQOWCi.html",
@@ -2640,7 +2640,7 @@
     "title": "Wynajm\u0119 mieszkanie 3 pokoje, 60m2, Gda\u0144sk, ul. Jab\u0142oniowa"
   },
   {
-    "building-type": "Kamienica",
+    "building-type": 2,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-dwupokojowe-w-gdansku-wrzeszczu-na-wynajem-CID3-IDQEf7Y.html",
@@ -2656,7 +2656,7 @@
     "title": "Mieszkanie dwupokojowe w Gda\u0144sku-Wrzeszczu na wynajem"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": null,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-na-doby-w-centrum-gdanska-CID3-IDQjtuF.html",
@@ -2672,7 +2672,7 @@
     "title": "Mieszkanie na doby w centrum Gda\u0144ska"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 5,
     "link": "https://www.olx.pl/d/oferta/2-pokoje-nowe-budownictwo-gdansk-ul-wegrzyna-CID3-IDQLlGA.html",
@@ -2688,7 +2688,7 @@
     "title": "2 pokoje nowe budownictwo Gda\u0144sk ul. W\u0119grzyna"
   },
   {
-    "building-type": "Kamienica",
+    "building-type": 2,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-garbary-starowka-CID3-IDQDCS3.html",
@@ -2704,7 +2704,7 @@
     "title": "Mieszkanie Garbary Star\u00f3wka"
   },
   {
-    "building-type": "Kamienica",
+    "building-type": 2,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-46m2-gdansk-chelm-wolne-od-pazdziernika-CID3-IDQctin.html",
@@ -2720,7 +2720,7 @@
     "title": "Mieszkanie 46m2 Gda\u0144sk Che\u0142m, wolne od pazdziernika"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 4,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-4-pokoje-na-oruni-gornej-CID3-IDQll8w.html",
@@ -2736,7 +2736,7 @@
     "title": "Mieszkanie, 4 pokoje na Oruni G\u00f3rnej"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 5,
     "link": "https://www.olx.pl/d/oferta/2-pokoje-z-hala-garazowa-walowa-CID3-IDQB9ZE.html",
@@ -2752,7 +2752,7 @@
     "title": "2 pokoje z hal\u0105 gara\u017cow\u0105 Wa\u0142owa"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 0,
     "link": "https://www.olx.pl/d/oferta/3-pokojowe-mieszkanie-na-wynajem-CID3-IDQO2l8.html",
@@ -2768,7 +2768,7 @@
     "title": "3 pokojowe mieszkanie na wynajem"
   },
   {
-    "building-type": "Kamienica",
+    "building-type": 2,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-gdansk-wrzeszcz-CID3-IDQKSOp.html",
@@ -2784,7 +2784,7 @@
     "title": "Mieszkanie na wynajem Gda\u0144sk Wrzeszcz"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 3,
     "link": "https://www.olx.pl/d/oferta/zabi-kruk-studio-apartament-z-balkonem-kawalerka-nowoczesna-wynajem-CID3-IDQEAhh.html",
@@ -2800,7 +2800,7 @@
     "title": "\u017babi Kruk Studio Apartament z Balkonem Kawalerka Nowoczesna Wynajem"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 8,
     "link": "https://www.olx.pl/d/oferta/przymorze-2-sypialnie-salon-dla-studentow-lub-osob-pracujacych-CID3-IDQJuoT.html",
@@ -2816,7 +2816,7 @@
     "title": "Przymorze, 2 sypialnie + salon dla student\u00f3w lub os\u00f3b pracuj\u0105cych"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 4,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-dwupokojowe-gdansk-jasien-os-gardenia-CID3-IDQHABm.html",
@@ -2832,7 +2832,7 @@
     "title": "Mieszkanie dwupokojowe Gda\u0144sk Jasie\u0144, os. Gardenia"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-3-pokojowe-gdansk-przymorze-CID3-IDQCEkY.html",
@@ -2848,7 +2848,7 @@
     "title": "Mieszkanie 3 pokojowe Gda\u0144sk Przymorze"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/nowa-kawalerka-przy-parku-oliwskim-awfis-skm-i-ug-z-miejscem-w-hali-CID3-IDLEAU0.html",
@@ -2864,7 +2864,7 @@
     "title": "nowa kawalerka przy Parku Oliwskim, AWFiS, SKM i UG z miejscem w hali"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 0,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-dla-studentow-CID3-IDQNGas.html",
@@ -2880,7 +2880,7 @@
     "title": "Mieszkanie dla student\u00f3w"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 7,
     "link": "https://www.olx.pl/d/oferta/rent40-gdansk-ul-gdynska-5-wynajem-dlugoterminowy-gdansk-3-pokoje-CID3-IDQM1ly.html",
@@ -2896,7 +2896,7 @@
     "title": "Rent40 Gda\u0144sk ul. Gdy\u0144ska 5 wynajem d\u0142ugoterminowy Gda\u0144sk 3 pokoje"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/mam-do-wynajecia-mieszjanie-2-pokojowe-w-gdansku-CID3-IDQI30f.html",
@@ -2912,7 +2912,7 @@
     "title": "Mam do wynaj\u0119cia mieszjanie 2 pokojowe w Gda\u0144sku"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 3,
     "link": "https://www.olx.pl/d/oferta/nowe-mieszkanie-atrakcyjna-lokalizacja-38m-CID3-IDQFZVp.html",
@@ -2928,7 +2928,7 @@
     "title": "Nowe mieszkanie, atrakcyjna lokalizacja, 38m\u00b2"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 11,
     "link": "https://www.olx.pl/d/oferta/nowe-3-pokojowe-mieszkanie-gdansk-letnica-CID3-IDOpmsW.html",
@@ -2944,7 +2944,7 @@
     "title": "Nowe 3 pokojowe mieszkanie Gda\u0144sk Letnica"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": null,
     "link": "https://www.olx.pl/d/oferta/wynajme-mieszkanie-gdansk-letnica-CID3-IDQEWQS.html",
@@ -2960,7 +2960,7 @@
     "title": "Wynajm\u0119 Mieszkanie Gda\u0144sk Letnica"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 10,
     "link": "https://www.olx.pl/d/oferta/wynajem-dlugoterminowy-3-pokoje-gdansk-oliwa-karpacka-CID3-IDQDtfV.html",
@@ -2976,7 +2976,7 @@
     "title": "Wynajem dlugoterminowy 3 pokoje Gda\u0144sk Oliwa Karpacka"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/rezerwacja-nowe-mieszkanie-3-pokojowe-gdansk-wynajme-CID3-IDQj8Cl.html",
@@ -2992,7 +2992,7 @@
     "title": "REZERWACJA! Nowe mieszkanie 3 pokojowe Gda\u0144sk wynajm\u0119"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 8,
     "link": "https://www.olx.pl/d/oferta/wynajem-mieszkania-gdansk-morena-CID3-IDQsVJz.html",
@@ -3008,7 +3008,7 @@
     "title": "Wynajem mieszkania, Gda\u0144sk Morena."
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/wynajme-przestronne-mieszkanie-CID3-IDQM97v.html",
@@ -3024,7 +3024,7 @@
     "title": "Wynajm\u0119 przestronne mieszkanie"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 0,
     "link": "https://www.olx.pl/d/oferta/wyjatkowe-mieszkanie-do-wynajecia-ul-lastadia-CID3-IDQLH3D.html",
@@ -3040,7 +3040,7 @@
     "title": "Wyj\u0105tkowe mieszkanie do wynaj\u0119cia, ul. Lastadia"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 9,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-z-widokiem-na-morze-gdansk-brzezno-CID3-IDLyxQb.html",
@@ -3056,7 +3056,7 @@
     "title": "Mieszkanie z widokiem na morze Gda\u0144sk Brze\u017ano"
   },
   {
-    "building-type": "Kamienica",
+    "building-type": 2,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/2-pokoje-w-swietnej-lokalizacji-gdansk-ulica-szeroka-CID3-IDQyo14.html",
@@ -3072,7 +3072,7 @@
     "title": "2 pokoje w \u015bwietnej lokalizacji Gda\u0144sk ulica Szeroka"
   },
   {
-    "building-type": "Kamienica",
+    "building-type": 2,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-na-starym-miescie-ul-minogi-CID3-IDLRYMi.html",
@@ -3088,7 +3088,7 @@
     "title": "2 pokojowe mieszkanie na Starym Mie\u015bcie ul. Minogi"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 4,
     "link": "https://www.olx.pl/d/oferta/rent40-mieszkanie-c40-gdansk-najem-wynajem-dlugoterminowo-34m2-CID3-IDPb08Q.html",
@@ -3104,7 +3104,7 @@
     "title": "Rent40 mieszkanie C40 Gda\u0144sk najem wynajem d\u0142ugoterminowo 34m2"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-w-srodmiesciu-gdanska-wynajme-CID3-IDLVDmB.html",
@@ -3120,7 +3120,7 @@
     "title": "Mieszkanie w \u015ar\u00f3dmie\u015bciu Gda\u0144ska wynajm\u0119"
   },
   {
-    "building-type": "Kamienica",
+    "building-type": 2,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-gdansk-wrzeszcz-ul-warynskiego-CID3-IDHDpWH.html",
@@ -3136,7 +3136,7 @@
     "title": "Mieszkanie do wynaj\u0119cia - Gda\u0144sk Wrzeszcz ul. Wary\u0144skiego"
   },
   {
-    "building-type": "Kamienica",
+    "building-type": 2,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-garbary-starowka-CID3-IDQDCS3.html",
@@ -3152,7 +3152,7 @@
     "title": "Mieszkanie Garbary Star\u00f3wka"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 3,
     "link": "https://www.olx.pl/d/oferta/kawalerka-gdansk-siedlce-srodmiescie-22m-nowa-CID3-IDKU8tm.html",
@@ -3168,7 +3168,7 @@
     "title": "Kawalerka Gda\u0144sk Siedlce/\u015ar\u00f3dmie\u015bcie-22m*-NOWA !"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 3,
     "link": "https://www.olx.pl/d/oferta/komfortowy-apartament-z-balkonem-gdansk-srodmiescie-ul-walowa-CID3-IDQQbWr.html",
@@ -3184,7 +3184,7 @@
     "title": "Komfortowy apartament z balkonem, Gda\u0144sk \u015ar\u00f3dmie\u015bcie, ul. Wa\u0142owa"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 0,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-3-pokojowe-gdansk-chelm-CID3-IDQPdFz.html",
@@ -3200,7 +3200,7 @@
     "title": "Mieszkanie 3 pokojowe Gda\u0144sk Che\u0142m"
   },
   {
-    "building-type": "Kamienica",
+    "building-type": 2,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/dwupokojowe-mieszkanie-z-garazem-w-scislym-centrum-wrzeszcza-CID3-IDGuNgW.html",
@@ -3216,7 +3216,7 @@
     "title": "Dwupokojowe mieszkanie z gara\u017cem w \u015bcis\u0142ym centrum Wrzeszcza"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-dla-pracownikow-CID3-IDOAJpo.html",
@@ -3232,7 +3232,7 @@
     "title": "Mieszkanie na wynajem dla pracownik\u00f3w"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 3,
     "link": "https://www.olx.pl/d/oferta/2-oddzielne-pokoje-blisko-morza-CID3-IDQM5wc.html",
@@ -3248,7 +3248,7 @@
     "title": "2 oddzielne pokoje, blisko morza"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 0,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-gdansk-morena-3-pokoje-CID3-IDQR3ZQ.html",
@@ -3264,7 +3264,7 @@
     "title": "Mieszkanie na wynajem Gda\u0144sk Morena, 3 pokoje"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": null,
     "link": "https://www.olx.pl/d/oferta/wynajme-mieszkanie-gdansk-letnica-CID3-IDQEWQS.html",
@@ -3280,7 +3280,7 @@
     "title": "Wynajm\u0119 Mieszkanie Gda\u0144sk Letnica"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 6,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-apartament-2-pokojowe-z-miejscem-parkingowym-w-brzeznie-CID3-IDQP6ZA.html",
@@ -3296,7 +3296,7 @@
     "title": "Mieszkanie (apartament) 2-pokojowe z miejscem parkingowym w Brze\u017anie"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 7,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-wynajme-CID3-IDQM1bk.html",
@@ -3312,7 +3312,7 @@
     "title": "Mieszkanie wynajm\u0119"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 9,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-blisko-skm-studio-mieszkanie-oliwa-mieszkanie-zabianka-CID3-IDQmmZz.html",
@@ -3328,7 +3328,7 @@
     "title": "Mieszkanie blisko skm, studio, mieszkanie oliwa, mieszkanie \u017cabianka"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/duza-kawalerka-43m-w-centrum-komunikacyjnym-gdanska-CID3-IDQNYts.html",
@@ -3344,7 +3344,7 @@
     "title": "Du\u017ca kawalerka 43m w centrum komunikacyjnym Gda\u0144ska"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 0,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-dwupokojowe-z-ogrodkiem-CID3-IDQOT0u.html",
@@ -3360,7 +3360,7 @@
     "title": "Mieszkanie dwupokojowe z ogr\u00f3dkiem"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 10,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-nowa-letnica-ul-sucha-33-CID3-IDQn0CH.html",
@@ -3376,7 +3376,7 @@
     "title": "mieszkanie 2 pokojowe Nowa Letnica ul. Sucha 33"
   },
   {
-    "building-type": "Kamienica",
+    "building-type": 2,
     "furnished": true,
     "level": 0,
     "link": "https://www.olx.pl/d/oferta/wynajme-mieszkanie-w-sopocie-CID3-IDQKBmX.html",
@@ -3392,7 +3392,7 @@
     "title": "Wynajm\u0119 mieszkanie w Sopocie"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/wynajme-3-pokoje-54m2-gdansk-chelm-CID3-IDQMXpR.html",
@@ -3408,7 +3408,7 @@
     "title": "Wynajm\u0119 - 3 pokoje - 54m2 - Gda\u0144sk Che\u0142m"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 4,
     "link": "https://www.olx.pl/d/oferta/rezerwacja-wynajme-blisko-centrum-CID3-IDQlGiM.html",
@@ -3424,7 +3424,7 @@
     "title": "Rezerwacja Wynajm\u0119 blisko centrum"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 7,
     "link": "https://www.olx.pl/d/oferta/3-pokojowe-obok-akademii-muzycznej-srodmiescie-CID3-IDQtD1P.html",
@@ -3440,7 +3440,7 @@
     "title": "3-pokojowe obok Akademii Muzycznej (\u015ar\u00f3dmie\u015bcie)"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/sloneczna-kawalerka-z-podziemnym-miejscem-parkingowym-CID3-IDJ218C.html",
@@ -3456,7 +3456,7 @@
     "title": "S\u0142oneczna kawalerka z podziemnym miejscem parkingowym"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/nowa-kawalerka-przy-parku-oliwskim-awfis-skm-i-ug-z-miejscem-w-hali-CID3-IDLEAU0.html",
@@ -3472,7 +3472,7 @@
     "title": "nowa kawalerka przy Parku Oliwskim, AWFiS, SKM i UG z miejscem w hali"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/wynajme-mieszkanie-2-pokoje-swietna-lokalizacja-10-min-do-plazy-CID3-IDQ4prI.html",
@@ -3488,7 +3488,7 @@
     "title": "Wynajm\u0119 mieszkanie 2 pokoje, \u015awietna lokalizacja! 10 min do pla\u017cy"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 0,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-dwupokojowe-z-ogrodkiem-CID3-IDQOT0u.html",
@@ -3504,7 +3504,7 @@
     "title": "Mieszkanie dwupokojowe z ogr\u00f3dkiem"
   },
   {
-    "building-type": "Kamienica",
+    "building-type": 2,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/nowoczesne-mieszkanie-na-starowce-ul-ogarna-od-zaraz-CID3-IDQOocp.html",
@@ -3520,7 +3520,7 @@
     "title": "Nowoczesne mieszkanie na Star\u00f3wce/ul. Ogarna/od zaraz!"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 5,
     "link": "https://www.olx.pl/d/oferta/apartament-waterlane-szafarnia-51-m2-CID3-IDQABnJ.html",
@@ -3536,7 +3536,7 @@
     "title": "Apartament Waterlane Szafarnia 51 m2"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 4,
     "link": "https://www.olx.pl/d/oferta/apartament-dwupokojowy-36m2-z-silownia-oraz-wew-sala-zabaw-CID3-IDQDr77.html",
@@ -3552,7 +3552,7 @@
     "title": "Apartament dwupokojowy 36m2 \u2013 z si\u0142owni\u0105 oraz wew. sal\u0105 zabaw."
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 0,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-od-5-8-miesiecy-CID3-IDMiHX1.html",
@@ -3568,7 +3568,7 @@
     "title": "Mieszkanie 2 pokojowe od 5-8 miesi\u0119cy"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 4,
     "link": "https://www.olx.pl/d/oferta/wynajem-mieszkania-gdansk-niedzwiednik-najem-okazjonalny-CID3-IDQKO8Y.html",
@@ -3584,7 +3584,7 @@
     "title": "Wynajem mieszkania Gda\u0144sk - Nied\u017awiednik (najem okazjonalny)"
   },
   {
-    "building-type": "Kamienica",
+    "building-type": 2,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/przestronna-kawalerka-na-starym-miescie-od-15-09-do-30-06-23-CID3-IDQPRlC.html",
@@ -3600,7 +3600,7 @@
     "title": "Przestronna kawalerka na starym mie\u015bcie od 15.09 do 30.06.23"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 3,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-gdansk-przymorze-prywatnie-CID3-IDQMXaf.html",
@@ -3616,7 +3616,7 @@
     "title": "Mieszkanie na Wynajem Gda\u0144sk Przymorze Prywatnie"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": null,
     "link": "https://www.olx.pl/d/oferta/wynajme-mieszkanie-gdansk-letnica-CID3-IDQEWQS.html",
@@ -3632,7 +3632,7 @@
     "title": "Wynajm\u0119 Mieszkanie Gda\u0144sk Letnica"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-z-wydzielonym-miejscem-do-pracy-CID3-IDQxujB.html",
@@ -3648,7 +3648,7 @@
     "title": "Mieszkanie 2 pokojowe z wydzielonym miejscem do pracy."
   },
   {
-    "building-type": "Pozosta\u0142e",
+    "building-type": 0,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/sloneczne-mieszkanie-na-wynajem-gdansk-ujescisko-2-pokoje-CID3-IDQNK2N.html",
@@ -3664,7 +3664,7 @@
     "title": "S\u0142oneczne Mieszkanie na Wynajem, Gda\u0144sk -Ujescisko, 2 pokoje"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 0,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-6-9-miesiecy-ul-sw-barbary-CID3-IDLMzm5.html",
@@ -3680,7 +3680,7 @@
     "title": "Mieszkanie 2 pokojowe 6-9 miesi\u0119cy ul. \u015aw, Barbary"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 4,
     "link": "https://www.olx.pl/d/oferta/wynajme-mieszkanie-CID3-IDPIufD.html",
@@ -3696,7 +3696,7 @@
     "title": "Wynajm\u0119 mieszkanie"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/ekskluzywne-mieszkanie-srodmiescie-staly-wynajem-CID3-IDxDqt7.html",
@@ -3712,7 +3712,7 @@
     "title": "Ekskluzywne mieszkanie,\u015br\u00f3dmie\u015bcie , sta\u0142y wynajem"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/wynajme-studentom-os-pracujacym-mieszkanie-2-pok-3000-zl-z-oplatami-CID3-IDQsZXa.html",
@@ -3728,7 +3728,7 @@
     "title": "Wynajm\u0119 studentom/os. pracuj\u0105cym mieszkanie 2-pok. 3000 z\u0142 z op\u0142atami"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/wynajem-mieszkania-blisko-politechniki-gdanskiej-CID3-IDQy1nb.html",
@@ -3744,7 +3744,7 @@
     "title": "Wynajem mieszkania blisko Politechniki Gda\u0144skiej"
   },
   {
-    "building-type": "Kamienica",
+    "building-type": 2,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-46m2-gdansk-chelm-wolne-od-pazdziernika-CID3-IDQctin.html",
@@ -3760,7 +3760,7 @@
     "title": "Mieszkanie 46m2 Gda\u0144sk Che\u0142m, wolne od pazdziernika"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-wynajem-sw-barbary-gdansk-centrum-CID3-IDQtKEY.html",
@@ -3776,7 +3776,7 @@
     "title": "Mieszkanie Wynajem - \u015bw. Barbary, Gda\u0144sk centrum"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 0,
     "link": "https://www.olx.pl/d/oferta/gdansk-nowa-letnica-mieszkanie-32m2-z-ogrodkiem-wolne-od-zaraz-CID3-IDPWUqY.html",
@@ -3792,7 +3792,7 @@
     "title": "Gda\u0144sk Nowa Letnica mieszkanie 32m2 z ogr\u00f3dkiem. Wolne od zaraz"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 3,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-na-wynajem-zakoniczyn-CID3-IDQsIVx.html",
@@ -3808,7 +3808,7 @@
     "title": "Mieszkanie 2-pokojowe na wynajem Zakoniczyn"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": null,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-2-pokoje-CID3-IDQPX7n.html",
@@ -3824,7 +3824,7 @@
     "title": "Mieszkanie 2 pokoje"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/wynajme-przestronne-mieszkanie-CID3-IDQM97v.html",
@@ -3840,7 +3840,7 @@
     "title": "Wynajm\u0119 przestronne mieszkanie"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-gdansk-centrum-CID3-IDQykaP.html",
@@ -3856,7 +3856,7 @@
     "title": "Mieszkanie na wynajem. Gda\u0144sk. Centrum."
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 4,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-41m2-2-pokoje-gdansk-ul-lakowa-z-garazem-CID3-IDQOUnF.html",
@@ -3872,7 +3872,7 @@
     "title": "Mieszkanie 41m2, 2 pokoje Gda\u0144sk ul. \u0141\u0105kowa z gara\u017cem"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 11,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-3-pokojowe-w-nowym-budownictwie-CID3-IDQKAqR.html",
@@ -3888,7 +3888,7 @@
     "title": "Mieszkanie 3-pokojowe w nowym budownictwie"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 3,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-gdansk-przymorze-CID3-IDQQOOA.html",
@@ -3904,7 +3904,7 @@
     "title": "Mieszkanie 2 pokojowe Gda\u0144sk Przymorze"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 0,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-46m2-przymorze-2-niezalezne-pokoje-po-remoncie-parter-CID3-IDQNUG0.html",
@@ -3920,7 +3920,7 @@
     "title": "Mieszkanie 46m2 PRZYMORZE 2 niezalezne pokoje po remoncie PARTER"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/wynajme-przestronne-mieszkanie-CID3-IDQM97v.html",
@@ -3936,7 +3936,7 @@
     "title": "Wynajm\u0119 przestronne mieszkanie"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/nowoczesnie-urzadzona-kawalerka-w-dzielnicy-jasien-od-zaraz-CID3-IDQO2SC.html",
@@ -3952,7 +3952,7 @@
     "title": "Nowocze\u015bnie urz\u0105dzona kawalerka w dzielnicy Jasie\u0144, od ZARAZ!"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 0,
     "link": "https://www.olx.pl/d/oferta/wynajme-mieszkanie-dwupokojowe-w-srodmiesciu-spadzista-4-CID3-IDQJfB0.html",
@@ -3968,7 +3968,7 @@
     "title": "Wynajme mieszkanie dwupokojowe w \u015ar\u00f3dmie\u015bciu - Spadzista 4"
   },
   {
-    "building-type": "Kamienica",
+    "building-type": 2,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/2-pokoje-w-swietnej-lokalizacji-gdansk-srodmiescie-CID3-IDQtglz.html",
@@ -3984,7 +3984,7 @@
     "title": "2 pokoje w \u015bwietnej lokalizacji Gda\u0144sk \u015ar\u00f3dmie\u015bcie"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-gdansk-CID3-IDOkusY.html",
@@ -4000,7 +4000,7 @@
     "title": "Mieszkanie 2-pokojowe Gda\u0144sk"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/wynajme-mieszkanie-2-pokojowe-w-blisko-centrum-gdanska-uniwersytetu-CID3-IDQRung.html",
@@ -4016,7 +4016,7 @@
     "title": "wynajm\u0119 mieszkanie 2 pokojowe w blisko Centrum Gda\u0144ska,Uniwersytetu"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/2-pokoje-nowe-budownictwo-z-miejscem-parkingowym-ul-guderskiego-CID3-IDQFGAS.html",
@@ -4032,7 +4032,7 @@
     "title": "2 pokoje nowe budownictwo z miejscem parkingowym ul. Guderskiego"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/wynajem-mieszkanie-2-pok-47m2-gdansk-jasien-2500-msc-CID3-IDM22R1.html",
@@ -4048,7 +4048,7 @@
     "title": "Wynajem / Mieszkanie 2 pok. / 47m2/Gdansk-Jasien / 2500 msc"
   },
   {
-    "building-type": "Kamienica",
+    "building-type": 2,
     "furnished": true,
     "level": 0,
     "link": "https://www.olx.pl/d/oferta/nowoczesna-kawalerka-z-antresola-w-centrum-gdanska-okazja-CID3-IDQELuH.html",
@@ -4064,7 +4064,7 @@
     "title": "Nowoczesna kawalerka z antresol\u0105 w centrum Gda\u0144ska. Okazja"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/gdansk-przymorze-oliwa-park-apartament-3pok-mieszkanie-59m-balkon-20m-CID3-IDPvmST.html",
@@ -4080,7 +4080,7 @@
     "title": "Gda\u0144sk Przymorze OLIWA PARK apartament 3pok mieszkanie 59m balkon 20m"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 10,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-nowa-letnica-ul-sucha-33-CID3-IDQn0CH.html",
@@ -4096,7 +4096,7 @@
     "title": "mieszkanie 2 pokojowe Nowa Letnica ul. Sucha 33"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 4,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-4-pokoje-na-oruni-gornej-CID3-IDQll8w.html",
@@ -4112,7 +4112,7 @@
     "title": "Mieszkanie, 4 pokoje na Oruni G\u00f3rnej"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 0,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-gdansk-morena-3-pokoje-CID3-IDQR3ZQ.html",
@@ -4128,7 +4128,7 @@
     "title": "Mieszkanie na wynajem Gda\u0144sk Morena, 3 pokoje"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/wynajme-mieszkanie-2-pokojowe-w-blisko-centrum-gdanska-uniwersytetu-CID3-IDQRung.html",
@@ -4144,7 +4144,7 @@
     "title": "wynajm\u0119 mieszkanie 2 pokojowe w blisko Centrum Gda\u0144ska,Uniwersytetu"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/gdansk-przymorze-oliwa-park-apartament-3pok-mieszkanie-59m-balkon-20m-CID3-IDPvmST.html",
@@ -4160,7 +4160,7 @@
     "title": "Gda\u0144sk Przymorze OLIWA PARK apartament 3pok mieszkanie 59m balkon 20m"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/2-pokojowe-mieszkanie-z-balkonem-w-dzielnicy-chelm-ul-dabrowki-CID3-IDQyN7d.html",
@@ -4176,7 +4176,7 @@
     "title": "2 pokojowe mieszkanie z balkonem w dzielnicy Che\u0142m, ul. D\u0105br\u00f3wki."
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-wynajem-CID3-IDQs6yH.html",
@@ -4192,7 +4192,7 @@
     "title": "Mieszkanie WYNAJEM"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 4,
     "link": "https://www.olx.pl/d/oferta/nowe-przestrzenne-dwupokojowe-mieszkanie-jasien-CID3-IDQA86d.html",
@@ -4208,7 +4208,7 @@
     "title": "Nowe, przestrzenne, dwupokojowe mieszkanie. Jasie\u0144"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 8,
     "link": "https://www.olx.pl/d/oferta/wynajem-mieszkania-gdansk-morena-CID3-IDQsVJz.html",
@@ -4224,7 +4224,7 @@
     "title": "Wynajem mieszkania, Gda\u0144sk Morena."
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 9,
     "link": "https://www.olx.pl/d/oferta/2-pokojowe-49m-z-ladnym-widokiem-i-ekstra-lokalizacja-zaspa-CID3-IDQMW8B.html",
@@ -4240,7 +4240,7 @@
     "title": "2 pokojowe 49m z \u0142adnym widokiem i ekstra lokalizacj\u0105 -Zaspa"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 0,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-46m2-przymorze-2-niezalezne-pokoje-po-remoncie-parter-CID3-IDQNUG0.html",
@@ -4256,7 +4256,7 @@
     "title": "Mieszkanie 46m2 PRZYMORZE 2 niezalezne pokoje po remoncie PARTER"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-gdansk-jasien-morena-ul-w-andersa-40-m2-CID3-IDKpaiQ.html",
@@ -4272,7 +4272,7 @@
     "title": "Mieszkanie na wynajem Gda\u0144sk Jasie\u0144 Morena, ul. W. Andersa 40 m2."
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 3,
     "link": "https://www.olx.pl/d/oferta/wynajme-mieszkanie-CID3-IDQxSBJ.html",
@@ -4288,7 +4288,7 @@
     "title": "Wynajm\u0119 mieszkanie"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 4,
     "link": "https://www.olx.pl/d/oferta/kawalerka-mieszkanie-1-pokojowe-dla-studentow-CID3-IDQNByC.html",
@@ -4304,7 +4304,7 @@
     "title": "Kawalerka, mieszkanie 1 pokojowe dla student\u00f3w"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/bastion-walowa-nowoczesne-dwa-pokoje-gdansk-centrum-CID3-IDQLClJ.html",
@@ -4320,7 +4320,7 @@
     "title": "Bastion Wa\u0142owa nowoczesne dwa pokoje Gda\u0144sk centrum"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 5,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-gdansk-CID3-IDQEHJJ.html",
@@ -4336,7 +4336,7 @@
     "title": "Mieszkanie na wynajem - Gda\u0144sk"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 4,
     "link": "https://www.olx.pl/d/oferta/wysoki-standard-kawalerka-na-jasieniu-z-tarasem-30-m2-widok-CID3-IDQCvLV.html",
@@ -4352,7 +4352,7 @@
     "title": "wysoki standard, kawalerka na Jasieniu z tarasem 30 m2 WIDOK !!!"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-dla-studentow-2-pokoje-balkon-parking-dobra-komunikacja-CID3-IDGk9PS.html",
@@ -4368,7 +4368,7 @@
     "title": "Mieszkanie dla student\u00f3w, 2 pokoje, balkon, parking, dobra komunikacja"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 11,
     "link": "https://www.olx.pl/d/oferta/atrakcyjny-apartament-blisko-morza-CID3-IDHkUky.html",
@@ -4384,7 +4384,7 @@
     "title": "Atrakcyjny apartament blisko morza"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/wynajem-mieszkania-blisko-politechniki-gdanskiej-CID3-IDQy1nb.html",
@@ -4400,7 +4400,7 @@
     "title": "Wynajem mieszkania blisko Politechniki Gda\u0144skiej"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/nowa-kawalerka-przy-parku-oliwskim-awfis-skm-i-ug-z-miejscem-w-hali-CID3-IDLEAU0.html",
@@ -4416,7 +4416,7 @@
     "title": "nowa kawalerka przy Parku Oliwskim, AWFiS, SKM i UG z miejscem w hali"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 4,
     "link": "https://www.olx.pl/d/oferta/komfortowa-kawalerka-w-centrum-wrzeszcza-CID3-IDQKgks.html",
@@ -4432,7 +4432,7 @@
     "title": "Komfortowa kawalerka w centrum wrzeszcza"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-miejsce-w-garazu-sloneczny-balkon-przymorze-CID3-IDQouTb.html",
@@ -4448,7 +4448,7 @@
     "title": "Mieszkanie 2 pokojowe, miejsce w gara\u017cu, s\u0142oneczny balkon, Przymorze"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 3,
     "link": "https://www.olx.pl/d/oferta/mieszkania-na-wynajem-wyspa-spichrzow-CID3-IDQqfdP.html",
@@ -4464,7 +4464,7 @@
     "title": "Mieszkania na wynajem Wyspa Spichrz\u00f3w"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-3-pokojowe-gdansk-przymorze-CID3-IDQCEkY.html",
@@ -4480,7 +4480,7 @@
     "title": "Mieszkanie 3 pokojowe Gda\u0144sk Przymorze"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 3,
     "link": "https://www.olx.pl/d/oferta/komfortowy-apartament-z-balkonem-gdansk-srodmiescie-ul-walowa-CID3-IDQQbWr.html",
@@ -4496,7 +4496,7 @@
     "title": "Komfortowy apartament z balkonem, Gda\u0144sk \u015ar\u00f3dmie\u015bcie, ul. Wa\u0142owa"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 4,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-41m2-2-pokoje-gdansk-ul-lakowa-z-garazem-CID3-IDQOUnF.html",
@@ -4512,7 +4512,7 @@
     "title": "Mieszkanie 41m2, 2 pokoje Gda\u0144sk ul. \u0141\u0105kowa z gara\u017cem"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 4,
     "link": "https://www.olx.pl/d/oferta/kawalerka-na-przymorzu-CID3-IDLa5Pp.html",
@@ -4528,7 +4528,7 @@
     "title": "Kawalerka na Przymorzu"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 4,
     "link": "https://www.olx.pl/d/oferta/przymorze-2-pok-kuchnia-tramwaj-zielen-blisko-wszedzie-CID3-IDQjj4I.html",
@@ -4544,7 +4544,7 @@
     "title": "Przymorze 2 pok + kuchnia, tramwaj, ziele\u0144, blisko wsz\u0119dzie"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-gdansk-przymorze-2-pokoje-chlopska-14-CID3-IDQRstl.html",
@@ -4560,7 +4560,7 @@
     "title": "Mieszkanie na wynajem Gda\u0144sk Przymorze 2 pokoje Ch\u0142opska 14"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 4,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-gdansk-stogi-wynajem-dlugoterminowy-CID3-IDQRqrg.html",
@@ -4576,7 +4576,7 @@
     "title": "Mieszkanie 2-pokojowe,Gda\u0144sk Stogi, wynajem d\u0142ugoterminowy"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 0,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-gdansk-morena-3-pokoje-CID3-IDQR3ZQ.html",
@@ -4592,7 +4592,7 @@
     "title": "Mieszkanie na wynajem Gda\u0144sk Morena, 3 pokoje"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-wynajem-CID3-IDQR8VZ.html",
@@ -4608,7 +4608,7 @@
     "title": "Mieszkanie wynajem"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 3,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-CID3-IDQwzOk.html",
@@ -4624,7 +4624,7 @@
     "title": "Mieszkanie na wynajem"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 8,
     "link": "https://www.olx.pl/d/oferta/wynajem-mieszkania-gdansk-morena-CID3-IDQsVJz.html",
@@ -4640,7 +4640,7 @@
     "title": "Wynajem mieszkania, Gda\u0144sk Morena."
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-dla-studentow-2-pokoje-balkon-parking-dobra-komunikacja-CID3-IDGk9PS.html",
@@ -4656,7 +4656,7 @@
     "title": "Mieszkanie dla student\u00f3w, 2 pokoje, balkon, parking, dobra komunikacja"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 3,
     "link": "https://www.olx.pl/d/oferta/kawalerka-gdansk-siedlce-srodmiescie-22m-nowa-CID3-IDKU8tm.html",
@@ -4672,7 +4672,7 @@
     "title": "Kawalerka Gda\u0144sk Siedlce/\u015ar\u00f3dmie\u015bcie-22m*-NOWA !"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": null,
     "link": "https://www.olx.pl/d/oferta/wynajme-mieszkanie-gdansk-letnica-CID3-IDQEWQS.html",
@@ -4688,7 +4688,7 @@
     "title": "Wynajm\u0119 Mieszkanie Gda\u0144sk Letnica"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 0,
     "link": "https://www.olx.pl/d/oferta/wynajme-mieszkanie-CID3-IDQKj0a.html",
@@ -4704,7 +4704,7 @@
     "title": "Wynajm\u0119 mieszkanie"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 4,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-city-park-gdansk-zaspa-3-pokoje-CID3-IDQAucJ.html",
@@ -4720,7 +4720,7 @@
     "title": "Mieszkanie CITY PARK Gda\u0144sk Zaspa 3 pokoje"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/wynajme-mieszkanie-2-pokojowe-z-pieknym-widokiem-CID3-IDQJYzl.html",
@@ -4736,7 +4736,7 @@
     "title": "Wynajm\u0119 mieszkanie 2-pokojowe z pi\u0119knym widokiem"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/nowa-kawalerka-przy-parku-oliwskim-awfis-skm-i-ug-z-miejscem-w-hali-CID3-IDLEAU0.html",
@@ -4752,7 +4752,7 @@
     "title": "nowa kawalerka przy Parku Oliwskim, AWFiS, SKM i UG z miejscem w hali"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 9,
     "link": "https://www.olx.pl/d/oferta/2-pokojowe-49m-z-ladnym-widokiem-i-ekstra-lokalizacja-zaspa-CID3-IDQMW8B.html",
@@ -4768,7 +4768,7 @@
     "title": "2 pokojowe 49m z \u0142adnym widokiem i ekstra lokalizacj\u0105 -Zaspa"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/nowa-kawalerka-przy-parku-oliwskim-awfis-skm-i-ug-z-miejscem-w-hali-CID3-IDLEAU0.html",
@@ -4784,7 +4784,7 @@
     "title": "nowa kawalerka przy Parku Oliwskim, AWFiS, SKM i UG z miejscem w hali"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 3,
     "link": "https://www.olx.pl/d/oferta/gdansk-mieszkanie-kawalerka-gdansk-blisko-starwka-stare-miasto-CID3-IDQJB8B.html",
@@ -4800,7 +4800,7 @@
     "title": "Gda\u0144sk mieszkanie kawalerka Gda\u0144sk blisko Star\u00f2wka,Stare miasto."
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/bez-kaucji-bez-prowizji-2-pokoje-49-mkw-CID3-IDQEDwp.html",
@@ -4816,7 +4816,7 @@
     "title": "Bez kaucji | Bez prowizji | 2 pokoje 49 mkw"
   },
   {
-    "building-type": "Kamienica",
+    "building-type": 2,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/wynajem-mieszkania-gdansk-super-lokalizacja-CID3-IDQx9h4.html",
@@ -4832,7 +4832,7 @@
     "title": "Wynajem mieszkania, Gda\u0144sk, super lokalizacja !"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/nowe-mieszkanie-dwupokojowe-lawendowe-wzgorze-CID3-IDQMD1l.html",
@@ -4848,7 +4848,7 @@
     "title": "Nowe mieszkanie dwupokojowe Lawendowe Wzg\u00f3rze"
   },
   {
-    "building-type": "Kamienica",
+    "building-type": 2,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/3-pokoje-z-3-lazienkami-w-gdansku-CID3-IDQOSg8.html",
@@ -4864,7 +4864,7 @@
     "title": "3-pokoje z 3 \u0142azienkami w Gda\u0144sku"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-komfortowe-studio-morena-c-2-pokoje-CID3-IDPqiSx.html",
@@ -4880,7 +4880,7 @@
     "title": "Mieszkanie komfortowe STUDIO MORENA C, 2 pokoje"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-dla-studentow-gdansk-przymorze-4-oceany-CID3-IDQEP6j.html",
@@ -4896,7 +4896,7 @@
     "title": "Mieszkanie na wynajem dla studentow Gdansk Przymorze 4 Oceany"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 0,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-gdansk-wrzeszcz-od-zaraz-na-dlugi-termin-CID3-IDPx6hr.html",
@@ -4912,7 +4912,7 @@
     "title": "Mieszkanie na wynajem Gda\u0144sk Wrzeszcz od zaraz na d\u0142ugi termin"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 0,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-gdansk-zabianka-wynajem-od-pazdziernika-CID3-IDQP8BT.html",
@@ -4928,7 +4928,7 @@
     "title": "Mieszkanie 2 pokojowe Gda\u0144sk, \u017babianka. wynajem od pa\u017adziernika"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-miejsce-w-garazu-sloneczny-balkon-przymorze-CID3-IDQouTb.html",
@@ -4944,7 +4944,7 @@
     "title": "Mieszkanie 2 pokojowe, miejsce w gara\u017cu, s\u0142oneczny balkon, Przymorze"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-2-pok-gdansk-centrum-ul-dlugie-ogrody-11-CID3-IDQQitX.html",
@@ -4960,7 +4960,7 @@
     "title": "Mieszkanie 2 pok. Gda\u0144sk centrum ul. D\u0142ugie Ogrody 11"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 8,
     "link": "https://www.olx.pl/d/oferta/2-pokoje-nowe-budownictwo-gdansk-morena-ul-piecewska-CID3-IDQtUEQ.html",
@@ -4976,7 +4976,7 @@
     "title": "2 pokoje nowe budownictwo Gda\u0144sk Morena ul. Piecewska"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-wynajem-sw-barbary-gdansk-centrum-CID3-IDQtKEY.html",
@@ -4992,7 +4992,7 @@
     "title": "Mieszkanie Wynajem - \u015bw. Barbary, Gda\u0144sk centrum"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 0,
     "link": "https://www.olx.pl/d/oferta/wynajme-mieszkanie-dla-studentow-CID3-IDQy1OA.html",
@@ -5008,7 +5008,7 @@
     "title": "Wynajm\u0119 mieszkanie dla student\u00f3w"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-z-wydzielonym-miejscem-do-pracy-CID3-IDQxujB.html",
@@ -5024,7 +5024,7 @@
     "title": "Mieszkanie 2 pokojowe z wydzielonym miejscem do pracy."
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/gdansk-zabianka-kawalerka-800m-od-morza-CID3-IDKIDtY.html",
@@ -5040,7 +5040,7 @@
     "title": "Gda\u0144sk \u017babianka - Kawalerka 800m od morza!"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-gdansk-przymorze-dostepne-od-pazdziernika-CID3-IDQR9Pi.html",
@@ -5056,7 +5056,7 @@
     "title": "Mieszkanie Gda\u0144sk Przymorze dostepne od pa\u017adziernika"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 7,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-trzypokojowe-w-gdansku-wrzeszczu-do-wynajecia-CID3-IDLlxHV.html",
@@ -5072,7 +5072,7 @@
     "title": "Mieszkanie trzypokojowe w Gda\u0144sku-Wrzeszczu do wynaj\u0119cia"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-do-wynajecia-CID3-IDQQVoK.html",
@@ -5088,7 +5088,7 @@
     "title": "Mieszkanie do wynaj\u0119cia"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/atrakcyjna-kawalerka-29m2-na-jasieniu-dostepna-od-zaraz-CID3-IDQO7wZ.html",
@@ -5104,7 +5104,7 @@
     "title": "Atrakcyjna kawalerka (29m2) na Jasieniu! Dost\u0119pna od zaraz!"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-2-pokojowe-z-wydzielonym-miejscem-do-pracy-CID3-IDQxujB.html",
@@ -5120,7 +5120,7 @@
     "title": "Mieszkanie 2 pokojowe z wydzielonym miejscem do pracy."
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 0,
     "link": "https://www.olx.pl/d/oferta/gdansk-nowa-letnica-mieszkanie-32m2-z-ogrodkiem-wolne-od-zaraz-CID3-IDPWUqY.html",
@@ -5136,7 +5136,7 @@
     "title": "Gda\u0144sk Nowa Letnica mieszkanie 32m2 z ogr\u00f3dkiem. Wolne od zaraz"
   },
   {
-    "building-type": "Kamienica",
+    "building-type": 2,
     "furnished": true,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/jasne-3-pokoje-kuchnia-4-lozka-przy-galerii-baltyckiej-CID3-IDQR2SC.html",
@@ -5152,7 +5152,7 @@
     "title": "Jasne 3-pokoje + kuchnia, 4 \u0142\u00f3\u017cka, przy Galerii Ba\u0142tyckiej"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-zajezdnia-wrzeszcz-CID3-IDQPeS7.html",
@@ -5168,7 +5168,7 @@
     "title": "Mieszkanie na wynajem Zajezdnia Wrzeszcz"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 4,
     "link": "https://www.olx.pl/d/oferta/wynajme-mieszkanie-2-pokojowe-2-niezalezne-pokoje-CID3-IDLftDp.html",
@@ -5184,7 +5184,7 @@
     "title": "Wynajm\u0119 mieszkanie 2 pokojowe (2 niezale\u017cne pokoje)"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 3,
     "link": "https://www.olx.pl/d/oferta/kawalerka-z-sypialnia-morena-gdansk-CID3-IDQ18zW.html",
@@ -5200,7 +5200,7 @@
     "title": "Kawalerka z sypialni\u0105 ~~MORENA~~ GDA\u0143SK"
   },
   {
-    "building-type": "Apartamentowiec",
+    "building-type": 5,
     "furnished": true,
     "level": 9,
     "link": "https://www.olx.pl/d/oferta/apartament-nowy-2-pokoje-gdansk-zaspa-wakacje-nadoby-CID3-IDQqLFS.html",
@@ -5216,7 +5216,7 @@
     "title": "Apartament nowy, 2 pokoje - Gda\u0144sk Zaspa / wakacje, nadoby"
   },
   {
-    "building-type": "Blok",
+    "building-type": 4,
     "furnished": true,
     "level": 7,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-nowe-65m2-gdansk-pomorska-wynajem-CID3-IDPITOr.html",
@@ -5232,7 +5232,7 @@
     "title": "mieszkanie NOWE 65m2 Gda\u0144sk Pomorska WYNAJEM"
   },
   {
-    "building-type": "Kamienica",
+    "building-type": 2,
     "furnished": true,
     "level": 0,
     "link": "https://www.olx.pl/d/oferta/nowoczesna-kawalerka-z-antresola-w-centrum-gdanska-okazja-CID3-IDQEPTm.html",
