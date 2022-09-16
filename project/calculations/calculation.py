@@ -1,5 +1,6 @@
 import json
 import pprint
+import pandas as pd
 
 
 def main():
@@ -120,15 +121,25 @@ def get_average_specific_2_keys(
         data, return_key, condition_k1, condition_v1, condition_k2, condition_v2):
     list_of_results = []
     for x in data:
-        print(data)
-        print(x)
-        input()
-    data = dict(data)
-    for listing in data:
-        if listing[condition_k1] == condition_v1 and listing[condition_k2] == condition_v2:
-            list_of_results.append(listing[return_key])
+        data = dict(data)
+        for listing in data:
+            if listing[condition_k1] == condition_v1 and listing[condition_k2] == condition_v2:
+                list_of_results.append(listing[return_key])
     return list_of_results, return_key
 
 
+
 if __name__ == '__main__':
-    main()
+    result = get_result()
+    df = pd.DataFrame(result)
+    result_4_rooms = df[(df["rooms"]==4) & (df["rent-full"]>=4000) ].describe()
+    # result_4_rooms = result_4_rooms.reset_index()
+    print(result_4_rooms.loc["mean"].to_dict())
+    variable_x = result_4_rooms.loc["mean"].reset_index()
+    variable_x.columns=["asd", "3"]
+    variable_y = variable_x.copy()
+    variable_y.columns = ["asd", "4"]
+    # print(variable_y)
+    merge = variable_x.merge(variable_y, how="inner", on=["asd"])
+    print(merge)
+    print((merge["3"] - merge["4"])/merge["3"])
