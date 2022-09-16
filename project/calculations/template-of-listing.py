@@ -1,5 +1,5 @@
 """
-"building-type": ["Blok", "Kamienica", "Dom wolnostojący", "Apartamentowiec"]
+"building-type": [0 = Pozostałe, 1= Dom wolnostojący, 2=Kamienica, 3= Szeregoiwec , 4= Blok , 5= Apartamentowiec]
 "furnished": true, false
 "level": 0-10, if 11 is more than 10, null if no info.
 "link": some link,
