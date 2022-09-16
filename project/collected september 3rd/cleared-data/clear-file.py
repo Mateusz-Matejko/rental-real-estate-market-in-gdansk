@@ -1,15 +1,25 @@
 import json
 
-with open("../../calculations/sep3.json", "r") as json_file:
+with open("cleared-data-3sep.json", "r") as json_file:
     data = json.load(json_file)
 
-number = 1
 for listing in data:
-    listing["listing_no"] = number
-    number += 1
-    # if "level" not in listing:
-    #     print(listing)
-    print(listing)
+    x = listing["building-type"]
+    if x == "Blok":
+        listing["building-type"] = 4
+    elif x == "Apartamentowiec":
+        listing["building-type"] = 5
+    elif x == "Kamienica":
+        listing["building-type"] = 2
+    elif x == "Dom wolnostojący":
+        listing["building-type"] = 1
+    elif x == "Szeregowiec":
+        listing["building-type"] = 3
+    elif x == "Pozostałe":
+        listing["building-type"] = 0
+    elif x not in [0, 1, 2, 3, 4, 5]:
+        print(listing["building-type"])
+        input()
 
 
 try:
