@@ -90,7 +90,7 @@ def average_decorator(base_func):
 
 
 def get_result():
-    with open("sep3.json", "r") as file:
+    with open("../sep3.json", "r") as file:
         result = json.load(file)
     return result
 
