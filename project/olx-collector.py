@@ -1,5 +1,7 @@
 import json
 import pprint
+import sys
+
 from selenium import webdriver
 import time
 from selenium.webdriver.common.by import By
@@ -99,6 +101,7 @@ def current_site_operation():
         except:
             save_collected_data()
             finish()
+            break
 
 
 def iteration_and_window_handle(links_from_current_site):
@@ -162,7 +165,7 @@ def get_from_olx():
 
 
 def save_collected_data():
-    with open("collected september 11th/original-data/original-data-10.json", "a") as json_file:
+    with open("collected september 19th/original-data/original-data-19.json", "w") as json_file:
         json.dump(listings, json_file, indent=2)
 
 
@@ -173,6 +176,7 @@ def finish():
     data_finish = datetime.now()
     time = data_finish - data_start
     print(f"[{time.seconds}s]")
+    sys.exit()
 
 
 if __name__ == '__main__':
