@@ -1,10 +1,9 @@
 """
-Creation of data:
-
-"building-type": ["Blok", "Kamienica", "Dom wolnostojący", "Apartamentowiec"]
+Creation of data
+"building-type": [0 = Pozostałe, 1= Dom wolnostojący, 2=Kamienica, 3= Szeregoiwec , 4= Blok , 5= Apartamentowiec, 6= Loft]
 "furnished": true, false
-"level": 0-10, if 11 level is higher than 10, None if no info.
-"link": listing link,
+"level": 0-10, if 11 is more than 10, null if no info.
+"link": some link,
 "listing_no": number of listing,
 "negotiable": true, false
 "private": true, false
@@ -12,30 +11,42 @@ Creation of data:
 "rent": standard price,
 "rent-extra": shared rent,
 "rent-full": full-rent,
-"rooms": 1-3, 4 if is 4 or more.
-"surface": square meters
+"rooms": 1-3, if 4 is 4 or more.
+"surface": in square meters
 "title": "Title of listing"
 """
 
-"""
-Procedure of cleaning: All in
-1. STRIP IT
-1. "rent", "negotiable"
-2. Listing clear/ keys / negotiable/ private
-3. level, rent-full, private, rent-extra
-4. furnished, surface, rooms
-5. counter, repetition
-6. Publish date
-"""
-
-#DETAILED
-
+# import json
+#
+# filename = "sep19.json"
+# day_of_collecting = 19
+# month_of_collecting = 9
+# yeare_of_collecting = 2022
+#
+# with open(filename, "r") as file:
+#     result = json.load(file)
+#
+# # 0. Delete duplicates
+# while True:
+#     links = []
+#     before = len(result)
+#     print(before)
+#     for listing in result:
+#         if listing["link"] in links:
+#             result.remove(listing)
+#         else:
+#             links.append(listing["link"])
+#     after = len(result)
+#     print(after)
+#     if before == after:
+#         break
+#
 # # 1. STRIP IT
 # for listing in result:
-#     for key,v in listing.items():
+#     for key, v in listing.items():
 #         if type(v) == str:
 #             listing[key] = listing[key].strip()
-
+#
 # # 2. "rent", "negotiable"
 # for listing in result:
 #     if "do negocjacji" in listing["rent"]:
@@ -44,10 +55,10 @@ Procedure of cleaning: All in
 #         listing["negotiable"] = False
 #     listing["rent"] = listing["rent"].rstrip("do negocjacji").strip()
 #     listing["rent"] = listing["rent"].rstrip("zł").strip()
-#     listing["rent"] = listing["rent"].replace(" ","")
+#     listing["rent"] = listing["rent"].replace(" ", "")
 #     listing["rent"] = int(listing["rent"])
 #     print(listing["rent"])
-
+#
 # # 3. Listing clear/ keys / negotiable/ private
 # for listing in result:
 #     if "Poziom" not in listing:
@@ -63,10 +74,10 @@ Procedure of cleaning: All in
 #     listing["private"] = listing.pop("Prywatne")
 #     if "Firmowe" in listing:
 #         del listing["Firmowe"]
-
+#
 # # 4. level, rent-full, private, rent-extra
 # for listing in result:
-#     listing["rent-extra"] = listing["rent-extra"].split("zł")[0].strip().replace(" ","").replace(",",".")
+#     listing["rent-extra"] = listing["rent-extra"].split("zł")[0].strip().replace(" ", "").replace(",", ".")
 #     listing["rent-extra"] = int(round(float(listing["rent-extra"])))
 #     listing["rent-full"] = listing["rent-extra"] + listing["rent"]
 #     if listing["private"] == "Tak":
@@ -83,7 +94,7 @@ Procedure of cleaning: All in
 #         listing["level"] = int(listing["level"])
 #     except:
 #         print(listing["level"])
-
+#
 # # 5. furnished, surface, rooms
 # for listing in result:
 #     if listing["furnished"] == "Tak":
@@ -92,24 +103,11 @@ Procedure of cleaning: All in
 #         listing["rooms"] = "1"
 #     listing["rooms"] = listing["rooms"].split(" ")[0]
 #     listing["rooms"] = int(listing["rooms"])
-#     listing["surface"] = listing["surface"].split(" ")[0].replace(",",".")
+#     listing["surface"] = listing["surface"].split(" ")[0].replace(",", ".")
 #     listing["surface"] = int(round(float(listing["surface"])))
 #     print(listing["surface"])
-
-# # 6. counter, repetition
-# counter = 0
-# links = []
 #
-# for listing in result:
-#     if listing["link"] in links:
-#         del listing
-#         continue
-#     links.append(listing["link"])
-#     counter += 1
-#     listing["listing_no"] = counter
-#     print(listing["listing_no"])
-
-# # 7. Publish date
+# # 6. Publish date
 # for listing in result:
 #     try:
 #         day, month, year = listing["publish-date"].split(" ")
@@ -119,8 +117,45 @@ Procedure of cleaning: All in
 #             month = 8
 #         elif month == "września":
 #             month = 9
+#         elif month == "października":
+#             month = 10
 #     except ValueError:
-#         day = 11
-#         month = 9
-#         year = 2022
+#         day = day_of_collecting
+#         month = month_of_collecting
+#         year = yeare_of_collecting
 #     listing["publish-date"] = f"{year:02}-{month:02}-{day:02}"
+#
+# # 7. Building type
+# for listing in result:
+#     x = listing["building-type"]
+#     if x == "Blok":
+#         listing["building-type"] = 4
+#     elif x == "Apartamentowiec":
+#         listing["building-type"] = 5
+#     elif x == "Kamienica":
+#         listing["building-type"] = 2
+#     elif x == "Dom wolnostojący":
+#         listing["building-type"] = 1
+#     elif x == "Szeregowiec":
+#         listing["building-type"] = 3
+#     elif x == "Pozostałe":
+#         listing["building-type"] = 0
+#     elif x == "Loft":
+#         listing["building-type"] = 6
+#     elif x not in [0, 1, 2, 3, 4, 5, 6]:
+#         print(listing["building-type"])
+#         input()
+#
+# # 8. Counter
+# counter = 1
+# for listing in result:
+#     listing["listing_no"] = counter
+#     counter += 1
+#
+# try:
+#     with open(filename, "w") as file:
+#         json.dump(result, file, indent=2, sort_keys=True)
+#     print("Success")
+# except:
+#     print("Failed")
+#
