@@ -1,27 +1,10 @@
-"""
-Creation of data
-"building-type": [0 = Pozostałe, 1= Dom wolnostojący, 2=Kamienica, 3= Szeregoiwec , 4= Blok , 5= Apartamentowiec, 6= Loft]
-"furnished": true, false
-"level": 0-10, if 11 is more than 10, null if no info.
-"link": some link,
-"listing_no": number of listing,
-"negotiable": true, false
-"private": true, false
-"publish-date": "YYYY-MM-DD",
-"rent": standard price,
-"rent-extra": shared rent,
-"rent-full": full-rent,
-"rooms": 1-3, if 4 is 4 or more.
-"surface": in square meters
-"title": "Title of listing"
-"""
-
 # import json
 #
-# filename = "sep19.json"
-# day_of_collecting = 19
-# month_of_collecting = 9
-# yeare_of_collecting = 2022
+# filename = ""
+# day_of_collecting =
+# month_of_collecting =
+# yeare_of_collecting =
+# collection_set =
 #
 # with open(filename, "r") as file:
 #     result = json.load(file)
@@ -109,6 +92,7 @@ Creation of data
 #
 # # 6. Publish date
 # for listing in result:
+#     listing["colection_set"] = collection_set
 #     try:
 #         day, month, year = listing["publish-date"].split(" ")
 #         day = int(day)
@@ -119,6 +103,8 @@ Creation of data
 #             month = 9
 #         elif month == "października":
 #             month = 10
+#         elif month == "listopada":
+#             month = 11
 #     except ValueError:
 #         day = day_of_collecting
 #         month = month_of_collecting
@@ -128,21 +114,23 @@ Creation of data
 # # 7. Building type
 # for listing in result:
 #     x = listing["building-type"]
-#     if x == "Blok":
+#     if x == "Pozostałe":
+#         listing["building-type"] = 0
+#     elif x == "Dom wolnostojący":
+#         listing["building-type"] = 1
+#     elif x == "Kamienica":
+#         listing["building-type"] = 2
+#     elif x == "Szeregowiec":
+#         listing["building-type"] = 3
+#     elif x == "Blok":
 #         listing["building-type"] = 4
 #     elif x == "Apartamentowiec":
 #         listing["building-type"] = 5
-#     elif x == "Kamienica":
-#         listing["building-type"] = 2
-#     elif x == "Dom wolnostojący":
-#         listing["building-type"] = 1
-#     elif x == "Szeregowiec":
-#         listing["building-type"] = 3
-#     elif x == "Pozostałe":
-#         listing["building-type"] = 0
 #     elif x == "Loft":
 #         listing["building-type"] = 6
-#     elif x not in [0, 1, 2, 3, 4, 5, 6]:
+#     elif x == "Suterena":
+#         listing["building-type"] = 7
+#     elif x not in [0, 1, 2, 3, 4, 5, 6, 7]:
 #         print(listing["building-type"])
 #         input()
 #
@@ -158,3 +146,35 @@ Creation of data
 #     print("Success")
 # except:
 #     print("Failed")
+#
+# # 9. Listing keys changed to splitted with _
+# for listing in result:
+#     listing["publish_date"] = listing.pop("publish-date")
+#     listing["building_type"] = listing.pop("building-type")
+#     listing["rent_extra"] = listing.pop("rent-extra")
+#     listing["rent_full"] = listing.pop("rent-full")
+#
+# try:
+#     with open(filename, "w") as file:
+#         json.dump(result, file, indent=2, sort_keys=True)
+#     print("Success")
+# except:
+#     print("Failed")
+
+"""
+Creation of data
+"building-type": [0 = Pozostałe, 1= Dom wolnostojący, 2=Kamienica, 3= Szeregoiwec , 4= Blok , 5= Apartamentowiec, 6= Loft, 7= Suterena]
+"furnished": true, false
+"level": 0-10, if 11 is more than 10, null if no info.
+"link": some link,
+"listing_no": number of listing,
+"negotiable": true, false
+"private": true, false
+"publish-date": "YYYY-MM-DD",
+"rent": standard price,
+"rent-extra": shared rent,
+"rent-full": full-rent,
+"rooms": 1-3, if 4 is 4 or more.
+"surface": in square meters
+"title": "Title of listing"
+"""
