@@ -1,6 +1,6 @@
 import json
 
-filename = "../../calculations/sep11.json"
+filename = "../../../calculations/sep11.json"
 day_of_collecting = 11
 month_of_collecting = 9
 yeare_of_collecting = 2022
