@@ -1991,7 +1991,7 @@
   {
     "building_type": 4,
     "collection_date": "2022-09-03",
-    "furnished": "Nie",
+    "furnished": false,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-gdansk-strzyza-vii-dwor-wrzeszcz-oliwa-35m2-CID3-IDQIS57.html",
     "listing_no": 118,
@@ -4677,7 +4677,7 @@
   {
     "building_type": 5,
     "collection_date": "2022-09-11",
-    "furnished": "Nie",
+    "furnished": false,
     "level": 6,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-44m-przymorze-CID3-IDQMFhd.html",
     "listing_no": 276,
@@ -4796,7 +4796,7 @@
   {
     "building_type": 4,
     "collection_date": "2022-09-11",
-    "furnished": "Nie",
+    "furnished": false,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/wynajme-2-pokojowe-mieszkanie-ok-50-m2-gdansk-CID3-IDQKjrV.html",
     "listing_no": 283,
@@ -5221,7 +5221,7 @@
   {
     "building_type": 4,
     "collection_date": "2022-09-11",
-    "furnished": "Nie",
+    "furnished": false,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-na-wynajem-gdansk-strzyza-vii-dwor-wrzeszcz-oliwa-35m2-CID3-IDQIS57.html",
     "listing_no": 308,
@@ -8026,7 +8026,7 @@
   {
     "building_type": 0,
     "collection_date": "2022-09-19",
-    "furnished": "Nie",
+    "furnished": false,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/wynajme-kawalerke-gdansk-zabianka-CID3-IDKnC9m.html",
     "listing_no": 473,
@@ -8162,7 +8162,7 @@
   {
     "building_type": 4,
     "collection_date": "2022-09-19",
-    "furnished": "Nie",
+    "furnished": false,
     "level": 7,
     "link": "https://www.olx.pl/d/oferta/mieszkanie-3-pokojowe-CID3-IDQTySd.html",
     "listing_no": 481,
@@ -9012,7 +9012,7 @@
   {
     "building_type": 4,
     "collection_date": "2022-09-19",
-    "furnished": "Nie",
+    "furnished": false,
     "level": 1,
     "link": "https://www.olx.pl/d/oferta/wynajme-2-pokojowe-mieszkanie-ok-50-m2-gdansk-CID3-IDQKjrV.html",
     "listing_no": 531,
@@ -15642,7 +15642,7 @@
   {
     "building_type": 0,
     "collection_date": "2022-09-26",
-    "furnished": "Nie",
+    "furnished": false,
     "level": 2,
     "link": "https://www.olx.pl/d/oferta/wynajme-kawalerke-gdansk-zabianka-CID3-IDKnC9m.html",
     "listing_no": 921,
