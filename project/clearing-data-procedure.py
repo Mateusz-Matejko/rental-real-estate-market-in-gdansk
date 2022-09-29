@@ -4,6 +4,7 @@
 # day_of_collecting =
 # month_of_collecting =
 # yeare_of_collecting =
+# collection_set =
 #
 # with open(filename, "r") as file:
 #     result = json.load(file)
@@ -91,6 +92,7 @@
 #
 # # 6. Publish date
 # for listing in result:
+#     listing["colection_set"] = collection_set
 #     try:
 #         day, month, year = listing["publish-date"].split(" ")
 #         day = int(day)
