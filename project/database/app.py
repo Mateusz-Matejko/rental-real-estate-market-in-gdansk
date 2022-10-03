@@ -5,7 +5,7 @@ from datetime import datetime
 from flask_alembic import Alembic
 
 app = Flask(__name__)
-app.config["SQLALCHEMY_DATABASE_URI"] = "sqlite:///listing.db"
+app.config["SQLALCHEMY_DATABASE_URI"] = "sqlite:///Listing.db"
 app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
 db = SQLAlchemy(app)
 
@@ -15,7 +15,7 @@ class Listing(db.Model):
     building_type = db.Column(db.Integer, nullable=False)
     furnished = db.Column(db.Boolean, nullable=False)
     level = db.Column(db.Integer, nullable=True)
-    link = db.Column(db.String, nullable=False)
+    link = db.Column(db.String, nullable=False, unique=False)
     listing_no = db.Column(db.Integer, nullable=False)
     negotiable = db.Column(db.Boolean, nullable=False)
     private = db.Column(db.Boolean, nullable=False)

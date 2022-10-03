@@ -5,6 +5,7 @@ pairs = [
     {"file1": "sep3.json", "file2": "sep11.json", "file2_date": "2022-09-11"},
     {"file1": "sep11.json", "file2": "sep19.json", "file2_date": "2022-09-19"},
     {"file1": "sep19.json", "file2": "sep26.json", "file2_date": "2022-09-26"},
+    {"file1": "sep26.json", "file2": "oct3.json", "file2_date": "2022-10-03"}
 ]
 
 for pair in pairs:
