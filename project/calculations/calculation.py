@@ -7,14 +7,14 @@ def main():
     all_results = get_results()
     for listing in all_results:
         for k, v in listing.items():
+            # clear the nan
             if type(v) == float:
                 listing[k] = None
-                print(v)
-    write_results_write(destination_file="all-results-data.json", results=all_results)
+    write_results_write(destination_file="average-results.json", results=all_results)
 
 
 def get_results():
-    list_of_base_files = ["sep3.json", "sep11.json", "sep19.json", "sep26.json", "all-data-unfiltered.json"]
+    list_of_base_files = ["sep3.json", "sep11.json", "sep19.json", "sep26.json", "oct3.json", "all-data-filtered.json"]
     all_results = []
     for file in list_of_base_files:
         result_partial = {}
@@ -43,7 +43,9 @@ def get_results():
             result_partial.update({"collection_date": "2022-09-19"})
         elif file == "sep26.json":
             result_partial.update({"collection_date": "2022-09-26"})
-        elif file == "all-data-unfiltered.json":
+        elif file == "oct3.json":
+            result_partial.update({"collection_date": "2022-10-03"})
+        elif file == "all-data-filtered.json":
             result_partial.update({"collection_date": "all_data_average"})
         all_results.append(result_partial)
     return all_results
