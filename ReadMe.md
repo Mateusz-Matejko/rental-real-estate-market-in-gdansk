@@ -32,4 +32,3 @@ With all the data collectted than and help of Pandas python library i am analysi
 
 ## Author
 [Mateusz-Matejko](https://github.com/Mateusz-Matejko)
-
