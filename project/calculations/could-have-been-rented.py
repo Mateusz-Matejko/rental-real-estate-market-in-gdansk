@@ -13,14 +13,22 @@ pairs = [
     [
         {"file1": "sep11.json", "file1_date": "2022-09-11", "file2": "sep19.json", "file2_date": "2022-09-19", "days": 8},
         {"file1": "sep11.json", "file1_date": "2022-09-11", "file2": "sep26.json", "file2_date": "2022-09-26", "days": 15},
-        {"file1": "sep11.json", "file1_date": "2022-09-11", "file2": "oct3.json", "file2_date": "2022-10-03", "days": 22},]
+        {"file1": "sep11.json", "file1_date": "2022-09-11", "file2": "oct3.json", "file2_date": "2022-10-03", "days": 22},
+    ],
+    # [
+    #     {"file1": "sep19.json", "file1_date": "2022-09-19", "file2": "sep26.json", "file2_date": "2022-09-26", "days": 7},
+    #     {"file1": "sep19.json", "file1_date": "2022-09-19", "file2": "oct3.json", "file2_date": "2022-10-03", "days": 14},
+    #     {"file1": "sep19.json", "file1_date": "2022-09-19", "file2": "oct10.json", "file2_date": "2022-10-10", "days": 21},
+    # ]
+        ]
 
-    # {"file1": "sep3.json", "file2": "sep11.json", "file2_date": "2022-09-11", "days":},
-    # {"file1": "sep3.json", "file2": "sep11.json", "file2_date": "2022-09-11", "days":},
-    # {"file1": "sep11.json", "file2": "sep19.json", "file2_date": "2022-09-19"},
-    # {"file1": "sep19.json", "file2": "sep26.json", "file2_date": "2022-09-26"},
-    # {"file1": "sep26.json", "file2": "oct3.json", "file2_date": "2022-10-03"}
-]
+
+# {"file1": "sep3.json", "file2": "sep11.json", "file2_date": "2022-09-11", "days":},
+# {"file1": "sep3.json", "file2": "sep11.json", "file2_date": "2022-09-11", "days":},
+# {"file1": "sep11.json", "file2": "sep19.json", "file2_date": "2022-09-19"},
+# {"file1": "sep19.json", "file2": "sep26.json", "file2_date": "2022-09-26"},
+# {"file1": "sep26.`json", "file2": "oct3.json", "file2_date": "2022-10-03"}`
+
 
 # get info specific from dictionary
 for inside in pairs:
@@ -61,6 +69,8 @@ for inside in pairs:
 
         rented = possible_counter - no_rented
 
+        print()
+        print(f"For data collected in {pair['file1_date']}")
         print(f"Could have been rented in {days} days: {possible_counter}")
         print(f"Haven't been rented {days} days: {no_rented}, {get_percentage(no_rented, possible_counter)}")
         print(f"Successfully rented in {days} days: {rented}, {get_percentage(rented, possible_counter)}")
