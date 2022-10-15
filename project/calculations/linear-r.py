@@ -1,15 +1,11 @@
 import json
 import pprint
-import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 from sklearn import metrics
 
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import r2_score
-
-from plotnine import ggplot, aes, geom_point, geom_line
-from plotnine.themes import theme_minimal
 
 
 def main():
@@ -42,8 +38,8 @@ def linear_r_model():
     ds = pd.DataFrame(dataset)
     df = ds[["rent", "rooms"]]
     print(ds.describe())
-    y = ds.rent
-    X = ds[["rooms"]]
+    y = ds.rooms
+    X = ds[["rent"]]
     model_lr = LinearRegression()
     model_lr.fit(X, y)
 
@@ -67,7 +63,6 @@ def linear_r_model():
     print(ds.describe())
     ds[["rent", "rooms"]].plot.scatter(x="rooms", y="rent")
     ds[["fitted", "rooms"]].plot.scatter(x="rooms", y="fitted", color="r")
-    plt.show()
     # print(ggplot(aes("rooms", "rent"), df)\
     #     + geom_point(alpha=0.5, color="#2c3e50")\
     #     + geom_line(aes(y="fitted"), color="blue")\
