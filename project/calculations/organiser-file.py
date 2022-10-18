@@ -23,7 +23,7 @@ def main():
 
 
 def set_all_data_filtered_file():
-    list_of_file = ["sep3.json", "sep11.json", "sep19.json", "sep26.json", "oct3.json"]
+    list_of_file = ["sep3.json", "sep11.json", "sep19.json", "sep26.json", "oct3.json", "oct11.json"]
     direction_file = "average-results.json"
     past_links = []
     all_results = []
@@ -53,7 +53,7 @@ def set_all_data_filtered_file():
 
 
 def set_all_data_unfiltered_file():
-    list_of_file = ["sep3.json", "sep11.json", "sep19.json", "sep26.json", "oct3.json"]
+    list_of_file = ["sep3.json", "sep11.json", "sep19.json", "sep26.json", "oct3.json", "oct11.json"]
     direction_file = "all-data-unfiltered.json.json"
     all_results = []
     for file in list_of_file:

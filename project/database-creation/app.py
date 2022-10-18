@@ -4,7 +4,9 @@ from flask_sqlalchemy import SQLAlchemy
 from datetime import datetime
 from flask_alembic import Alembic
 
+
 app = Flask(__name__)
+app.app_context()
 app.config["SQLALCHEMY_DATABASE_URI"] = "sqlite:///Listing.db"
 app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
 db = SQLAlchemy(app)
