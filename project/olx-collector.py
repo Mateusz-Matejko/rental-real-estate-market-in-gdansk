@@ -72,7 +72,7 @@ def early_steps():
 
 def current_site_operation():
     # waiting for site to load up
-    time.sleep(3)
+    time.sleep(9)
     # !! __NEXT PAGE__ !!
     # classify the html position for next page button
     next_page = driver.find_element(By.CLASS_NAME, "pagination-list")\
@@ -165,7 +165,7 @@ def get_from_olx():
 
 
 def save_collected_data():
-    with open("collected in history/collected september 26th/original-data/original-data-26.json", "w") as json_file:
+    with open("collected in history/collected october 18th/original-data/collected-october-18th", "w") as json_file:
         json.dump(listings, json_file, indent=2)
 
 
