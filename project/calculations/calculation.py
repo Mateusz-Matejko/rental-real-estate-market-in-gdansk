@@ -1,5 +1,4 @@
 import json
-import pprint
 import pandas as pd
 
 
@@ -14,7 +13,8 @@ def main():
 
 
 def get_results():
-    list_of_base_files = ["sep3.json", "sep11.json", "sep19.json", "sep26.json", "oct3.json", "all-data-filtered.json"]
+    list_of_base_files = ["sep3.json", "sep11.json", "sep19.json", "sep26.json", "oct3.json", "oct11.json",
+                          "all-data-filtered.json"]
     all_results = []
     for file in list_of_base_files:
         result_partial = {}
@@ -45,6 +45,8 @@ def get_results():
             result_partial.update({"collection_date": "2022-09-26"})
         elif file == "oct3.json":
             result_partial.update({"collection_date": "2022-10-03"})
+        elif file == "oct11.json":
+            result_partial.update({"collection_date": "2022-10-11"})
         elif file == "all-data-filtered.json":
             result_partial.update({"collection_date": "all_data_average"})
         all_results.append(result_partial)

@@ -1,5 +1,6 @@
 """
-"building-type": [0 = Pozostałe, 1= Dom wolnostojący, 2=Kamienica, 3= Szeregoiwec , 4= Blok , 5= Apartamentowiec, 6= Loft]
+Creation of data
+"building-type": [0 = Pozostałe, 1= Dom wolnostojący, 2=Kamienica, 3= Szeregoiwec , 4= Blok , 5= Apartamentowiec, 6= Loft, 7= Suterena]
 "furnished": true, false
 "level": 0-10, if 11 is more than 10, null if no info.
 "link": some link,
@@ -11,6 +12,7 @@
 "rent-extra": shared rent,
 "rent-full": full-rent,
 "rooms": 1-3, if 4 is 4 or more.
-"surface": square meters
+"surface": in square meters
 "title": "Title of listing"
+"collection_set": [ 1=sep3, 2=sep11, 3=sep19, 4=sep26, 5=oct3, 6=oct11 ]
 """

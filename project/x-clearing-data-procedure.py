@@ -1,10 +1,10 @@
 import json
 
-filename = "cleared-data-11oct-backup.json"
-day_of_collecting = 11
-month_of_collecting = 10
-year_of_collecting = 2022
-collection_set = 6
+filename =
+day_of_collecting =
+month_of_collecting =
+year_of_collecting =
+collection_set =
 
 with open(filename, "r") as file:
     result = json.load(file)
@@ -73,10 +73,13 @@ for listing in result:
         listing["level"] = "0"
     elif listing["level"] == "Powyżej 10":
         listing["level"] = "11"
+    elif listing["level"] == "Poddasze":
+        listing["level"] = "4"
     try:
         listing["level"] = int(listing["level"])
     except:
         print(listing["level"])
+        input("level problem -> line 82 ")
 
 # 5. furnished, surface, rooms
 for listing in result:
@@ -134,7 +137,7 @@ for listing in result:
         listing["building-type"] = 7
     elif x not in [0, 1, 2, 3, 4, 5, 6, 7]:
         print(listing["building-type"])
-        input()
+        input("Building type problem, line -> 140")
 
 # 8. Counter
 counter = 1
@@ -142,12 +145,6 @@ for listing in result:
     listing["listing_no"] = counter
     counter += 1
 
-try:
-    with open(filename, "w") as file:
-        json.dump(result, file, indent=2, sort_keys=True)
-    print("Success")
-except:
-    print("Failed")
 
 # 9. Listing keys changed to splitted with _
 for listing in result:
@@ -156,9 +153,12 @@ for listing in result:
     listing["rent_extra"] = listing.pop("rent-extra")
     listing["rent_full"] = listing.pop("rent-full")
 
+
 try:
     with open(filename, "w") as file:
         json.dump(result, file, indent=2, sort_keys=True)
     print("Success")
 except:
     print("Failed")
+
+

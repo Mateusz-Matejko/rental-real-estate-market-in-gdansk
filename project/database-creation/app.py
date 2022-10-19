@@ -4,6 +4,7 @@ from flask_sqlalchemy import SQLAlchemy
 from datetime import datetime
 from flask_alembic import Alembic
 
+
 app = Flask(__name__)
 app.config["SQLALCHEMY_DATABASE_URI"] = "sqlite:///Listing.db"
 app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
@@ -37,7 +38,9 @@ class Listing(db.Model):
         return f"{self.id}: {self.surface}, {self.rent_full}"
 
 
-db.create_all()
+with app.app_context():
+    db.create_all()
+
 alembic = Alembic()
 alembic.init_app(app)
 

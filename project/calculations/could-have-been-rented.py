@@ -15,12 +15,13 @@ pairs = [
         {"file1": "sep11.json", "file1_date": "2022-09-11", "file2": "sep26.json", "file2_date": "2022-09-26", "days": 15},
         {"file1": "sep11.json", "file1_date": "2022-09-11", "file2": "oct3.json", "file2_date": "2022-10-03", "days": 22},
     ],
-    # [
-    #     {"file1": "sep19.json", "file1_date": "2022-09-19", "file2": "sep26.json", "file2_date": "2022-09-26", "days": 7},
-    #     {"file1": "sep19.json", "file1_date": "2022-09-19", "file2": "oct3.json", "file2_date": "2022-10-03", "days": 14},
-    #     {"file1": "sep19.json", "file1_date": "2022-09-19", "file2": "oct10.json", "file2_date": "2022-10-10", "days": 21},
-    # ]
+    [
+        {"file1": "sep19.json", "file1_date": "2022-09-19", "file2": "sep26.json", "file2_date": "2022-09-26", "days": 7},
+        {"file1": "sep19.json", "file1_date": "2022-09-19", "file2": "oct3.json", "file2_date": "2022-10-03", "days": 14},
+        {"file1": "sep19.json", "file1_date": "2022-09-19", "file2": "oct11.json", "file2_date": "2022-10-10", "days": 22},
+    ]
         ]
+
 
 
 # {"file1": "sep3.json", "file2": "sep11.json", "file2_date": "2022-09-11", "days":},
