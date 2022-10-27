@@ -46,7 +46,7 @@ def linear_r_model():
         # model_df = model_df[(model_df.surface < 20) & (model_df.surface > 0)]
         for cs in range(1, 7):
             model_df = df
-            # model_df = df[df.rooms == i]
+            model_df = df[df.building_type == 5]
             model_df = model_df[model_df.collection_set == cs]
             model_df = model_df[[given_variable, trying_to_predict_variable]]
             # print(model_df.describe())
@@ -62,9 +62,9 @@ def linear_r_model():
             # print("model_lr.intercept_: ", end="")
             # print(model_lr.intercept_)
 
-            # # predictions
-            # print("model_lr.predict: ", end="")
-            # print(model_lr.predict(model_df[[given_variable]]))
+            # predictions
+            print("model_lr.predict: ", end="")
+            print(model_lr.predict(model_df[[given_variable]]))
 
             # Variance explained
             print(f"r2 score for rooms: {i} and collection_set: {cs} = ", end="")

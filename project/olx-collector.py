@@ -165,7 +165,7 @@ def get_from_olx():
 
 
 def save_collected_data():
-    with open("collected in history/collected october 18th/original-data/collected-october-18th", "w") as json_file:
+    with open("collected27oct.json", "w") as json_file:
         json.dump(listings, json_file, indent=2)
 
 
