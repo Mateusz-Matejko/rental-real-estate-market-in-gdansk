@@ -82,7 +82,7 @@ def current_site_operation():
     # make sure site is loaded
     time.sleep(3)
     # classify the link part of offers
-    offers = driver.find_elements(By.CLASS_NAME, "css-19ucd76")
+    offers = driver.find_elements(By.CLASS_NAME, "css-rc5s2u")
     # create list of links
     links_from_current_site = []
     time.sleep(3)
@@ -165,7 +165,7 @@ def get_from_olx():
 
 
 def save_collected_data():
-    with open("collected in history/collected november 3rd/original-data/original-data-3nov.json", "w") as json_file:
+    with open("asdasdsaffsfgasga.json", "w") as json_file:
         json.dump(listings, json_file, indent=2)
 
 

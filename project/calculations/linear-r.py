@@ -9,7 +9,7 @@ import pandas as pd
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import r2_score
 
-
+# sciezka absolutna - plik nie bedzie dziala
 with open("/Users/mateusz/Documents/Code/Final-Project/project/calculations/sample_cleared_results.json", "r") as f:
     result = json.load(f)
 
