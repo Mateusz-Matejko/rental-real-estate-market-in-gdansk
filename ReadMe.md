@@ -1,8 +1,5 @@
 # Rental real estate market analysis
 
-* [1- Data collection -> October '22](#1--data-collection---october-22)
-
-
 I have chosen to undertake this project on the rental real estate market in Gdansk due to my keen <br> 
 interest in the subject. This is an exciting time to conduct this analysis, as during data collection stage <br>
 there was a high degree of fluctuation in rental prices due to the large student population in the city and <br> 
@@ -117,15 +114,41 @@ To create the database, I will follow the following steps:
 - Verifying the Data - perform basic checks to verify that the data has been imported correctly into the database tables.
 
 
-## 3) Analysis Stage 1 - November 22 
-### /stage finished -> awaiting description
-#### Method: Removing duplicate <br> Tool: Python, Scikit-learn 
+## 3) Analysis Stage 1 - November 22
+### Method: Removing duplicate and outliers, getting to know the data and pre-analysis of rental opportunities.
+<br> Tools: Python (pandas, numpy) 
 
-Description: <br>
+The "Removing Duplicate and Outliers, Getting to Know the Data" stage of data pre-processing is crucial to ensuring 
+the accuracy and reliability of the data used in further analysis. The goal of this stage is to remove any duplicate
+data points and outlier data points, and to explore the dataset to gain insights into its characteristics. Additionally,
+in pre-analysis stage i identified periods of time in witch a rental could have occurred but did not.
+
+The tools used in this stage include Python, specifically the libraries Pandas and Numpy. Pandas is a data manipulation 
+library that provides easy-to-use data structures and data analysis tools, while Numpy is a library for numerical 
+computing in Python.
+
+Steps:
+1) Load the dataset into a Pandas DataFrame using the appropriate function depending on the format of your data.
+2) Check the shape of the dataset using the shape attribute of the DataFrame.
+3) Check for duplicates using the duplicated method of the DataFrame, and remove duplicate rows using the drop_duplicates
+method.
+4) Check for outliers in each column of the dataset using statistical methods from Numpy or Pandas.
+5) Remove outliers by filtering the DataFrame based on a threshold value for each column.
+6) Identify any gaps in the rental periods where a rental should have occurred but did not, and mark these periods 
+as possible rental opportunities.
+7) Explore the dataset further to gain insights into its characteristics, such as the distribution of values in 
+each column and the relationships between columns.
+
+<i> Conclusion:
+Removing duplicate and outlier data points and exploring the dataset can help to ensure the accuracy and reliability 
+of the data used in further analysis. Additionally, identifying possible rental opportunities can provide valuable 
+insights for a business. This stage of data pre-processing is critical to the success of any data analysis project, 
+and Python libraries such as Pandas and Numpy are powerful tools that can simplify the process.</i>
+
 
 ## 4) Analysis Stage 2 - April to May 23
-### in progress 
-#### Method: Removing duplicate <br> Tool: Selenium library 
+### in progress... 
+#### Method: Random Forest Algorithm. 
 
 Description: <br>
 
