@@ -1,60 +1,53 @@
 import json
+import pprint
 
-original_file_paths = [
-
-#september
-    "time-series-and-original-data/collected-september-3rd/original-data/original-data-sep3.json",
-    "time-series-and-original-data/collected-september-11th/original-data/original-data-sep11.json",
-    "time-series-and-original-data/collected-september-19th/original-data/original-data-sep19.json",
-    "time-series-and-original-data/collected-september-26th/original-data/original-data-sep26.json",
-
-#october
-    "time-series-and-original-data/collected-october-3rd/original-data/original-data-oct3.json",
-    "time-series-and-original-data/collected-october-11th/original-data/original-data-oct11.json",
-    "time-series-and-original-data/collected-october-20th/original-data/original-data-oct20.json",
-    "time-series-and-original-data/collected-october-27th/original-data/original-data-oct27.json",
-
-#november
-    "time-series-and-original-data/collected-november-3rd/original-data/original-data-nov3.json",
+all_data_paths_by_dict = [
+    {"month": "sep", "day":"3",   "month_int": 9, "collection_set": 1},
+    {"month": "sep", "day": "11", "month_int": 9,"collection_set": 2},
+    {"month": "sep", "day": "19", "month_int": 9,"collection_set": 3},
+    {"month": "sep", "day": "26", "month_int": 9,"collection_set": 4},
+    {"month": "oct", "day": "3",  "month_int": 10,"collection_set": 5},
+    {"month": "oct", "day": "11", "month_int": 10,"collection_set": 6},
+    {"month": "oct", "day": "20", "month_int": 10,"collection_set": 7},
+    {"month": "oct", "day": "27", "month_int": 10,"collection_set": 8},
+    {"month": "nov", "day": "3",  "month_int": 9,"collection_set": 9},
 ]
 
-destination_file_paths = [
-
-#september
-    "time-series-and-original-data/collected-september-3rd/cleared-data/cleared-data-sep3.json",
-    "time-series-and-original-data/collected-september-11th/cleared-data/cleared-data-sep11.json",
-    "time-series-and-original-data/collected-september-19th/cleared-data/cleared-data-sep19.json",
-    "time-series-and-original-data/collected-september-26th/cleared-data/cleared-data-sep26.json",
-
-#october
-    "time-series-and-original-data/collected-october-3rd/cleared-data/cleared-data-oct3.json",
-    "time-series-and-original-data/collected-october-11th/cleared-data/cleared-data-oct11.json",
-    "time-series-and-original-data/collected-october-20th/cleared-data/cleared-data-oct20.json",
-    "time-series-and-original-data/collected-october-27th/cleared-data/cleared-data-oct27.json",
-
-#november
-    "time-series-and-original-data/collected-november-3rd/cleared-data/cleared-data-nov3.json",
-]
 
 def main():
-        filepath_raw_input = "original-data-oct20.json"
-        filepath_cleaned_output = "xxxxxxx.json"
-        day_of_collecting = 1111
-        month_of_collecting = 22222
-        year_of_collecting = 33333
-        collection_set = 444444
 
-        # read cleaned data
-        print(filepath_raw_input)
-        result = read_write_data(filepath=filepath_raw_input)
+    # created universal path to cover all data clearing with loop
+    for key in all_data_paths_by_dict:
+
+        # get month and day from dict to use it in path
+        month_str = key["month"]
+        day_str = key["day"]
+
+        # create raw data filepath witch schema
+        filepath_raw_input = f"time-series-and-original-data/collected-{month_str}-{day_str}/original-data/" \
+                             f"original-data-{month_str}{day_str}.json"
+
+        # create cleaned data filepath with schema
+        filepath_cleaned_output = f"time-series-and-original-data/collected-{month_str}-{day_str}/cleared-data/" \
+                                  f"cleared-data-{month_str}-{day_str}.json"
+
+        # get data to future cleaning
+        day_of_collecting = int(day_str)
+        month_of_collecting = key["month_int"]
+        year_of_collecting = 2022
+        collection_set = key["collection_set"]
+
+        # read raw data
+        result = read_raw_data(filepath=filepath_raw_input)
 
         # delete duplicate values
         result = step_0_delete_duplicates(result)
 
-        counter = 1
+        counter = 0
         for listing in result:
             # handle clearing of:
                 # listing_no, collection_set,
+            counter += 1
             step_1_strip_data_and_handle_listing_no_collection_set(listing=listing,
                                                                    counter = counter,
                                                                    collection_set = collection_set)
@@ -73,7 +66,7 @@ def main():
         step_5_write_cleared_file(file_path=filepath_cleaned_output, result=result)
 
 
-def read_write_data(filepath):
+def read_raw_data(filepath):
     # get the raw data to perform data cleaning
     with open(file= filepath, mode="r") as file:
         result = json.load(file)
@@ -93,7 +86,6 @@ def step_1_strip_data_and_handle_listing_no_collection_set(listing, counter, col
 
 # listing_no variable handling
     listing["listing_no"] = counter
-    counter += 1
 
 # collection_set variable handling
     listing["collection_set"] = collection_set
@@ -109,6 +101,7 @@ def step_2_handle_negotiable_furnished_publish_date(listing,
                                                      year_of_collecting):
 
 # negotiable variable handling
+    pprint.pprint(listing)
     if "do negocjacji" in listing["rent"]:
         listing["negotiable"] = True
     else:
@@ -140,6 +133,8 @@ def step_2_handle_negotiable_furnished_publish_date(listing,
         listing["level"] = "0"
     elif listing["level"] == "Powyżej 10":
         listing["level"] = "11"
+    elif listing["level"] == "Suterena":
+        listing["level"] = "0"
     try:
         if listing["level"] is None:
             listing["level"] = None
@@ -206,11 +201,13 @@ def step_4_handle_building_type_private_seller(listing):
         "Apartamentowiec": 5,
         "Loft": 6,
         "Suterena": 7}
-    listing["building_type"] = building_type_dictionary[listing["building_type"]]
+    try:
+        listing["building_type"] = building_type_dictionary[listing["building_type"]]
 # Check if building type is valid
-    if listing["building_type"] is str:
-        print(listing["building_type"])
-        input("Unrecognized building type: ")
+    except:
+        if listing["building_type"] not in building_type_dictionary:
+            print(listing["building_type"])
+            input("Unrecognized building type: ")
 
 # private_seller handling & cleaning
     if "Prywatne" in listing.keys():
