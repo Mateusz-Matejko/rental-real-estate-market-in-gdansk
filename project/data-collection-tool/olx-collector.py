@@ -9,7 +9,7 @@ from datetime import datetime
 
 data_start = datetime.now()
 # Step 0 - define path and driver
-path = "/Users/mateusz/Documents/Code/related/chromedriver"
+path = "../../external-software/chromedriver"
 driver = webdriver.Chrome(path)
 
 # Step 1 - get to site
